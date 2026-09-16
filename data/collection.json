@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 2,
-  "updatedAt": "2026-09-16T01:41:59.106Z",
+  "totalPulls": 3,
+  "updatedAt": "2026-09-16T01:46:22.775Z",
   "lastPull": {
-    "id": 543,
-    "name": "venipede",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+    "id": 252,
+    "name": "treecko",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
     "types": [
-      "bug",
-      "poison"
+      "grass"
     ],
-    "totalStats": 260,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-09-16T01:41:59.106Z"
+    "pulledAt": "2026-09-16T01:46:22.775Z"
   },
   "pulls": [
+    {
+      "id": 252,
+      "name": "treecko",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:46:22.775Z"
+    },
     {
       "id": 543,
       "name": "venipede",
@@ -40,6 +50,21 @@
     }
   ],
   "pokemon": {
+    "252": {
+      "id": 252,
+      "name": "treecko",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:46:22.775Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:46:22.775Z",
+      "lastPulledAt": "2026-09-16T01:46:22.775Z"
+    },
     "311": {
       "id": 311,
       "name": "plusle",

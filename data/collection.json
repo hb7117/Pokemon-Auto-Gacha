@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 8,
-  "updatedAt": "2026-09-16T01:53:03.758Z",
+  "totalPulls": 9,
+  "updatedAt": "2026-09-16T01:54:32.762Z",
   "lastPull": {
-    "id": 644,
-    "name": "zekrom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+    "id": 559,
+    "name": "scraggy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
     "types": [
-      "dragon",
-      "electric"
+      "dark",
+      "fighting"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-09-16T01:53:03.758Z"
+    "totalStats": 348,
+    "grade": "N",
+    "pulledAt": "2026-09-16T01:54:32.762Z"
   },
   "pulls": [
+    {
+      "id": 559,
+      "name": "scraggy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:54:32.762Z"
+    },
     {
       "id": 644,
       "name": "zekrom",
@@ -183,6 +195,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:41:59.106Z",
       "lastPulledAt": "2026-09-16T01:41:59.106Z"
+    },
+    "559": {
+      "id": 559,
+      "name": "scraggy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:54:32.762Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:54:32.762Z",
+      "lastPulledAt": "2026-09-16T01:54:32.762Z"
     },
     "574": {
       "id": 574,

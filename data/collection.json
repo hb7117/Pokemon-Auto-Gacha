@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 9,
-  "updatedAt": "2026-09-16T01:54:32.762Z",
+  "totalPulls": 10,
+  "updatedAt": "2026-09-16T06:42:27.006Z",
   "lastPull": {
-    "id": 559,
-    "name": "scraggy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+    "id": 834,
+    "name": "drednaw",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
     "types": [
-      "dark",
-      "fighting"
+      "water",
+      "rock"
     ],
-    "totalStats": 348,
-    "grade": "N",
-    "pulledAt": "2026-09-16T01:54:32.762Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-09-16T06:42:27.006Z"
   },
   "pulls": [
+    {
+      "id": 834,
+      "name": "drednaw",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-16T06:42:27.006Z"
+    },
     {
       "id": 559,
       "name": "scraggy",
@@ -242,6 +254,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:53:03.758Z",
       "lastPulledAt": "2026-09-16T01:53:03.758Z"
+    },
+    "834": {
+      "id": 834,
+      "name": "drednaw",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-16T06:42:27.006Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T06:42:27.006Z",
+      "lastPulledAt": "2026-09-16T06:42:27.006Z"
     },
     "986": {
       "id": 986,

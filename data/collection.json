@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 3,
-  "updatedAt": "2026-09-16T01:46:22.775Z",
+  "totalPulls": 4,
+  "updatedAt": "2026-09-16T01:47:01.502Z",
   "lastPull": {
-    "id": 252,
-    "name": "treecko",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+    "id": 264,
+    "name": "linoone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
     "types": [
-      "grass"
+      "normal"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-09-16T01:46:22.775Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-09-16T01:47:01.502Z"
   },
   "pulls": [
+    {
+      "id": 264,
+      "name": "linoone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:47:01.502Z"
+    },
     {
       "id": 252,
       "name": "treecko",
@@ -64,6 +75,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:46:22.775Z",
       "lastPulledAt": "2026-09-16T01:46:22.775Z"
+    },
+    "264": {
+      "id": 264,
+      "name": "linoone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:47:01.502Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:47:01.502Z",
+      "lastPulledAt": "2026-09-16T01:47:01.502Z"
     },
     "311": {
       "id": 311,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 1,
-  "updatedAt": "2026-09-16T01:40:31.446Z",
+  "totalPulls": 2,
+  "updatedAt": "2026-09-16T01:41:59.106Z",
   "lastPull": {
-    "id": 311,
-    "name": "plusle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/311.png",
+    "id": 543,
+    "name": "venipede",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
     "types": [
-      "electric"
+      "bug",
+      "poison"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:40:31.446Z"
+    "totalStats": 260,
+    "grade": "N",
+    "pulledAt": "2026-09-16T01:41:59.106Z"
   },
   "pulls": [
+    {
+      "id": 543,
+      "name": "venipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:41:59.106Z"
+    },
     {
       "id": 311,
       "name": "plusle",
@@ -41,6 +54,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:40:31.446Z",
       "lastPulledAt": "2026-09-16T01:40:31.446Z"
+    },
+    "543": {
+      "id": 543,
+      "name": "venipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:41:59.106Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:41:59.106Z",
+      "lastPulledAt": "2026-09-16T01:41:59.106Z"
     }
   },
   "typeTotals": {

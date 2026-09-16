@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 4,
-  "updatedAt": "2026-09-16T01:47:01.502Z",
+  "totalPulls": 5,
+  "updatedAt": "2026-09-16T01:47:40.787Z",
   "lastPull": {
-    "id": 264,
-    "name": "linoone",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
+    "id": 986,
+    "name": "brute-bonnet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
     "types": [
-      "normal"
+      "grass",
+      "dark"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:47:01.502Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-16T01:47:40.787Z"
   },
   "pulls": [
+    {
+      "id": 986,
+      "name": "brute-bonnet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:47:40.787Z"
+    },
     {
       "id": 264,
       "name": "linoone",
@@ -121,6 +134,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:41:59.106Z",
       "lastPulledAt": "2026-09-16T01:41:59.106Z"
+    },
+    "986": {
+      "id": 986,
+      "name": "brute-bonnet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:47:40.787Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:47:40.787Z",
+      "lastPulledAt": "2026-09-16T01:47:40.787Z"
     }
   },
   "typeTotals": {

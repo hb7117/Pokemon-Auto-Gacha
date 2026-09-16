@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 12,
-  "updatedAt": "2026-09-16T17:05:47.487Z",
+  "totalPulls": 13,
+  "updatedAt": "2026-09-16T20:04:49.878Z",
   "lastPull": {
-    "id": 459,
-    "name": "snover",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
+    "id": 517,
+    "name": "munna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
     "types": [
-      "grass",
-      "ice"
+      "psychic"
     ],
-    "totalStats": 334,
+    "totalStats": 292,
     "grade": "N",
-    "pulledAt": "2026-09-16T17:05:47.487Z"
+    "pulledAt": "2026-09-16T20:04:49.878Z"
   },
   "pulls": [
+    {
+      "id": 517,
+      "name": "munna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 292,
+      "grade": "N",
+      "pulledAt": "2026-09-16T20:04:49.878Z"
+    },
     {
       "id": 459,
       "name": "snover",
@@ -119,17 +129,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-16T01:47:01.502Z"
-    },
-    {
-      "id": 252,
-      "name": "treecko",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:46:22.775Z"
     }
   ],
   "pokemon": {
@@ -208,6 +207,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T17:05:47.487Z",
       "lastPulledAt": "2026-09-16T17:05:47.487Z"
+    },
+    "517": {
+      "id": 517,
+      "name": "munna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 292,
+      "grade": "N",
+      "pulledAt": "2026-09-16T20:04:49.878Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T20:04:49.878Z",
+      "lastPulledAt": "2026-09-16T20:04:49.878Z"
     },
     "543": {
       "id": 543,

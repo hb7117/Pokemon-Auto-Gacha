@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 5,
-  "updatedAt": "2026-09-16T01:47:40.787Z",
+  "totalPulls": 6,
+  "updatedAt": "2026-09-16T01:48:22.169Z",
   "lastPull": {
-    "id": 986,
-    "name": "brute-bonnet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
+    "id": 37,
+    "name": "vulpix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
     "types": [
-      "grass",
-      "dark"
+      "fire"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-16T01:47:40.787Z"
+    "totalStats": 299,
+    "grade": "N",
+    "pulledAt": "2026-09-16T01:48:22.169Z"
   },
   "pulls": [
+    {
+      "id": 37,
+      "name": "vulpix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 299,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:48:22.169Z"
+    },
     {
       "id": 986,
       "name": "brute-bonnet",
@@ -74,6 +84,21 @@
     }
   ],
   "pokemon": {
+    "37": {
+      "id": 37,
+      "name": "vulpix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 299,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:48:22.169Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:48:22.169Z",
+      "lastPulledAt": "2026-09-16T01:48:22.169Z"
+    },
     "252": {
       "id": 252,
       "name": "treecko",

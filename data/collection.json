@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 11,
-  "updatedAt": "2026-09-16T12:10:30.211Z",
+  "totalPulls": 12,
+  "updatedAt": "2026-09-16T17:05:47.487Z",
   "lastPull": {
-    "id": 989,
-    "name": "sandy-shocks",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
+    "id": 459,
+    "name": "snover",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
     "types": [
-      "electric",
-      "ground"
+      "grass",
+      "ice"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-16T12:10:30.211Z"
+    "totalStats": 334,
+    "grade": "N",
+    "pulledAt": "2026-09-16T17:05:47.487Z"
   },
   "pulls": [
+    {
+      "id": 459,
+      "name": "snover",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "totalStats": 334,
+      "grade": "N",
+      "pulledAt": "2026-09-16T17:05:47.487Z"
+    },
     {
       "id": 989,
       "name": "sandy-shocks",
@@ -118,18 +130,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-09-16T01:46:22.775Z"
-    },
-    {
-      "id": 543,
-      "name": "venipede",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 260,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:41:59.106Z"
     }
   ],
   "pokemon": {
@@ -192,6 +192,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:40:31.446Z",
       "lastPulledAt": "2026-09-16T01:40:31.446Z"
+    },
+    "459": {
+      "id": 459,
+      "name": "snover",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "totalStats": 334,
+      "grade": "N",
+      "pulledAt": "2026-09-16T17:05:47.487Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T17:05:47.487Z",
+      "lastPulledAt": "2026-09-16T17:05:47.487Z"
     },
     "543": {
       "id": 543,

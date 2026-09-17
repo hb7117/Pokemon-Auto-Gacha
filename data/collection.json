@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 15,
-  "updatedAt": "2026-09-17T01:04:55.864Z",
+  "totalPulls": 16,
+  "updatedAt": "2026-09-17T06:05:59.008Z",
   "lastPull": {
-    "id": 151,
-    "name": "mew",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+    "id": 558,
+    "name": "crustle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
     "types": [
-      "psychic"
+      "bug",
+      "rock"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-17T01:04:55.864Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-09-17T06:05:59.008Z"
   },
   "pulls": [
+    {
+      "id": 558,
+      "name": "crustle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-17T06:05:59.008Z"
+    },
     {
       "id": 151,
       "name": "mew",
@@ -118,17 +131,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-16T01:49:38.787Z"
-    },
-    {
-      "id": 37,
-      "name": "vulpix",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 299,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:48:22.169Z"
     }
   ],
   "pokemon": {
@@ -269,6 +271,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:53:38.733Z",
       "lastPulledAt": "2026-09-16T22:53:38.733Z"
+    },
+    "558": {
+      "id": 558,
+      "name": "crustle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-17T06:05:59.008Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T06:05:59.008Z",
+      "lastPulledAt": "2026-09-17T06:05:59.008Z"
     },
     "559": {
       "id": 559,

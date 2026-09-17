@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 17,
-  "updatedAt": "2026-09-17T11:35:00.943Z",
+  "totalPulls": 18,
+  "updatedAt": "2026-09-17T15:38:34.006Z",
   "lastPull": {
-    "id": 156,
-    "name": "quilava",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
+    "id": 576,
+    "name": "gothitelle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
     "types": [
-      "fire"
+      "psychic"
     ],
-    "totalStats": 405,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-09-17T11:35:00.943Z"
+    "pulledAt": "2026-09-17T15:38:34.006Z"
   },
   "pulls": [
+    {
+      "id": 576,
+      "name": "gothitelle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-17T15:38:34.006Z"
+    },
     {
       "id": 156,
       "name": "quilava",
@@ -118,18 +129,6 @@
       "totalStats": 348,
       "grade": "N",
       "pulledAt": "2026-09-16T01:54:32.762Z"
-    },
-    {
-      "id": 644,
-      "name": "zekrom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
-      "types": [
-        "dragon",
-        "electric"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-09-16T01:53:03.758Z"
     }
   ],
   "pokemon": {
@@ -332,6 +331,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:49:38.787Z",
       "lastPulledAt": "2026-09-16T01:49:38.787Z"
+    },
+    "576": {
+      "id": 576,
+      "name": "gothitelle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-17T15:38:34.006Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T15:38:34.006Z",
+      "lastPulledAt": "2026-09-17T15:38:34.006Z"
     },
     "644": {
       "id": 644,

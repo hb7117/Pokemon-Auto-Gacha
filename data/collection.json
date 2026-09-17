@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 16,
-  "updatedAt": "2026-09-17T06:05:59.008Z",
+  "totalPulls": 17,
+  "updatedAt": "2026-09-17T11:35:00.943Z",
   "lastPull": {
-    "id": 558,
-    "name": "crustle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
+    "id": 156,
+    "name": "quilava",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
     "types": [
-      "bug",
-      "rock"
+      "fire"
     ],
-    "totalStats": 485,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-09-17T06:05:59.008Z"
+    "pulledAt": "2026-09-17T11:35:00.943Z"
   },
   "pulls": [
+    {
+      "id": 156,
+      "name": "quilava",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-17T11:35:00.943Z"
+    },
     {
       "id": 558,
       "name": "crustle",
@@ -120,17 +130,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-09-16T01:53:03.758Z"
-    },
-    {
-      "id": 574,
-      "name": "gothita",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:49:38.787Z"
     }
   ],
   "pokemon": {
@@ -163,6 +162,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T01:04:55.864Z",
       "lastPulledAt": "2026-09-17T01:04:55.864Z"
+    },
+    "156": {
+      "id": 156,
+      "name": "quilava",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-17T11:35:00.943Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T11:35:00.943Z",
+      "lastPulledAt": "2026-09-17T11:35:00.943Z"
     },
     "252": {
       "id": 252,

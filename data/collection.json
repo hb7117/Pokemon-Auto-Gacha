@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 27,
-  "updatedAt": "2026-09-18T21:54:59.460Z",
+  "totalPulls": 28,
+  "updatedAt": "2026-09-18T23:52:17.777Z",
   "lastPull": {
-    "id": 518,
-    "name": "musharna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+    "id": 603,
+    "name": "eelektrik",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
     "types": [
-      "psychic"
+      "electric"
     ],
-    "totalStats": 487,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-09-18T21:54:59.460Z"
+    "pulledAt": "2026-09-18T23:52:17.777Z"
   },
   "pulls": [
+    {
+      "id": 603,
+      "name": "eelektrik",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-18T23:52:17.777Z"
+    },
     {
       "id": 518,
       "name": "musharna",
@@ -117,17 +128,6 @@
       "totalStats": 338,
       "grade": "N",
       "pulledAt": "2026-09-17T19:15:42.541Z"
-    },
-    {
-      "id": 576,
-      "name": "gothitelle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-17T15:38:34.006Z"
     }
   ],
   "pokemon": {
@@ -439,6 +439,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T15:38:34.006Z",
       "lastPulledAt": "2026-09-17T15:38:34.006Z"
+    },
+    "603": {
+      "id": 603,
+      "name": "eelektrik",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-18T23:52:17.777Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T23:52:17.777Z",
+      "lastPulledAt": "2026-09-18T23:52:17.777Z"
     },
     "644": {
       "id": 644,

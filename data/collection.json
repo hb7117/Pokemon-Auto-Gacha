@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 22,
-  "updatedAt": "2026-09-18T04:59:26.388Z",
+  "totalPulls": 23,
+  "updatedAt": "2026-09-18T09:35:19.192Z",
   "lastPull": {
-    "id": 213,
-    "name": "shuckle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+    "id": 1023,
+    "name": "iron-crown",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
     "types": [
-      "bug",
-      "rock"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 505,
+    "totalStats": 590,
     "grade": "SR",
-    "pulledAt": "2026-09-18T04:59:26.388Z"
+    "pulledAt": "2026-09-18T09:35:19.192Z"
   },
   "pulls": [
+    {
+      "id": 1023,
+      "name": "iron-crown",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T09:35:19.192Z"
+    },
     {
       "id": 213,
       "name": "shuckle",
@@ -117,17 +129,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-09-16T22:53:38.733Z"
-    },
-    {
-      "id": 517,
-      "name": "munna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 292,
-      "grade": "N",
-      "pulledAt": "2026-09-16T20:04:49.878Z"
     }
   ],
   "pokemon": {
@@ -471,6 +472,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T12:10:30.211Z",
       "lastPulledAt": "2026-09-16T12:10:30.211Z"
+    },
+    "1023": {
+      "id": 1023,
+      "name": "iron-crown",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T09:35:19.192Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T09:35:19.192Z",
+      "lastPulledAt": "2026-09-18T09:35:19.192Z"
     }
   },
   "typeTotals": {

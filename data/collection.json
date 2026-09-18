@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 26,
-  "updatedAt": "2026-09-18T19:43:12.505Z",
+  "totalPulls": 27,
+  "updatedAt": "2026-09-18T21:54:59.460Z",
   "lastPull": {
-    "id": 122,
-    "name": "mr-mime",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+    "id": 518,
+    "name": "musharna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
     "types": [
-      "psychic",
-      "fairy"
+      "psychic"
     ],
-    "totalStats": 460,
+    "totalStats": 487,
     "grade": "R",
-    "pulledAt": "2026-09-18T19:43:12.505Z"
+    "pulledAt": "2026-09-18T21:54:59.460Z"
   },
   "pulls": [
+    {
+      "id": 518,
+      "name": "musharna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 487,
+      "grade": "R",
+      "pulledAt": "2026-09-18T21:54:59.460Z"
+    },
     {
       "id": 122,
       "name": "mr-mime",
@@ -118,17 +128,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-09-17T15:38:34.006Z"
-    },
-    {
-      "id": 156,
-      "name": "quilava",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-09-17T11:35:00.943Z"
     }
   ],
   "pokemon": {
@@ -331,6 +330,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T20:04:49.878Z",
       "lastPulledAt": "2026-09-16T20:04:49.878Z"
+    },
+    "518": {
+      "id": 518,
+      "name": "musharna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 487,
+      "grade": "R",
+      "pulledAt": "2026-09-18T21:54:59.460Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T21:54:59.460Z",
+      "lastPulledAt": "2026-09-18T21:54:59.460Z"
     },
     "543": {
       "id": 543,

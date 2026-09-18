@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 24,
-  "updatedAt": "2026-09-18T13:47:51.500Z",
+  "totalPulls": 25,
+  "updatedAt": "2026-09-18T17:16:55.344Z",
   "lastPull": {
-    "id": 656,
-    "name": "froakie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+    "id": 303,
+    "name": "mawile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
     "types": [
-      "water"
+      "steel",
+      "fairy"
     ],
-    "totalStats": 314,
+    "totalStats": 380,
     "grade": "N",
-    "pulledAt": "2026-09-18T13:47:51.500Z"
+    "pulledAt": "2026-09-18T17:16:55.344Z"
   },
   "pulls": [
+    {
+      "id": 303,
+      "name": "mawile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 380,
+      "grade": "N",
+      "pulledAt": "2026-09-18T17:16:55.344Z"
+    },
     {
       "id": 656,
       "name": "froakie",
@@ -116,17 +129,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-17T06:05:59.008Z"
-    },
-    {
-      "id": 151,
-      "name": "mew",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-17T01:04:55.864Z"
     }
   ],
   "pokemon": {
@@ -251,6 +253,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:01.502Z",
       "lastPulledAt": "2026-09-16T01:47:01.502Z"
+    },
+    "303": {
+      "id": 303,
+      "name": "mawile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 380,
+      "grade": "N",
+      "pulledAt": "2026-09-18T17:16:55.344Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T17:16:55.344Z",
+      "lastPulledAt": "2026-09-18T17:16:55.344Z"
     },
     "311": {
       "id": 311,

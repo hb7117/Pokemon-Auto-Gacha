@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 31,
-  "updatedAt": "2026-09-19T12:26:57.109Z",
+  "totalPulls": 32,
+  "updatedAt": "2026-09-19T15:59:57.696Z",
   "lastPull": {
-    "id": 486,
-    "name": "regigigas",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+    "id": 415,
+    "name": "combee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
     "types": [
-      "normal"
+      "bug",
+      "flying"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-09-19T12:26:57.109Z"
+    "totalStats": 244,
+    "grade": "N",
+    "pulledAt": "2026-09-19T15:59:57.696Z"
   },
   "pulls": [
+    {
+      "id": 415,
+      "name": "combee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 244,
+      "grade": "N",
+      "pulledAt": "2026-09-19T15:59:57.696Z"
+    },
     {
       "id": 486,
       "name": "regigigas",
@@ -116,18 +129,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-09-18T09:35:19.192Z"
-    },
-    {
-      "id": 213,
-      "name": "shuckle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
-      "types": [
-        "bug",
-        "rock"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T04:59:26.388Z"
     }
   ],
   "pokemon": {
@@ -315,6 +316,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:40:31.446Z",
       "lastPulledAt": "2026-09-16T01:40:31.446Z"
+    },
+    "415": {
+      "id": 415,
+      "name": "combee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 244,
+      "grade": "N",
+      "pulledAt": "2026-09-19T15:59:57.696Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T15:59:57.696Z",
+      "lastPulledAt": "2026-09-19T15:59:57.696Z"
     },
     "459": {
       "id": 459,

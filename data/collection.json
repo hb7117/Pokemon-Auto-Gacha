@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 29,
-  "updatedAt": "2026-09-19T03:07:48.061Z",
+  "totalPulls": 30,
+  "updatedAt": "2026-09-19T07:59:35.497Z",
   "lastPull": {
-    "id": 227,
-    "name": "skarmory",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+    "id": 502,
+    "name": "dewott",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
     "types": [
-      "steel",
-      "flying"
+      "water"
     ],
-    "totalStats": 465,
+    "totalStats": 413,
     "grade": "R",
-    "pulledAt": "2026-09-19T03:07:48.061Z"
+    "pulledAt": "2026-09-19T07:59:35.497Z"
   },
   "pulls": [
+    {
+      "id": 502,
+      "name": "dewott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 413,
+      "grade": "R",
+      "pulledAt": "2026-09-19T07:59:35.497Z"
+    },
     {
       "id": 227,
       "name": "skarmory",
@@ -119,17 +129,6 @@
       "totalStats": 390,
       "grade": "N",
       "pulledAt": "2026-09-18T00:25:18.086Z"
-    },
-    {
-      "id": 173,
-      "name": "cleffa",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 218,
-      "grade": "N",
-      "pulledAt": "2026-09-17T22:14:57.380Z"
     }
   ],
   "pokemon": {
@@ -333,6 +332,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T17:05:47.487Z",
       "lastPulledAt": "2026-09-16T17:05:47.487Z"
+    },
+    "502": {
+      "id": 502,
+      "name": "dewott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 413,
+      "grade": "R",
+      "pulledAt": "2026-09-19T07:59:35.497Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T07:59:35.497Z",
+      "lastPulledAt": "2026-09-19T07:59:35.497Z"
     },
     "517": {
       "id": 517,

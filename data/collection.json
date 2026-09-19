@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 32,
-  "updatedAt": "2026-09-19T15:59:57.696Z",
+  "totalPulls": 33,
+  "updatedAt": "2026-09-19T18:33:24.356Z",
   "lastPull": {
-    "id": 415,
-    "name": "combee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
+    "id": 1002,
+    "name": "chien-pao",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
     "types": [
-      "bug",
-      "flying"
+      "dark",
+      "ice"
     ],
-    "totalStats": 244,
-    "grade": "N",
-    "pulledAt": "2026-09-19T15:59:57.696Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-19T18:33:24.356Z"
   },
   "pulls": [
+    {
+      "id": 1002,
+      "name": "chien-pao",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T18:33:24.356Z"
+    },
     {
       "id": 415,
       "name": "combee",
@@ -117,18 +129,6 @@
       "totalStats": 314,
       "grade": "N",
       "pulledAt": "2026-09-18T13:47:51.500Z"
-    },
-    {
-      "id": 1023,
-      "name": "iron-crown",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T09:35:19.192Z"
     }
   ],
   "pokemon": {
@@ -611,6 +611,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T12:10:30.211Z",
       "lastPulledAt": "2026-09-16T12:10:30.211Z"
+    },
+    "1002": {
+      "id": 1002,
+      "name": "chien-pao",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T18:33:24.356Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T18:33:24.356Z",
+      "lastPulledAt": "2026-09-19T18:33:24.356Z"
     },
     "1023": {
       "id": 1023,

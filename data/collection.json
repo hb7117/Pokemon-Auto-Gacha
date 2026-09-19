@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 33,
-  "updatedAt": "2026-09-19T18:33:24.356Z",
+  "totalPulls": 34,
+  "updatedAt": "2026-09-19T20:58:25.695Z",
   "lastPull": {
-    "id": 1002,
-    "name": "chien-pao",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
+    "id": 175,
+    "name": "togepi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png",
     "types": [
-      "dark",
-      "ice"
+      "fairy"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-19T18:33:24.356Z"
+    "totalStats": 245,
+    "grade": "N",
+    "pulledAt": "2026-09-19T20:58:25.695Z"
   },
   "pulls": [
+    {
+      "id": 175,
+      "name": "togepi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-09-19T20:58:25.695Z"
+    },
     {
       "id": 1002,
       "name": "chien-pao",
@@ -118,17 +128,6 @@
       "totalStats": 380,
       "grade": "N",
       "pulledAt": "2026-09-18T17:16:55.344Z"
-    },
-    {
-      "id": 656,
-      "name": "froakie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 314,
-      "grade": "N",
-      "pulledAt": "2026-09-18T13:47:51.500Z"
     }
   ],
   "pokemon": {
@@ -223,6 +222,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T22:14:57.380Z",
       "lastPulledAt": "2026-09-17T22:14:57.380Z"
+    },
+    "175": {
+      "id": 175,
+      "name": "togepi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-09-19T20:58:25.695Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T20:58:25.695Z",
+      "lastPulledAt": "2026-09-19T20:58:25.695Z"
     },
     "213": {
       "id": 213,

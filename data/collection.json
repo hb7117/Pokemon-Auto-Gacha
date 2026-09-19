@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 28,
-  "updatedAt": "2026-09-18T23:52:17.777Z",
+  "totalPulls": 29,
+  "updatedAt": "2026-09-19T03:07:48.061Z",
   "lastPull": {
-    "id": 603,
-    "name": "eelektrik",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+    "id": 227,
+    "name": "skarmory",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
     "types": [
-      "electric"
+      "steel",
+      "flying"
     ],
-    "totalStats": 405,
+    "totalStats": 465,
     "grade": "R",
-    "pulledAt": "2026-09-18T23:52:17.777Z"
+    "pulledAt": "2026-09-19T03:07:48.061Z"
   },
   "pulls": [
+    {
+      "id": 227,
+      "name": "skarmory",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-09-19T03:07:48.061Z"
+    },
     {
       "id": 603,
       "name": "eelektrik",
@@ -117,17 +130,6 @@
       "totalStats": 218,
       "grade": "N",
       "pulledAt": "2026-09-17T22:14:57.380Z"
-    },
-    {
-      "id": 739,
-      "name": "crabrawler",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 338,
-      "grade": "N",
-      "pulledAt": "2026-09-17T19:15:42.541Z"
     }
   ],
   "pokemon": {
@@ -238,6 +240,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T04:59:26.388Z",
       "lastPulledAt": "2026-09-18T04:59:26.388Z"
+    },
+    "227": {
+      "id": 227,
+      "name": "skarmory",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-09-19T03:07:48.061Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T03:07:48.061Z",
+      "lastPulledAt": "2026-09-19T03:07:48.061Z"
     },
     "252": {
       "id": 252,

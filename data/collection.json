@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 35,
-  "updatedAt": "2026-09-19T22:50:20.173Z",
+  "totalPulls": 36,
+  "updatedAt": "2026-09-20T00:38:26.579Z",
   "lastPull": {
-    "id": 595,
-    "name": "joltik",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
+    "id": 121,
+    "name": "starmie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
     "types": [
-      "bug",
-      "electric"
+      "water",
+      "psychic"
     ],
-    "totalStats": 319,
-    "grade": "N",
-    "pulledAt": "2026-09-19T22:50:20.173Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-09-20T00:38:26.579Z"
   },
   "pulls": [
+    {
+      "id": 121,
+      "name": "starmie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T00:38:26.579Z"
+    },
     {
       "id": 595,
       "name": "joltik",
@@ -117,18 +129,6 @@
       "totalStats": 487,
       "grade": "R",
       "pulledAt": "2026-09-18T21:54:59.460Z"
-    },
-    {
-      "id": 122,
-      "name": "mr-mime",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-18T19:43:12.505Z"
     }
   ],
   "pokemon": {
@@ -146,6 +146,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:48:22.169Z",
       "lastPulledAt": "2026-09-16T01:48:22.169Z"
+    },
+    "121": {
+      "id": 121,
+      "name": "starmie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T00:38:26.579Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T00:38:26.579Z",
+      "lastPulledAt": "2026-09-20T00:38:26.579Z"
     },
     "122": {
       "id": 122,

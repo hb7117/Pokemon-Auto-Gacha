@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 37,
-  "updatedAt": "2026-09-20T05:24:22.500Z",
+  "totalPulls": 38,
+  "updatedAt": "2026-09-20T09:57:24.214Z",
   "lastPull": {
-    "id": 469,
-    "name": "yanmega",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png",
+    "id": 672,
+    "name": "skiddo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png",
     "types": [
-      "bug",
-      "flying"
+      "grass"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-09-20T05:24:22.500Z"
+    "totalStats": 350,
+    "grade": "N",
+    "pulledAt": "2026-09-20T09:57:24.214Z"
   },
   "pulls": [
+    {
+      "id": 672,
+      "name": "skiddo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-09-20T09:57:24.214Z"
+    },
     {
       "id": 469,
       "name": "yanmega",
@@ -119,17 +129,6 @@
       "totalStats": 465,
       "grade": "R",
       "pulledAt": "2026-09-19T03:07:48.061Z"
-    },
-    {
-      "id": 603,
-      "name": "eelektrik",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-09-18T23:52:17.777Z"
     }
   ],
   "pokemon": {
@@ -612,6 +611,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T13:47:51.500Z",
       "lastPulledAt": "2026-09-18T13:47:51.500Z"
+    },
+    "672": {
+      "id": 672,
+      "name": "skiddo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-09-20T09:57:24.214Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T09:57:24.214Z",
+      "lastPulledAt": "2026-09-20T09:57:24.214Z"
     },
     "739": {
       "id": 739,

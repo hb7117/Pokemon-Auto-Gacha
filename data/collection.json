@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 38,
-  "updatedAt": "2026-09-20T09:57:24.214Z",
+  "totalPulls": 39,
+  "updatedAt": "2026-09-20T14:01:01.220Z",
   "lastPull": {
-    "id": 672,
-    "name": "skiddo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png",
+    "id": 85,
+    "name": "dodrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
     "types": [
-      "grass"
+      "normal",
+      "flying"
     ],
-    "totalStats": 350,
-    "grade": "N",
-    "pulledAt": "2026-09-20T09:57:24.214Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-09-20T14:01:01.220Z"
   },
   "pulls": [
+    {
+      "id": 85,
+      "name": "dodrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-20T14:01:01.220Z"
+    },
     {
       "id": 672,
       "name": "skiddo",
@@ -117,18 +130,6 @@
       "totalStats": 413,
       "grade": "R",
       "pulledAt": "2026-09-19T07:59:35.497Z"
-    },
-    {
-      "id": 227,
-      "name": "skarmory",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
-      "types": [
-        "steel",
-        "flying"
-      ],
-      "totalStats": 465,
-      "grade": "R",
-      "pulledAt": "2026-09-19T03:07:48.061Z"
     }
   ],
   "pokemon": {
@@ -146,6 +147,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:48:22.169Z",
       "lastPulledAt": "2026-09-16T01:48:22.169Z"
+    },
+    "85": {
+      "id": 85,
+      "name": "dodrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-20T14:01:01.220Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T14:01:01.220Z",
+      "lastPulledAt": "2026-09-20T14:01:01.220Z"
     },
     "121": {
       "id": 121,

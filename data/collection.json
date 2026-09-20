@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 39,
-  "updatedAt": "2026-09-20T14:01:01.220Z",
+  "totalPulls": 40,
+  "updatedAt": "2026-09-20T17:26:26.325Z",
   "lastPull": {
-    "id": 85,
-    "name": "dodrio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+    "id": 74,
+    "name": "geodude",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
     "types": [
-      "normal",
-      "flying"
+      "rock",
+      "ground"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-09-20T14:01:01.220Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-09-20T17:26:26.325Z"
   },
   "pulls": [
+    {
+      "id": 74,
+      "name": "geodude",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-20T17:26:26.325Z"
+    },
     {
       "id": 85,
       "name": "dodrio",
@@ -119,17 +131,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-09-19T12:26:57.109Z"
-    },
-    {
-      "id": 502,
-      "name": "dewott",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 413,
-      "grade": "R",
-      "pulledAt": "2026-09-19T07:59:35.497Z"
     }
   ],
   "pokemon": {
@@ -147,6 +148,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:48:22.169Z",
       "lastPulledAt": "2026-09-16T01:48:22.169Z"
+    },
+    "74": {
+      "id": 74,
+      "name": "geodude",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-20T17:26:26.325Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T17:26:26.325Z",
+      "lastPulledAt": "2026-09-20T17:26:26.325Z"
     },
     "85": {
       "id": 85,

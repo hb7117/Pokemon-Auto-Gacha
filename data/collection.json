@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 45,
-  "updatedAt": "2026-09-21T09:07:33.884Z",
+  "totalPulls": 46,
+  "updatedAt": "2026-09-21T15:52:25.487Z",
   "lastPull": {
-    "id": 521,
-    "name": "unfezant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
+    "id": 360,
+    "name": "wynaut",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
     "types": [
-      "normal",
-      "flying"
+      "psychic"
     ],
-    "totalStats": 488,
-    "grade": "R",
-    "pulledAt": "2026-09-21T09:07:33.884Z"
+    "totalStats": 260,
+    "grade": "N",
+    "pulledAt": "2026-09-21T15:52:25.487Z"
   },
   "pulls": [
+    {
+      "id": 360,
+      "name": "wynaut",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-09-21T15:52:25.487Z"
+    },
     {
       "id": 521,
       "name": "unfezant",
@@ -119,18 +129,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-09-20T05:24:22.500Z"
-    },
-    {
-      "id": 121,
-      "name": "starmie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
-      "types": [
-        "water",
-        "psychic"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T00:38:26.579Z"
     }
   ],
   "pokemon": {
@@ -397,6 +395,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:40:31.446Z",
       "lastPulledAt": "2026-09-16T01:40:31.446Z"
+    },
+    "360": {
+      "id": 360,
+      "name": "wynaut",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-09-21T15:52:25.487Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T15:52:25.487Z",
+      "lastPulledAt": "2026-09-21T15:52:25.487Z"
     },
     "415": {
       "id": 415,

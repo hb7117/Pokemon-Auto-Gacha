@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 47,
-  "updatedAt": "2026-09-21T20:15:30.047Z",
+  "totalPulls": 48,
+  "updatedAt": "2026-09-21T23:21:15.462Z",
   "lastPull": {
-    "id": 849,
-    "name": "toxtricity-amped",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+    "id": 424,
+    "name": "ambipom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
     "types": [
-      "electric",
-      "poison"
+      "normal"
     ],
-    "totalStats": 502,
-    "grade": "SR",
-    "pulledAt": "2026-09-21T20:15:30.047Z"
+    "totalStats": 482,
+    "grade": "R",
+    "pulledAt": "2026-09-21T23:21:15.462Z"
   },
   "pulls": [
+    {
+      "id": 424,
+      "name": "ambipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-09-21T23:21:15.462Z"
+    },
     {
       "id": 849,
       "name": "toxtricity-amped",
@@ -119,17 +129,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-09-20T14:01:01.220Z"
-    },
-    {
-      "id": 672,
-      "name": "skiddo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-09-20T09:57:24.214Z"
     }
   ],
   "pokemon": {
@@ -427,6 +426,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T15:59:57.696Z",
       "lastPulledAt": "2026-09-19T15:59:57.696Z"
+    },
+    "424": {
+      "id": 424,
+      "name": "ambipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-09-21T23:21:15.462Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T23:21:15.462Z",
+      "lastPulledAt": "2026-09-21T23:21:15.462Z"
     },
     "459": {
       "id": 459,

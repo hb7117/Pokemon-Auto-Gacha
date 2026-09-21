@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 46,
-  "updatedAt": "2026-09-21T15:52:25.487Z",
+  "totalPulls": 47,
+  "updatedAt": "2026-09-21T20:15:30.047Z",
   "lastPull": {
-    "id": 360,
-    "name": "wynaut",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
+    "id": 849,
+    "name": "toxtricity-amped",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
     "types": [
-      "psychic"
+      "electric",
+      "poison"
     ],
-    "totalStats": 260,
-    "grade": "N",
-    "pulledAt": "2026-09-21T15:52:25.487Z"
+    "totalStats": 502,
+    "grade": "SR",
+    "pulledAt": "2026-09-21T20:15:30.047Z"
   },
   "pulls": [
+    {
+      "id": 849,
+      "name": "toxtricity-amped",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "totalStats": 502,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T20:15:30.047Z"
+    },
     {
       "id": 360,
       "name": "wynaut",
@@ -117,18 +130,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-09-20T09:57:24.214Z"
-    },
-    {
-      "id": 469,
-      "name": "yanmega",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T05:24:22.500Z"
     }
   ],
   "pokemon": {
@@ -752,6 +753,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:42:27.006Z",
       "lastPulledAt": "2026-09-16T06:42:27.006Z"
+    },
+    "849": {
+      "id": 849,
+      "name": "toxtricity-amped",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "totalStats": 502,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T20:15:30.047Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T20:15:30.047Z",
+      "lastPulledAt": "2026-09-21T20:15:30.047Z"
     },
     "918": {
       "id": 918,

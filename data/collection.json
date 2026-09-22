@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 51,
-  "updatedAt": "2026-09-22T12:07:01.846Z",
+  "totalPulls": 52,
+  "updatedAt": "2026-09-22T16:53:47.586Z",
   "lastPull": {
-    "id": 944,
-    "name": "shroodle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+    "id": 135,
+    "name": "jolteon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
     "types": [
-      "poison",
-      "normal"
+      "electric"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-09-22T12:07:01.846Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-09-22T16:53:47.586Z"
   },
   "pulls": [
+    {
+      "id": 135,
+      "name": "jolteon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T16:53:47.586Z"
+    },
     {
       "id": 944,
       "name": "shroodle",
@@ -118,17 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-20T23:50:28.358Z"
-    },
-    {
-      "id": 918,
-      "name": "spidops",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 404,
-      "grade": "R",
-      "pulledAt": "2026-09-20T21:50:12.064Z"
     }
   ],
   "pokemon": {
@@ -210,6 +209,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T19:43:12.505Z",
       "lastPulledAt": "2026-09-18T19:43:12.505Z"
+    },
+    "135": {
+      "id": 135,
+      "name": "jolteon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T16:53:47.586Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T16:53:47.586Z",
+      "lastPulledAt": "2026-09-22T16:53:47.586Z"
     },
     "146": {
       "id": 146,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 48,
-  "updatedAt": "2026-09-21T23:21:15.462Z",
+  "totalPulls": 49,
+  "updatedAt": "2026-09-22T01:43:10.334Z",
   "lastPull": {
-    "id": 424,
-    "name": "ambipom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+    "id": 195,
+    "name": "quagsire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
     "types": [
-      "normal"
+      "water",
+      "ground"
     ],
-    "totalStats": 482,
+    "totalStats": 430,
     "grade": "R",
-    "pulledAt": "2026-09-21T23:21:15.462Z"
+    "pulledAt": "2026-09-22T01:43:10.334Z"
   },
   "pulls": [
+    {
+      "id": 195,
+      "name": "quagsire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-09-22T01:43:10.334Z"
+    },
     {
       "id": 424,
       "name": "ambipom",
@@ -117,18 +130,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-20T17:26:26.325Z"
-    },
-    {
-      "id": 85,
-      "name": "dodrio",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-09-20T14:01:01.220Z"
     }
   ],
   "pokemon": {
@@ -302,6 +303,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T20:58:25.695Z",
       "lastPulledAt": "2026-09-19T20:58:25.695Z"
+    },
+    "195": {
+      "id": 195,
+      "name": "quagsire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-09-22T01:43:10.334Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T01:43:10.334Z",
+      "lastPulledAt": "2026-09-22T01:43:10.334Z"
     },
     "213": {
       "id": 213,

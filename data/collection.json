@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 52,
-  "updatedAt": "2026-09-22T16:53:47.586Z",
+  "totalPulls": 53,
+  "updatedAt": "2026-09-22T20:00:20.796Z",
   "lastPull": {
-    "id": 135,
-    "name": "jolteon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+    "id": 115,
+    "name": "kangaskhan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
     "types": [
-      "electric"
+      "normal"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-09-22T16:53:47.586Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-09-22T20:00:20.796Z"
   },
   "pulls": [
+    {
+      "id": 115,
+      "name": "kangaskhan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-22T20:00:20.796Z"
+    },
     {
       "id": 135,
       "name": "jolteon",
@@ -116,18 +127,6 @@
       "totalStats": 521,
       "grade": "SR",
       "pulledAt": "2026-09-21T03:19:15.077Z"
-    },
-    {
-      "id": 718,
-      "name": "zygarde-50",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
-      "types": [
-        "dragon",
-        "ground"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-20T23:50:28.358Z"
     }
   ],
   "pokemon": {
@@ -177,6 +176,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T14:01:01.220Z",
       "lastPulledAt": "2026-09-20T14:01:01.220Z"
+    },
+    "115": {
+      "id": 115,
+      "name": "kangaskhan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-22T20:00:20.796Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T20:00:20.796Z",
+      "lastPulledAt": "2026-09-22T20:00:20.796Z"
     },
     "121": {
       "id": 121,

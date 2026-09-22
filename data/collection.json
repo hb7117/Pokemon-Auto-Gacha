@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 50,
-  "updatedAt": "2026-09-22T06:49:57.894Z",
+  "totalPulls": 51,
+  "updatedAt": "2026-09-22T12:07:01.846Z",
   "lastPull": {
-    "id": 782,
-    "name": "jangmo-o",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
+    "id": 944,
+    "name": "shroodle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
     "types": [
-      "dragon"
+      "poison",
+      "normal"
     ],
-    "totalStats": 300,
+    "totalStats": 290,
     "grade": "N",
-    "pulledAt": "2026-09-22T06:49:57.894Z"
+    "pulledAt": "2026-09-22T12:07:01.846Z"
   },
   "pulls": [
+    {
+      "id": 944,
+      "name": "shroodle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+      "types": [
+        "poison",
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-09-22T12:07:01.846Z"
+    },
     {
       "id": 782,
       "name": "jangmo-o",
@@ -116,18 +129,6 @@
       "totalStats": 404,
       "grade": "R",
       "pulledAt": "2026-09-20T21:50:12.064Z"
-    },
-    {
-      "id": 146,
-      "name": "moltres",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T19:39:36.406Z"
     }
   ],
   "pokemon": {
@@ -828,6 +829,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T21:50:12.064Z",
       "lastPulledAt": "2026-09-20T21:50:12.064Z"
+    },
+    "944": {
+      "id": 944,
+      "name": "shroodle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+      "types": [
+        "poison",
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-09-22T12:07:01.846Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T12:07:01.846Z",
+      "lastPulledAt": "2026-09-22T12:07:01.846Z"
     },
     "975": {
       "id": 975,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 53,
-  "updatedAt": "2026-09-22T20:00:20.796Z",
+  "totalPulls": 54,
+  "updatedAt": "2026-09-22T22:54:40.897Z",
   "lastPull": {
-    "id": 115,
-    "name": "kangaskhan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "id": 813,
+    "name": "scorbunny",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
     "types": [
-      "normal"
+      "fire"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-22T20:00:20.796Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-09-22T22:54:40.897Z"
   },
   "pulls": [
+    {
+      "id": 813,
+      "name": "scorbunny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-22T22:54:40.897Z"
+    },
     {
       "id": 115,
       "name": "kangaskhan",
@@ -116,17 +127,6 @@
       "totalStats": 488,
       "grade": "R",
       "pulledAt": "2026-09-21T09:07:33.884Z"
-    },
-    {
-      "id": 975,
-      "name": "cetitan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 521,
-      "grade": "SR",
-      "pulledAt": "2026-09-21T03:19:15.077Z"
     }
   ],
   "pokemon": {
@@ -810,6 +810,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:49:57.894Z",
       "lastPulledAt": "2026-09-22T06:49:57.894Z"
+    },
+    "813": {
+      "id": 813,
+      "name": "scorbunny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-22T22:54:40.897Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T22:54:40.897Z",
+      "lastPulledAt": "2026-09-22T22:54:40.897Z"
     },
     "834": {
       "id": 834,

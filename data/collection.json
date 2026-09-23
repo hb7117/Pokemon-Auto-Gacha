@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 59,
-  "updatedAt": "2026-09-23T19:13:09.623Z",
+  "totalPulls": 60,
+  "updatedAt": "2026-09-23T22:21:25.774Z",
   "lastPull": {
-    "id": 516,
-    "name": "simipour",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+    "id": 470,
+    "name": "leafeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
     "types": [
-      "water"
+      "grass"
     ],
-    "totalStats": 498,
-    "grade": "R",
-    "pulledAt": "2026-09-23T19:13:09.623Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-09-23T22:21:25.774Z"
   },
   "pulls": [
+    {
+      "id": 470,
+      "name": "leafeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T22:21:25.774Z"
+    },
     {
       "id": 516,
       "name": "simipour",
@@ -116,17 +127,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-22T12:07:01.846Z"
-    },
-    {
-      "id": 782,
-      "name": "jangmo-o",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-22T06:49:57.894Z"
     }
   ],
   "pokemon": {
@@ -564,6 +564,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T05:24:22.500Z",
       "lastPulledAt": "2026-09-20T05:24:22.500Z"
+    },
+    "470": {
+      "id": 470,
+      "name": "leafeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T22:21:25.774Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T22:21:25.774Z",
+      "lastPulledAt": "2026-09-23T22:21:25.774Z"
     },
     "486": {
       "id": 486,

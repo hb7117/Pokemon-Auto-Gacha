@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 58,
-  "updatedAt": "2026-09-23T15:32:09.924Z",
+  "totalPulls": 59,
+  "updatedAt": "2026-09-23T19:13:09.623Z",
   "lastPull": {
-    "id": 236,
-    "name": "tyrogue",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
+    "id": 516,
+    "name": "simipour",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
     "types": [
-      "fighting"
+      "water"
     ],
-    "totalStats": 210,
-    "grade": "N",
-    "pulledAt": "2026-09-23T15:32:09.924Z"
+    "totalStats": 498,
+    "grade": "R",
+    "pulledAt": "2026-09-23T19:13:09.623Z"
   },
   "pulls": [
+    {
+      "id": 516,
+      "name": "simipour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-09-23T19:13:09.623Z"
+    },
     {
       "id": 236,
       "name": "tyrogue",
@@ -116,18 +127,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-22T06:49:57.894Z"
-    },
-    {
-      "id": 195,
-      "name": "quagsire",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
-      "types": [
-        "water",
-        "ground"
-      ],
-      "totalStats": 430,
-      "grade": "R",
-      "pulledAt": "2026-09-22T01:43:10.334Z"
     }
   ],
   "pokemon": {
@@ -595,6 +594,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T07:59:35.497Z",
       "lastPulledAt": "2026-09-19T07:59:35.497Z"
+    },
+    "516": {
+      "id": 516,
+      "name": "simipour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-09-23T19:13:09.623Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T19:13:09.623Z",
+      "lastPulledAt": "2026-09-23T19:13:09.623Z"
     },
     "517": {
       "id": 517,

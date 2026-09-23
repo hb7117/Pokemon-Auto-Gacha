@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 54,
-  "updatedAt": "2026-09-22T22:54:40.897Z",
+  "totalPulls": 55,
+  "updatedAt": "2026-09-23T01:14:46.434Z",
   "lastPull": {
-    "id": 813,
-    "name": "scorbunny",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
+    "id": 332,
+    "name": "cacturne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
     "types": [
-      "fire"
+      "grass",
+      "dark"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-09-22T22:54:40.897Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-09-23T01:14:46.434Z"
   },
   "pulls": [
+    {
+      "id": 332,
+      "name": "cacturne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-09-23T01:14:46.434Z"
+    },
     {
       "id": 813,
       "name": "scorbunny",
@@ -115,18 +128,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-09-21T15:52:25.487Z"
-    },
-    {
-      "id": 521,
-      "name": "unfezant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 488,
-      "grade": "R",
-      "pulledAt": "2026-09-21T09:07:33.884Z"
     }
   ],
   "pokemon": {
@@ -439,6 +440,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:40:31.446Z",
       "lastPulledAt": "2026-09-16T01:40:31.446Z"
+    },
+    "332": {
+      "id": 332,
+      "name": "cacturne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-09-23T01:14:46.434Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T01:14:46.434Z",
+      "lastPulledAt": "2026-09-23T01:14:46.434Z"
     },
     "360": {
       "id": 360,

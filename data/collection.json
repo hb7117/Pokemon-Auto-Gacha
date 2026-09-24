@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 62,
-  "updatedAt": "2026-09-24T05:30:40.348Z",
+  "totalPulls": 63,
+  "updatedAt": "2026-09-24T10:29:31.605Z",
   "lastPull": {
-    "id": 398,
-    "name": "staraptor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+    "id": 77,
+    "name": "ponyta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
     "types": [
-      "normal",
-      "flying"
+      "fire"
     ],
-    "totalStats": 485,
+    "totalStats": 410,
     "grade": "R",
-    "pulledAt": "2026-09-24T05:30:40.348Z"
+    "pulledAt": "2026-09-24T10:29:31.605Z"
   },
   "pulls": [
+    {
+      "id": 77,
+      "name": "ponyta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-24T10:29:31.605Z"
+    },
     {
       "id": 398,
       "name": "staraptor",
@@ -117,17 +127,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-09-22T22:54:40.897Z"
-    },
-    {
-      "id": 115,
-      "name": "kangaskhan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-22T20:00:20.796Z"
     }
   ],
   "pokemon": {
@@ -161,6 +160,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T17:26:26.325Z",
       "lastPulledAt": "2026-09-20T17:26:26.325Z"
+    },
+    "77": {
+      "id": 77,
+      "name": "ponyta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-24T10:29:31.605Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T10:29:31.605Z",
+      "lastPulledAt": "2026-09-24T10:29:31.605Z"
     },
     "85": {
       "id": 85,

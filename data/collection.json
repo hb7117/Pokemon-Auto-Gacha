@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 60,
-  "updatedAt": "2026-09-23T22:21:25.774Z",
+  "totalPulls": 61,
+  "updatedAt": "2026-09-24T00:42:18.705Z",
   "lastPull": {
-    "id": 470,
-    "name": "leafeon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+    "id": 771,
+    "name": "pyukumuku",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
     "types": [
-      "grass"
+      "water"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-09-23T22:21:25.774Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-09-24T00:42:18.705Z"
   },
   "pulls": [
+    {
+      "id": 771,
+      "name": "pyukumuku",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-24T00:42:18.705Z"
+    },
     {
       "id": 470,
       "name": "leafeon",
@@ -115,18 +126,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-22T16:53:47.586Z"
-    },
-    {
-      "id": 944,
-      "name": "shroodle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
-      "types": [
-        "poison",
-        "normal"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-09-22T12:07:01.846Z"
     }
   ],
   "pokemon": {
@@ -888,6 +887,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T19:15:42.541Z",
       "lastPulledAt": "2026-09-17T19:15:42.541Z"
+    },
+    "771": {
+      "id": 771,
+      "name": "pyukumuku",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-24T00:42:18.705Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T00:42:18.705Z",
+      "lastPulledAt": "2026-09-24T00:42:18.705Z"
     },
     "782": {
       "id": 782,

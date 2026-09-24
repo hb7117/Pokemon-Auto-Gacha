@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 65,
-  "updatedAt": "2026-09-24T19:26:05.794Z",
+  "totalPulls": 66,
+  "updatedAt": "2026-09-24T22:38:58.966Z",
   "lastPull": {
-    "id": 910,
-    "name": "crocalor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
+    "id": 194,
+    "name": "wooper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
     "types": [
-      "fire"
+      "water",
+      "ground"
     ],
-    "totalStats": 411,
-    "grade": "R",
-    "pulledAt": "2026-09-24T19:26:05.794Z"
+    "totalStats": 210,
+    "grade": "N",
+    "pulledAt": "2026-09-24T22:38:58.966Z"
   },
   "pulls": [
+    {
+      "id": 194,
+      "name": "wooper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-09-24T22:38:58.966Z"
+    },
     {
       "id": 910,
       "name": "crocalor",
@@ -114,18 +127,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-09-23T11:27:41.673Z"
-    },
-    {
-      "id": 636,
-      "name": "larvesta",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
-      "types": [
-        "bug",
-        "fire"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-09-23T06:03:33.417Z"
     }
   ],
   "pokemon": {
@@ -344,6 +345,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T20:58:25.695Z",
       "lastPulledAt": "2026-09-19T20:58:25.695Z"
+    },
+    "194": {
+      "id": 194,
+      "name": "wooper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-09-24T22:38:58.966Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T22:38:58.966Z",
+      "lastPulledAt": "2026-09-24T22:38:58.966Z"
     },
     "195": {
       "id": 195,

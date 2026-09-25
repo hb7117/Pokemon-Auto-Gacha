@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 71,
-  "updatedAt": "2026-09-25T19:31:30.403Z",
+  "totalPulls": 72,
+  "updatedAt": "2026-09-25T22:47:04.192Z",
   "lastPull": {
-    "id": 678,
-    "name": "meowstic-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png",
+    "id": 503,
+    "name": "samurott",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
     "types": [
-      "psychic"
+      "water"
     ],
-    "totalStats": 466,
-    "grade": "R",
-    "pulledAt": "2026-09-25T19:31:30.403Z"
+    "totalStats": 528,
+    "grade": "SR",
+    "pulledAt": "2026-09-25T22:47:04.192Z"
   },
   "pulls": [
+    {
+      "id": 503,
+      "name": "samurott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T22:47:04.192Z"
+    },
     {
       "id": 678,
       "name": "meowstic-male",
@@ -114,18 +125,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-09-24T10:29:31.605Z"
-    },
-    {
-      "id": 398,
-      "name": "staraptor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-24T05:30:40.348Z"
     }
   ],
   "pokemon": {
@@ -700,6 +699,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T07:59:35.497Z",
       "lastPulledAt": "2026-09-19T07:59:35.497Z"
+    },
+    "503": {
+      "id": 503,
+      "name": "samurott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T22:47:04.192Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T22:47:04.192Z",
+      "lastPulledAt": "2026-09-25T22:47:04.192Z"
     },
     "516": {
       "id": 516,

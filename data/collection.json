@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 69,
-  "updatedAt": "2026-09-25T10:32:11.125Z",
+  "totalPulls": 70,
+  "updatedAt": "2026-09-25T15:31:57.746Z",
   "lastPull": {
-    "id": 904,
-    "name": "overqwil",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png",
+    "id": 224,
+    "name": "octillery",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
     "types": [
-      "dark",
-      "poison"
+      "water"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-09-25T10:32:11.125Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-09-25T15:31:57.746Z"
   },
   "pulls": [
+    {
+      "id": 224,
+      "name": "octillery",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-25T15:31:57.746Z"
+    },
     {
       "id": 904,
       "name": "overqwil",
@@ -116,17 +126,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-09-24T00:42:18.705Z"
-    },
-    {
-      "id": 470,
-      "name": "leafeon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-09-23T22:21:25.774Z"
     }
   ],
   "pokemon": {
@@ -409,6 +408,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T04:59:26.388Z",
       "lastPulledAt": "2026-09-18T04:59:26.388Z"
+    },
+    "224": {
+      "id": 224,
+      "name": "octillery",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-25T15:31:57.746Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T15:31:57.746Z",
+      "lastPulledAt": "2026-09-25T15:31:57.746Z"
     },
     "227": {
       "id": 227,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 70,
-  "updatedAt": "2026-09-25T15:31:57.746Z",
+  "totalPulls": 71,
+  "updatedAt": "2026-09-25T19:31:30.403Z",
   "lastPull": {
-    "id": 224,
-    "name": "octillery",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+    "id": 678,
+    "name": "meowstic-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png",
     "types": [
-      "water"
+      "psychic"
     ],
-    "totalStats": 480,
+    "totalStats": 466,
     "grade": "R",
-    "pulledAt": "2026-09-25T15:31:57.746Z"
+    "pulledAt": "2026-09-25T19:31:30.403Z"
   },
   "pulls": [
+    {
+      "id": 678,
+      "name": "meowstic-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 466,
+      "grade": "R",
+      "pulledAt": "2026-09-25T19:31:30.403Z"
+    },
     {
       "id": 224,
       "name": "octillery",
@@ -115,17 +126,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-24T05:30:40.348Z"
-    },
-    {
-      "id": 771,
-      "name": "pyukumuku",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-09-24T00:42:18.705Z"
     }
   ],
   "pokemon": {
@@ -963,6 +963,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T09:57:24.214Z",
       "lastPulledAt": "2026-09-20T09:57:24.214Z"
+    },
+    "678": {
+      "id": 678,
+      "name": "meowstic-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 466,
+      "grade": "R",
+      "pulledAt": "2026-09-25T19:31:30.403Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T19:31:30.403Z",
+      "lastPulledAt": "2026-09-25T19:31:30.403Z"
     },
     "718": {
       "id": 718,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 67,
-  "updatedAt": "2026-09-25T00:50:04.604Z",
+  "totalPulls": 68,
+  "updatedAt": "2026-09-25T05:31:12.447Z",
   "lastPull": {
-    "id": 657,
-    "name": "frogadier",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png",
+    "id": 471,
+    "name": "glaceon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
     "types": [
-      "water"
+      "ice"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-09-25T00:50:04.604Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-09-25T05:31:12.447Z"
   },
   "pulls": [
+    {
+      "id": 471,
+      "name": "glaceon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T05:31:12.447Z"
+    },
     {
       "id": 657,
       "name": "frogadier",
@@ -114,17 +125,6 @@
       "totalStats": 498,
       "grade": "R",
       "pulledAt": "2026-09-23T19:13:09.623Z"
-    },
-    {
-      "id": 236,
-      "name": "tyrogue",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 210,
-      "grade": "N",
-      "pulledAt": "2026-09-23T15:32:09.924Z"
     }
   ],
   "pokemon": {
@@ -639,6 +639,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T22:21:25.774Z",
       "lastPulledAt": "2026-09-23T22:21:25.774Z"
+    },
+    "471": {
+      "id": 471,
+      "name": "glaceon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T05:31:12.447Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T05:31:12.447Z",
+      "lastPulledAt": "2026-09-25T05:31:12.447Z"
     },
     "486": {
       "id": 486,

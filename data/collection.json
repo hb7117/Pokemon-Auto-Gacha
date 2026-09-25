@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 68,
-  "updatedAt": "2026-09-25T05:31:12.447Z",
+  "totalPulls": 69,
+  "updatedAt": "2026-09-25T10:32:11.125Z",
   "lastPull": {
-    "id": 471,
-    "name": "glaceon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+    "id": 904,
+    "name": "overqwil",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png",
     "types": [
-      "ice"
+      "dark",
+      "poison"
     ],
-    "totalStats": 525,
+    "totalStats": 510,
     "grade": "SR",
-    "pulledAt": "2026-09-25T05:31:12.447Z"
+    "pulledAt": "2026-09-25T10:32:11.125Z"
   },
   "pulls": [
+    {
+      "id": 904,
+      "name": "overqwil",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png",
+      "types": [
+        "dark",
+        "poison"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T10:32:11.125Z"
+    },
     {
       "id": 471,
       "name": "glaceon",
@@ -114,17 +127,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-23T22:21:25.774Z"
-    },
-    {
-      "id": 516,
-      "name": "simipour",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 498,
-      "grade": "R",
-      "pulledAt": "2026-09-23T19:13:09.623Z"
     }
   ],
   "pokemon": {
@@ -1055,6 +1057,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T20:15:30.047Z",
       "lastPulledAt": "2026-09-21T20:15:30.047Z"
+    },
+    "904": {
+      "id": 904,
+      "name": "overqwil",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png",
+      "types": [
+        "dark",
+        "poison"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T10:32:11.125Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T10:32:11.125Z",
+      "lastPulledAt": "2026-09-25T10:32:11.125Z"
     },
     "910": {
       "id": 910,

@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 78,
-  "updatedAt": "2026-09-26T21:23:15.324Z",
+  "totalPulls": 79,
+  "updatedAt": "2026-09-26T23:44:46.841Z",
   "lastPull": {
-    "id": 122,
-    "name": "mr-mime",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+    "id": 177,
+    "name": "natu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
     "types": [
       "psychic",
-      "fairy"
+      "flying"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-09-26T21:23:15.324Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-09-26T23:44:46.841Z"
   },
   "pulls": [
+    {
+      "id": 177,
+      "name": "natu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-26T23:44:46.841Z"
+    },
     {
       "id": 122,
       "name": "mr-mime",
@@ -117,18 +129,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-25T15:31:57.746Z"
-    },
-    {
-      "id": 904,
-      "name": "overqwil",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png",
-      "types": [
-        "dark",
-        "poison"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-09-25T10:32:11.125Z"
     }
   ],
   "pokemon": {
@@ -347,6 +347,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T20:58:25.695Z",
       "lastPulledAt": "2026-09-19T20:58:25.695Z"
+    },
+    "177": {
+      "id": 177,
+      "name": "natu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-26T23:44:46.841Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T23:44:46.841Z",
+      "lastPulledAt": "2026-09-26T23:44:46.841Z"
     },
     "194": {
       "id": 194,

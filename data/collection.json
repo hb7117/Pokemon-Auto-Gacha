@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 72,
-  "updatedAt": "2026-09-25T22:47:04.192Z",
+  "totalPulls": 73,
+  "updatedAt": "2026-09-26T00:57:12.993Z",
   "lastPull": {
-    "id": 503,
-    "name": "samurott",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
+    "id": 830,
+    "name": "eldegoss",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png",
     "types": [
-      "water"
+      "grass"
     ],
-    "totalStats": 528,
-    "grade": "SR",
-    "pulledAt": "2026-09-25T22:47:04.192Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-09-26T00:57:12.993Z"
   },
   "pulls": [
+    {
+      "id": 830,
+      "name": "eldegoss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-26T00:57:12.993Z"
+    },
     {
       "id": 503,
       "name": "samurott",
@@ -114,17 +125,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-24T15:27:32.938Z"
-    },
-    {
-      "id": 77,
-      "name": "ponyta",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-09-24T10:29:31.605Z"
     }
   ],
   "pokemon": {
@@ -1068,6 +1068,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T22:54:40.897Z",
       "lastPulledAt": "2026-09-22T22:54:40.897Z"
+    },
+    "830": {
+      "id": 830,
+      "name": "eldegoss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-26T00:57:12.993Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T00:57:12.993Z",
+      "lastPulledAt": "2026-09-26T00:57:12.993Z"
     },
     "834": {
       "id": 834,

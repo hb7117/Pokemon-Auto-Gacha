@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 80,
-  "updatedAt": "2026-09-27T01:52:35.876Z",
+  "totalPulls": 81,
+  "updatedAt": "2026-09-27T07:35:05.304Z",
   "lastPull": {
-    "id": 804,
-    "name": "naganadel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
+    "id": 439,
+    "name": "mime-jr",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png",
     "types": [
-      "poison",
-      "dragon"
+      "psychic",
+      "fairy"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-09-27T01:52:35.876Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-09-27T07:35:05.304Z"
   },
   "pulls": [
+    {
+      "id": 439,
+      "name": "mime-jr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-27T07:35:05.304Z"
+    },
     {
       "id": 804,
       "name": "naganadel",
@@ -119,17 +131,6 @@
       "totalStats": 528,
       "grade": "SR",
       "pulledAt": "2026-09-25T22:47:04.192Z"
-    },
-    {
-      "id": 678,
-      "name": "meowstic-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 466,
-      "grade": "R",
-      "pulledAt": "2026-09-25T19:31:30.403Z"
     }
   ],
   "pokemon": {
@@ -628,6 +629,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T23:21:15.462Z",
       "lastPulledAt": "2026-09-21T23:21:15.462Z"
+    },
+    "439": {
+      "id": 439,
+      "name": "mime-jr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-27T07:35:05.304Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T07:35:05.304Z",
+      "lastPulledAt": "2026-09-27T07:35:05.304Z"
     },
     "459": {
       "id": 459,

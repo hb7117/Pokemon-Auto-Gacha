@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 82,
-  "updatedAt": "2026-09-27T13:16:37.326Z",
+  "totalPulls": 83,
+  "updatedAt": "2026-09-27T17:48:40.864Z",
   "lastPull": {
-    "id": 702,
-    "name": "dedenne",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+    "id": 179,
+    "name": "mareep",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
     "types": [
-      "electric",
-      "fairy"
+      "electric"
     ],
-    "totalStats": 431,
-    "grade": "R",
-    "pulledAt": "2026-09-27T13:16:37.326Z"
+    "totalStats": 280,
+    "grade": "N",
+    "pulledAt": "2026-09-27T17:48:40.864Z"
   },
   "pulls": [
+    {
+      "id": 179,
+      "name": "mareep",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-09-27T17:48:40.864Z"
+    },
     {
       "id": 702,
       "name": "dedenne",
@@ -121,17 +131,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-09-26T05:57:29.473Z"
-    },
-    {
-      "id": 830,
-      "name": "eldegoss",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-26T00:57:12.993Z"
     }
   ],
   "pokemon": {
@@ -366,6 +365,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T23:44:46.841Z",
       "lastPulledAt": "2026-09-26T23:44:46.841Z"
+    },
+    "179": {
+      "id": 179,
+      "name": "mareep",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-09-27T17:48:40.864Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T17:48:40.864Z",
+      "lastPulledAt": "2026-09-27T17:48:40.864Z"
     },
     "194": {
       "id": 194,

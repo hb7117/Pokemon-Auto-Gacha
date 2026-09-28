@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 88,
-  "updatedAt": "2026-09-28T16:03:14.381Z",
+  "totalPulls": 89,
+  "updatedAt": "2026-09-28T21:54:35.807Z",
   "lastPull": {
-    "id": 880,
-    "name": "dracozolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+    "id": 240,
+    "name": "magby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
     "types": [
-      "electric",
-      "dragon"
+      "fire"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-09-28T16:03:14.381Z"
+    "totalStats": 365,
+    "grade": "N",
+    "pulledAt": "2026-09-28T21:54:35.807Z"
   },
   "pulls": [
+    {
+      "id": 240,
+      "name": "magby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-09-28T21:54:35.807Z"
+    },
     {
       "id": 880,
       "name": "dracozolt",
@@ -118,18 +128,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-09-27T01:52:35.876Z"
-    },
-    {
-      "id": 177,
-      "name": "natu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
-      "types": [
-        "psychic",
-        "flying"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-09-26T23:44:46.841Z"
     }
   ],
   "pokemon": {
@@ -489,6 +487,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T15:32:09.924Z",
       "lastPulledAt": "2026-09-23T15:32:09.924Z"
+    },
+    "240": {
+      "id": 240,
+      "name": "magby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-09-28T21:54:35.807Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T21:54:35.807Z",
+      "lastPulledAt": "2026-09-28T21:54:35.807Z"
     },
     "243": {
       "id": 243,

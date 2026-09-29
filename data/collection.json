@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 89,
-  "updatedAt": "2026-09-28T21:54:35.807Z",
+  "totalPulls": 90,
+  "updatedAt": "2026-09-29T01:28:07.732Z",
   "lastPull": {
-    "id": 240,
-    "name": "magby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+    "id": 94,
+    "name": "gengar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
     "types": [
-      "fire"
+      "ghost",
+      "poison"
     ],
-    "totalStats": 365,
-    "grade": "N",
-    "pulledAt": "2026-09-28T21:54:35.807Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-29T01:28:07.732Z"
   },
   "pulls": [
+    {
+      "id": 94,
+      "name": "gengar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T01:28:07.732Z"
+    },
     {
       "id": 240,
       "name": "magby",
@@ -116,18 +129,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-09-27T07:35:05.304Z"
-    },
-    {
-      "id": 804,
-      "name": "naganadel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
-      "types": [
-        "poison",
-        "dragon"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-09-27T01:52:35.876Z"
     }
   ],
   "pokemon": {
@@ -192,6 +193,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T14:01:01.220Z",
       "lastPulledAt": "2026-09-20T14:01:01.220Z"
+    },
+    "94": {
+      "id": 94,
+      "name": "gengar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T01:28:07.732Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T01:28:07.732Z",
+      "lastPulledAt": "2026-09-29T01:28:07.732Z"
     },
     "115": {
       "id": 115,

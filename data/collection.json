@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 90,
-  "updatedAt": "2026-09-29T01:28:07.732Z",
+  "totalPulls": 91,
+  "updatedAt": "2026-09-29T07:24:00.812Z",
   "lastPull": {
-    "id": 94,
-    "name": "gengar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "id": 59,
+    "name": "arcanine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
     "types": [
-      "ghost",
-      "poison"
+      "fire"
     ],
-    "totalStats": 500,
+    "totalStats": 555,
     "grade": "SR",
-    "pulledAt": "2026-09-29T01:28:07.732Z"
+    "pulledAt": "2026-09-29T07:24:00.812Z"
   },
   "pulls": [
+    {
+      "id": 59,
+      "name": "arcanine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T07:24:00.812Z"
+    },
     {
       "id": 94,
       "name": "gengar",
@@ -117,18 +127,6 @@
       "totalStats": 431,
       "grade": "R",
       "pulledAt": "2026-09-27T13:16:37.326Z"
-    },
-    {
-      "id": 439,
-      "name": "mime-jr",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-09-27T07:35:05.304Z"
     }
   ],
   "pokemon": {
@@ -146,6 +144,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:48:22.169Z",
       "lastPulledAt": "2026-09-16T01:48:22.169Z"
+    },
+    "59": {
+      "id": 59,
+      "name": "arcanine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T07:24:00.812Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T07:24:00.812Z",
+      "lastPulledAt": "2026-09-29T07:24:00.812Z"
     },
     "74": {
       "id": 74,

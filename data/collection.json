@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 95,
-  "updatedAt": "2026-09-30T02:04:18.790Z",
+  "totalPulls": 96,
+  "updatedAt": "2026-09-30T08:26:09.641Z",
   "lastPull": {
-    "id": 464,
-    "name": "rhyperior",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+    "id": 727,
+    "name": "incineroar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
     "types": [
-      "ground",
-      "rock"
+      "fire",
+      "dark"
     ],
-    "totalStats": 535,
+    "totalStats": 530,
     "grade": "SR",
-    "pulledAt": "2026-09-30T02:04:18.790Z"
+    "pulledAt": "2026-09-30T08:26:09.641Z"
   },
   "pulls": [
+    {
+      "id": 727,
+      "name": "incineroar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
+      "types": [
+        "fire",
+        "dark"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T08:26:09.641Z"
+    },
     {
       "id": 464,
       "name": "rhyperior",
@@ -119,17 +131,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-28T07:44:32.579Z"
-    },
-    {
-      "id": 772,
-      "name": "type-null",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 534,
-      "grade": "SR",
-      "pulledAt": "2026-09-28T01:46:30.443Z"
     }
   ],
   "pokemon": {
@@ -1169,6 +1170,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T23:50:28.358Z",
       "lastPulledAt": "2026-09-20T23:50:28.358Z"
+    },
+    "727": {
+      "id": 727,
+      "name": "incineroar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
+      "types": [
+        "fire",
+        "dark"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T08:26:09.641Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T08:26:09.641Z",
+      "lastPulledAt": "2026-09-30T08:26:09.641Z"
     },
     "739": {
       "id": 739,

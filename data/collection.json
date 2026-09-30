@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 96,
-  "updatedAt": "2026-09-30T08:26:09.641Z",
+  "totalPulls": 97,
+  "updatedAt": "2026-09-30T19:59:29.692Z",
   "lastPull": {
-    "id": 727,
-    "name": "incineroar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
+    "id": 695,
+    "name": "heliolisk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
     "types": [
-      "fire",
-      "dark"
+      "electric",
+      "normal"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-09-30T08:26:09.641Z"
+    "totalStats": 481,
+    "grade": "R",
+    "pulledAt": "2026-09-30T19:59:29.692Z"
   },
   "pulls": [
+    {
+      "id": 695,
+      "name": "heliolisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "totalStats": 481,
+      "grade": "R",
+      "pulledAt": "2026-09-30T19:59:29.692Z"
+    },
     {
       "id": 727,
       "name": "incineroar",
@@ -120,17 +132,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-28T16:03:14.381Z"
-    },
-    {
-      "id": 807,
-      "name": "zeraora",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-28T07:44:32.579Z"
     }
   ],
   "pokemon": {
@@ -1138,6 +1139,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T19:31:30.403Z",
       "lastPulledAt": "2026-09-25T19:31:30.403Z"
+    },
+    "695": {
+      "id": 695,
+      "name": "heliolisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "totalStats": 481,
+      "grade": "R",
+      "pulledAt": "2026-09-30T19:59:29.692Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T19:59:29.692Z",
+      "lastPulledAt": "2026-09-30T19:59:29.692Z"
     },
     "702": {
       "id": 702,

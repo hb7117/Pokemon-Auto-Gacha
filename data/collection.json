@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 94,
-  "updatedAt": "2026-09-29T23:06:44.394Z",
+  "totalPulls": 95,
+  "updatedAt": "2026-09-30T02:04:18.790Z",
   "lastPull": {
-    "id": 303,
-    "name": "mawile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "id": 464,
+    "name": "rhyperior",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
     "types": [
-      "steel",
-      "fairy"
+      "ground",
+      "rock"
     ],
-    "totalStats": 380,
-    "grade": "N",
-    "pulledAt": "2026-09-29T23:06:44.394Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-09-30T02:04:18.790Z"
   },
   "pulls": [
+    {
+      "id": 464,
+      "name": "rhyperior",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T02:04:18.790Z"
+    },
     {
       "id": 303,
       "name": "mawile",
@@ -118,18 +130,6 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-09-28T01:46:30.443Z"
-    },
-    {
-      "id": 931,
-      "name": "squawkabilly-green-plumage",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 417,
-      "grade": "R",
-      "pulledAt": "2026-09-27T23:19:02.220Z"
     }
   ],
   "pokemon": {
@@ -721,6 +721,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T17:05:47.487Z",
       "lastPulledAt": "2026-09-16T17:05:47.487Z"
+    },
+    "464": {
+      "id": 464,
+      "name": "rhyperior",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T02:04:18.790Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T02:04:18.790Z",
+      "lastPulledAt": "2026-09-30T02:04:18.790Z"
     },
     "469": {
       "id": 469,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 97,
-  "updatedAt": "2026-09-30T19:59:29.692Z",
+  "totalPulls": 98,
+  "updatedAt": "2026-09-30T23:39:19.222Z",
   "lastPull": {
-    "id": 695,
-    "name": "heliolisk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+    "id": 704,
+    "name": "goomy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
     "types": [
-      "electric",
-      "normal"
+      "dragon"
     ],
-    "totalStats": 481,
-    "grade": "R",
-    "pulledAt": "2026-09-30T19:59:29.692Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-09-30T23:39:19.222Z"
   },
   "pulls": [
+    {
+      "id": 704,
+      "name": "goomy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-30T23:39:19.222Z"
+    },
     {
       "id": 695,
       "name": "heliolisk",
@@ -120,18 +130,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-09-28T21:54:35.807Z"
-    },
-    {
-      "id": 880,
-      "name": "dracozolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
-      "types": [
-        "electric",
-        "dragon"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-28T16:03:14.381Z"
     }
   ],
   "pokemon": {
@@ -1171,6 +1169,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T13:16:37.326Z",
       "lastPulledAt": "2026-09-27T13:16:37.326Z"
+    },
+    "704": {
+      "id": 704,
+      "name": "goomy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-30T23:39:19.222Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T23:39:19.222Z",
+      "lastPulledAt": "2026-09-30T23:39:19.222Z"
     },
     "718": {
       "id": 718,

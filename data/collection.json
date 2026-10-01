@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 98,
-  "updatedAt": "2026-09-30T23:39:19.222Z",
+  "totalPulls": 99,
+  "updatedAt": "2026-10-01T02:25:56.476Z",
   "lastPull": {
-    "id": 704,
-    "name": "goomy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+    "id": 547,
+    "name": "whimsicott",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png",
     "types": [
-      "dragon"
+      "grass",
+      "fairy"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-30T23:39:19.222Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-01T02:25:56.476Z"
   },
   "pulls": [
+    {
+      "id": 547,
+      "name": "whimsicott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-01T02:25:56.476Z"
+    },
     {
       "id": 704,
       "name": "goomy",
@@ -119,17 +132,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-29T01:28:07.732Z"
-    },
-    {
-      "id": 240,
-      "name": "magby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-09-28T21:54:35.807Z"
     }
   ],
   "pokemon": {
@@ -937,6 +939,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:53:38.733Z",
       "lastPulledAt": "2026-09-16T22:53:38.733Z"
+    },
+    "547": {
+      "id": 547,
+      "name": "whimsicott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-01T02:25:56.476Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T02:25:56.476Z",
+      "lastPulledAt": "2026-10-01T02:25:56.476Z"
     },
     "558": {
       "id": 558,

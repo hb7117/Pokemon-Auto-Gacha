@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 100,
-  "updatedAt": "2026-10-01T09:16:56.924Z",
+  "totalPulls": 101,
+  "updatedAt": "2026-10-01T16:31:46.024Z",
   "lastPull": {
-    "id": 577,
-    "name": "solosis",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
+    "id": 558,
+    "name": "crustle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
     "types": [
-      "psychic"
+      "bug",
+      "rock"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-10-01T09:16:56.924Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-01T16:31:46.024Z"
   },
   "pulls": [
+    {
+      "id": 558,
+      "name": "crustle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-01T16:31:46.024Z"
+    },
     {
       "id": 577,
       "name": "solosis",
@@ -119,17 +132,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-09-29T14:13:46.973Z"
-    },
-    {
-      "id": 59,
-      "name": "arcanine",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-09-29T07:24:00.812Z"
     }
   ],
   "pokemon": {
@@ -965,10 +967,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-17T06:05:59.008Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T06:05:59.008Z",
-      "lastPulledAt": "2026-09-17T06:05:59.008Z"
+      "lastPulledAt": "2026-10-01T16:31:46.024Z"
     },
     "559": {
       "id": 559,

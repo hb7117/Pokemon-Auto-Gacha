@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 106,
-  "updatedAt": "2026-10-02T18:29:40.830Z",
+  "totalPulls": 107,
+  "updatedAt": "2026-10-02T22:29:21.023Z",
   "lastPull": {
-    "id": 231,
-    "name": "phanpy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+    "id": 609,
+    "name": "chandelure",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
     "types": [
-      "ground"
+      "ghost",
+      "fire"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-02T18:29:40.830Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-10-02T22:29:21.023Z"
   },
   "pulls": [
+    {
+      "id": 609,
+      "name": "chandelure",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-02T22:29:21.023Z"
+    },
     {
       "id": 231,
       "name": "phanpy",
@@ -116,18 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-30T23:39:19.222Z"
-    },
-    {
-      "id": 695,
-      "name": "heliolisk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
-      "types": [
-        "electric",
-        "normal"
-      ],
-      "totalStats": 481,
-      "grade": "R",
-      "pulledAt": "2026-09-30T19:59:29.692Z"
     }
   ],
   "pokemon": {
@@ -1120,6 +1121,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:52:17.777Z",
       "lastPulledAt": "2026-09-18T23:52:17.777Z"
+    },
+    "609": {
+      "id": 609,
+      "name": "chandelure",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-02T22:29:21.023Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T22:29:21.023Z",
+      "lastPulledAt": "2026-10-02T22:29:21.023Z"
     },
     "636": {
       "id": 636,

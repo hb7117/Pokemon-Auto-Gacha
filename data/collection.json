@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 105,
-  "updatedAt": "2026-10-02T13:13:59.606Z",
+  "totalPulls": 106,
+  "updatedAt": "2026-10-02T18:29:40.830Z",
   "lastPull": {
-    "id": 177,
-    "name": "natu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+    "id": 231,
+    "name": "phanpy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
     "types": [
-      "psychic",
-      "flying"
+      "ground"
     ],
-    "totalStats": 320,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-10-02T13:13:59.606Z"
+    "pulledAt": "2026-10-02T18:29:40.830Z"
   },
   "pulls": [
+    {
+      "id": 231,
+      "name": "phanpy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-02T18:29:40.830Z"
+    },
     {
       "id": 177,
       "name": "natu",
@@ -118,18 +128,6 @@
       "totalStats": 481,
       "grade": "R",
       "pulledAt": "2026-09-30T19:59:29.692Z"
-    },
-    {
-      "id": 727,
-      "name": "incineroar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
-      "types": [
-        "fire",
-        "dark"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-09-30T08:26:09.641Z"
     }
   ],
   "pokemon": {
@@ -505,6 +503,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T03:07:48.061Z",
       "lastPulledAt": "2026-09-19T03:07:48.061Z"
+    },
+    "231": {
+      "id": 231,
+      "name": "phanpy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-02T18:29:40.830Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T18:29:40.830Z",
+      "lastPulledAt": "2026-10-02T18:29:40.830Z"
     },
     "236": {
       "id": 236,

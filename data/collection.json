@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 108,
-  "updatedAt": "2026-10-03T01:21:24.391Z",
+  "totalPulls": 109,
+  "updatedAt": "2026-10-03T06:50:34.119Z",
   "lastPull": {
-    "id": 78,
-    "name": "rapidash",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+    "id": 526,
+    "name": "gigalith",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
     "types": [
-      "fire"
+      "rock"
     ],
-    "totalStats": 500,
+    "totalStats": 515,
     "grade": "SR",
-    "pulledAt": "2026-10-03T01:21:24.391Z"
+    "pulledAt": "2026-10-03T06:50:34.119Z"
   },
   "pulls": [
+    {
+      "id": 526,
+      "name": "gigalith",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T06:50:34.119Z"
+    },
     {
       "id": 78,
       "name": "rapidash",
@@ -116,18 +127,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-01T09:16:56.924Z"
-    },
-    {
-      "id": 547,
-      "name": "whimsicott",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png",
-      "types": [
-        "grass",
-        "fairy"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-01T02:25:56.476Z"
     }
   ],
   "pokemon": {
@@ -948,6 +947,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T09:07:33.884Z",
       "lastPulledAt": "2026-09-21T09:07:33.884Z"
+    },
+    "526": {
+      "id": 526,
+      "name": "gigalith",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T06:50:34.119Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T06:50:34.119Z",
+      "lastPulledAt": "2026-10-03T06:50:34.119Z"
     },
     "542": {
       "id": 542,

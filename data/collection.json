@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 107,
-  "updatedAt": "2026-10-02T22:29:21.023Z",
+  "totalPulls": 108,
+  "updatedAt": "2026-10-03T01:21:24.391Z",
   "lastPull": {
-    "id": 609,
-    "name": "chandelure",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "id": 78,
+    "name": "rapidash",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
     "types": [
-      "ghost",
       "fire"
     ],
-    "totalStats": 520,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-10-02T22:29:21.023Z"
+    "pulledAt": "2026-10-03T01:21:24.391Z"
   },
   "pulls": [
+    {
+      "id": 78,
+      "name": "rapidash",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T01:21:24.391Z"
+    },
     {
       "id": 609,
       "name": "chandelure",
@@ -118,17 +128,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-01T02:25:56.476Z"
-    },
-    {
-      "id": 704,
-      "name": "goomy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-30T23:39:19.222Z"
     }
   ],
   "pokemon": {
@@ -192,6 +191,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T10:29:31.605Z",
       "lastPulledAt": "2026-09-24T10:29:31.605Z"
+    },
+    "78": {
+      "id": 78,
+      "name": "rapidash",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T01:21:24.391Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T01:21:24.391Z",
+      "lastPulledAt": "2026-10-03T01:21:24.391Z"
     },
     "85": {
       "id": 85,

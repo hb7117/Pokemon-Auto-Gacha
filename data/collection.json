@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 109,
-  "updatedAt": "2026-10-03T06:50:34.119Z",
+  "totalPulls": 110,
+  "updatedAt": "2026-10-03T12:13:18.241Z",
   "lastPull": {
-    "id": 526,
-    "name": "gigalith",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
+    "id": 764,
+    "name": "comfey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
     "types": [
-      "rock"
+      "fairy"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-10-03T06:50:34.119Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-03T12:13:18.241Z"
   },
   "pulls": [
+    {
+      "id": 764,
+      "name": "comfey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-03T12:13:18.241Z"
+    },
     {
       "id": 526,
       "name": "gigalith",
@@ -116,17 +127,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-01T16:31:46.024Z"
-    },
-    {
-      "id": 577,
-      "name": "solosis",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-10-01T09:16:56.924Z"
     }
   ],
   "pokemon": {
@@ -1366,6 +1366,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T19:15:42.541Z",
       "lastPulledAt": "2026-09-17T19:15:42.541Z"
+    },
+    "764": {
+      "id": 764,
+      "name": "comfey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-03T12:13:18.241Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T12:13:18.241Z",
+      "lastPulledAt": "2026-10-03T12:13:18.241Z"
     },
     "768": {
       "id": 768,

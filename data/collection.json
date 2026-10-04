@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 114,
-  "updatedAt": "2026-10-04T00:46:09.859Z",
+  "totalPulls": 115,
+  "updatedAt": "2026-10-04T06:24:54.098Z",
   "lastPull": {
-    "id": 355,
-    "name": "duskull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+    "id": 872,
+    "name": "snom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png",
     "types": [
-      "ghost"
+      "ice",
+      "bug"
     ],
-    "totalStats": 295,
+    "totalStats": 185,
     "grade": "N",
-    "pulledAt": "2026-10-04T00:46:09.859Z"
+    "pulledAt": "2026-10-04T06:24:54.098Z"
   },
   "pulls": [
+    {
+      "id": 872,
+      "name": "snom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png",
+      "types": [
+        "ice",
+        "bug"
+      ],
+      "totalStats": 185,
+      "grade": "N",
+      "pulledAt": "2026-10-04T06:24:54.098Z"
+    },
     {
       "id": 355,
       "name": "duskull",
@@ -114,18 +127,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-02T18:29:40.830Z"
-    },
-    {
-      "id": 177,
-      "name": "natu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
-      "types": [
-        "psychic",
-        "flying"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-10-02T13:13:59.606Z"
     }
   ],
   "pokemon": {
@@ -1611,6 +1612,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T05:57:29.473Z",
       "lastPulledAt": "2026-09-26T05:57:29.473Z"
+    },
+    "872": {
+      "id": 872,
+      "name": "snom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png",
+      "types": [
+        "ice",
+        "bug"
+      ],
+      "totalStats": 185,
+      "grade": "N",
+      "pulledAt": "2026-10-04T06:24:54.098Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T06:24:54.098Z",
+      "lastPulledAt": "2026-10-04T06:24:54.098Z"
     },
     "880": {
       "id": 880,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 118,
-  "updatedAt": "2026-10-04T20:07:30.007Z",
+  "totalPulls": 119,
+  "updatedAt": "2026-10-04T23:05:15.708Z",
   "lastPull": {
-    "id": 603,
-    "name": "eelektrik",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+    "id": 843,
+    "name": "silicobra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
     "types": [
-      "electric"
+      "ground"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-10-04T20:07:30.007Z"
+    "totalStats": 315,
+    "grade": "N",
+    "pulledAt": "2026-10-04T23:05:15.708Z"
   },
   "pulls": [
+    {
+      "id": 843,
+      "name": "silicobra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-04T23:05:15.708Z"
+    },
     {
       "id": 603,
       "name": "eelektrik",
@@ -115,17 +126,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-03T12:13:18.241Z"
-    },
-    {
-      "id": 526,
-      "name": "gigalith",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-10-03T06:50:34.119Z"
     }
   ],
   "pokemon": {
@@ -1611,6 +1611,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T14:13:46.973Z",
       "lastPulledAt": "2026-09-29T14:13:46.973Z"
+    },
+    "843": {
+      "id": 843,
+      "name": "silicobra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-04T23:05:15.708Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T23:05:15.708Z",
+      "lastPulledAt": "2026-10-04T23:05:15.708Z"
     },
     "849": {
       "id": 849,

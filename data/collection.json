@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 116,
-  "updatedAt": "2026-10-04T12:43:54.495Z",
+  "totalPulls": 117,
+  "updatedAt": "2026-10-04T17:04:58.355Z",
   "lastPull": {
-    "id": 648,
-    "name": "meloetta-aria",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
+    "id": 600,
+    "name": "klang",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png",
     "types": [
-      "normal",
-      "psychic"
+      "steel"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-04T12:43:54.495Z"
+    "totalStats": 440,
+    "grade": "R",
+    "pulledAt": "2026-10-04T17:04:58.355Z"
   },
   "pulls": [
+    {
+      "id": 600,
+      "name": "klang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-04T17:04:58.355Z"
+    },
     {
       "id": 648,
       "name": "meloetta-aria",
@@ -116,18 +126,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-03T01:21:24.391Z"
-    },
-    {
-      "id": 609,
-      "name": "chandelure",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
-      "types": [
-        "ghost",
-        "fire"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-10-02T22:29:21.023Z"
     }
   ],
   "pokemon": {
@@ -1150,6 +1148,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T22:50:20.173Z",
       "lastPulledAt": "2026-09-29T19:27:13.720Z"
+    },
+    "600": {
+      "id": 600,
+      "name": "klang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-04T17:04:58.355Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T17:04:58.355Z",
+      "lastPulledAt": "2026-10-04T17:04:58.355Z"
     },
     "603": {
       "id": 603,

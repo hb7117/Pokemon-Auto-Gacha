@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 122,
-  "updatedAt": "2026-10-05T17:14:03.435Z",
+  "totalPulls": 123,
+  "updatedAt": "2026-10-05T23:11:48.296Z",
   "lastPull": {
-    "id": 574,
-    "name": "gothita",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+    "id": 910,
+    "name": "crocalor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
     "types": [
-      "psychic"
+      "fire"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-10-05T17:14:03.435Z"
+    "totalStats": 411,
+    "grade": "R",
+    "pulledAt": "2026-10-05T23:11:48.296Z"
   },
   "pulls": [
+    {
+      "id": 910,
+      "name": "crocalor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 411,
+      "grade": "R",
+      "pulledAt": "2026-10-05T23:11:48.296Z"
+    },
     {
       "id": 574,
       "name": "gothita",
@@ -116,17 +127,6 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-10-04T00:46:09.859Z"
-    },
-    {
-      "id": 516,
-      "name": "simipour",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 498,
-      "grade": "R",
-      "pulledAt": "2026-10-03T22:17:42.812Z"
     }
   ],
   "pokemon": {
@@ -1733,10 +1733,10 @@
       "totalStats": 411,
       "grade": "R",
       "pulledAt": "2026-09-24T19:26:05.794Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T19:26:05.794Z",
-      "lastPulledAt": "2026-09-24T19:26:05.794Z"
+      "lastPulledAt": "2026-10-05T23:11:48.296Z"
     },
     "918": {
       "id": 918,

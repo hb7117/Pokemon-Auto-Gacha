@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 123,
-  "updatedAt": "2026-10-05T23:11:48.296Z",
+  "totalPulls": 124,
+  "updatedAt": "2026-10-06T03:04:57.771Z",
   "lastPull": {
-    "id": 910,
-    "name": "crocalor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
+    "id": 245,
+    "name": "suicune",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
     "types": [
-      "fire"
+      "water"
     ],
-    "totalStats": 411,
-    "grade": "R",
-    "pulledAt": "2026-10-05T23:11:48.296Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-06T03:04:57.771Z"
   },
   "pulls": [
+    {
+      "id": 245,
+      "name": "suicune",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-06T03:04:57.771Z"
+    },
     {
       "id": 910,
       "name": "crocalor",
@@ -116,17 +127,6 @@
       "totalStats": 185,
       "grade": "N",
       "pulledAt": "2026-10-04T06:24:54.098Z"
-    },
-    {
-      "id": 355,
-      "name": "duskull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-10-04T00:46:09.859Z"
     }
   ],
   "pokemon": {
@@ -577,6 +577,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T15:27:32.938Z",
       "lastPulledAt": "2026-09-24T15:27:32.938Z"
+    },
+    "245": {
+      "id": 245,
+      "name": "suicune",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-06T03:04:57.771Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T03:04:57.771Z",
+      "lastPulledAt": "2026-10-06T03:04:57.771Z"
     },
     "252": {
       "id": 252,

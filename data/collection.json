@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 130,
-  "updatedAt": "2026-10-07T13:53:34.245Z",
+  "totalPulls": 131,
+  "updatedAt": "2026-10-07T19:43:37.630Z",
   "lastPull": {
-    "id": 840,
-    "name": "applin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
+    "id": 981,
+    "name": "farigiraf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
     "types": [
-      "grass",
-      "dragon"
+      "normal",
+      "psychic"
     ],
-    "totalStats": 260,
-    "grade": "N",
-    "pulledAt": "2026-10-07T13:53:34.245Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-10-07T19:43:37.630Z"
   },
   "pulls": [
+    {
+      "id": 981,
+      "name": "farigiraf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T19:43:37.630Z"
+    },
     {
       "id": 840,
       "name": "applin",
@@ -116,18 +128,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-05T17:14:03.435Z"
-    },
-    {
-      "id": 344,
-      "name": "claydol",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
-      "types": [
-        "ground",
-        "psychic"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-05T08:19:25.511Z"
     }
   ],
   "pokemon": {
@@ -1940,6 +1940,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T03:19:15.077Z",
       "lastPulledAt": "2026-09-21T03:19:15.077Z"
+    },
+    "981": {
+      "id": 981,
+      "name": "farigiraf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T19:43:37.630Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T19:43:37.630Z",
+      "lastPulledAt": "2026-10-07T19:43:37.630Z"
     },
     "986": {
       "id": 986,

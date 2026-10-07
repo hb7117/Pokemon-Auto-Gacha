@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 129,
-  "updatedAt": "2026-10-07T06:36:31.833Z",
+  "totalPulls": 130,
+  "updatedAt": "2026-10-07T13:53:34.245Z",
   "lastPull": {
-    "id": 876,
-    "name": "indeedee-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png",
+    "id": 840,
+    "name": "applin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
     "types": [
-      "psychic",
-      "normal"
+      "grass",
+      "dragon"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-10-07T06:36:31.833Z"
+    "totalStats": 260,
+    "grade": "N",
+    "pulledAt": "2026-10-07T13:53:34.245Z"
   },
   "pulls": [
+    {
+      "id": 840,
+      "name": "applin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-10-07T13:53:34.245Z"
+    },
     {
       "id": 876,
       "name": "indeedee-male",
@@ -116,18 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-05T08:19:25.511Z"
-    },
-    {
-      "id": 958,
-      "name": "tinkatuff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
-      "types": [
-        "fairy",
-        "steel"
-      ],
-      "totalStats": 380,
-      "grade": "N",
-      "pulledAt": "2026-10-05T01:55:02.172Z"
     }
   ],
   "pokemon": {
@@ -1705,6 +1705,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T14:13:46.973Z",
       "lastPulledAt": "2026-09-29T14:13:46.973Z"
+    },
+    "840": {
+      "id": 840,
+      "name": "applin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-10-07T13:53:34.245Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T13:53:34.245Z",
+      "lastPulledAt": "2026-10-07T13:53:34.245Z"
     },
     "843": {
       "id": 843,

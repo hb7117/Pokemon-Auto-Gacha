@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 132,
-  "updatedAt": "2026-10-07T23:52:31.153Z",
+  "totalPulls": 133,
+  "updatedAt": "2026-10-08T04:30:14.758Z",
   "lastPull": {
-    "id": 423,
-    "name": "gastrodon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png",
+    "id": 531,
+    "name": "audino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
     "types": [
-      "water",
-      "ground"
+      "normal"
     ],
-    "totalStats": 475,
+    "totalStats": 445,
     "grade": "R",
-    "pulledAt": "2026-10-07T23:52:31.153Z"
+    "pulledAt": "2026-10-08T04:30:14.758Z"
   },
   "pulls": [
+    {
+      "id": 531,
+      "name": "audino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 445,
+      "grade": "R",
+      "pulledAt": "2026-10-08T04:30:14.758Z"
+    },
     {
       "id": 423,
       "name": "gastrodon",
@@ -118,17 +128,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-06T03:04:57.771Z"
-    },
-    {
-      "id": 910,
-      "name": "crocalor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 411,
-      "grade": "R",
-      "pulledAt": "2026-10-05T23:11:48.296Z"
     }
   ],
   "pokemon": {
@@ -1072,6 +1071,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T06:50:34.119Z",
       "lastPulledAt": "2026-10-03T06:50:34.119Z"
+    },
+    "531": {
+      "id": 531,
+      "name": "audino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 445,
+      "grade": "R",
+      "pulledAt": "2026-10-08T04:30:14.758Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T04:30:14.758Z",
+      "lastPulledAt": "2026-10-08T04:30:14.758Z"
     },
     "542": {
       "id": 542,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 133,
-  "updatedAt": "2026-10-08T04:30:14.758Z",
+  "totalPulls": 134,
+  "updatedAt": "2026-10-08T11:35:29.885Z",
   "lastPull": {
-    "id": 531,
-    "name": "audino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
+    "id": 522,
+    "name": "blitzle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png",
     "types": [
-      "normal"
+      "electric"
     ],
-    "totalStats": 445,
-    "grade": "R",
-    "pulledAt": "2026-10-08T04:30:14.758Z"
+    "totalStats": 295,
+    "grade": "N",
+    "pulledAt": "2026-10-08T11:35:29.885Z"
   },
   "pulls": [
+    {
+      "id": 522,
+      "name": "blitzle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-10-08T11:35:29.885Z"
+    },
     {
       "id": 531,
       "name": "audino",
@@ -117,17 +128,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-06T10:09:20.481Z"
-    },
-    {
-      "id": 245,
-      "name": "suicune",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-06T03:04:57.771Z"
     }
   ],
   "pokemon": {
@@ -1056,6 +1056,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T09:07:33.884Z",
       "lastPulledAt": "2026-09-21T09:07:33.884Z"
+    },
+    "522": {
+      "id": 522,
+      "name": "blitzle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-10-08T11:35:29.885Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T11:35:29.885Z",
+      "lastPulledAt": "2026-10-08T11:35:29.885Z"
     },
     "526": {
       "id": 526,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 134,
-  "updatedAt": "2026-10-08T11:35:29.885Z",
+  "totalPulls": 135,
+  "updatedAt": "2026-10-08T17:59:09.174Z",
   "lastPull": {
-    "id": 522,
-    "name": "blitzle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png",
+    "id": 815,
+    "name": "cinderace",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
     "types": [
-      "electric"
+      "fire"
     ],
-    "totalStats": 295,
-    "grade": "N",
-    "pulledAt": "2026-10-08T11:35:29.885Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-08T17:59:09.174Z"
   },
   "pulls": [
+    {
+      "id": 815,
+      "name": "cinderace",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-08T17:59:09.174Z"
+    },
     {
       "id": 522,
       "name": "blitzle",
@@ -116,18 +127,6 @@
       "totalStats": 523,
       "grade": "SR",
       "pulledAt": "2026-10-06T16:47:47.532Z"
-    },
-    {
-      "id": 430,
-      "name": "honchkrow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-06T10:09:20.481Z"
     }
   ],
   "pokemon": {
@@ -1704,6 +1703,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T22:54:40.897Z",
       "lastPulledAt": "2026-09-22T22:54:40.897Z"
+    },
+    "815": {
+      "id": 815,
+      "name": "cinderace",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-08T17:59:09.174Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T17:59:09.174Z",
+      "lastPulledAt": "2026-10-08T17:59:09.174Z"
     },
     "830": {
       "id": 830,

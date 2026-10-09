@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 138,
-  "updatedAt": "2026-10-09T10:18:13.962Z",
+  "totalPulls": 139,
+  "updatedAt": "2026-10-09T17:03:13.416Z",
   "lastPull": {
-    "id": 25,
-    "name": "pikachu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "id": 632,
+    "name": "durant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
     "types": [
-      "electric"
+      "bug",
+      "steel"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-10-09T10:18:13.962Z"
+    "totalStats": 484,
+    "grade": "R",
+    "pulledAt": "2026-10-09T17:03:13.416Z"
   },
   "pulls": [
+    {
+      "id": 632,
+      "name": "durant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 484,
+      "grade": "R",
+      "pulledAt": "2026-10-09T17:03:13.416Z"
+    },
     {
       "id": 25,
       "name": "pikachu",
@@ -117,18 +130,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-10-07T13:53:34.245Z"
-    },
-    {
-      "id": 876,
-      "name": "indeedee-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png",
-      "types": [
-        "psychic",
-        "normal"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-07T06:36:31.833Z"
     }
   ],
   "pokemon": {
@@ -1367,6 +1368,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T22:29:21.023Z",
       "lastPulledAt": "2026-10-02T22:29:21.023Z"
+    },
+    "632": {
+      "id": 632,
+      "name": "durant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 484,
+      "grade": "R",
+      "pulledAt": "2026-10-09T17:03:13.416Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T17:03:13.416Z",
+      "lastPulledAt": "2026-10-09T17:03:13.416Z"
     },
     "636": {
       "id": 636,

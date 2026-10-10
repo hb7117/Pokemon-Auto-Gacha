@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 140,
-  "updatedAt": "2026-10-09T21:38:23.876Z",
+  "totalPulls": 141,
+  "updatedAt": "2026-10-10T01:14:59.230Z",
   "lastPull": {
-    "id": 896,
-    "name": "glastrier",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+    "id": 891,
+    "name": "kubfu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png",
     "types": [
-      "ice"
+      "fighting"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-09T21:38:23.876Z"
+    "totalStats": 385,
+    "grade": "N",
+    "pulledAt": "2026-10-10T01:14:59.230Z"
   },
   "pulls": [
+    {
+      "id": 891,
+      "name": "kubfu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-10-10T01:14:59.230Z"
+    },
     {
       "id": 896,
       "name": "glastrier",
@@ -116,18 +127,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-07T23:52:31.153Z"
-    },
-    {
-      "id": 981,
-      "name": "farigiraf",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
-      "types": [
-        "normal",
-        "psychic"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-10-07T19:43:37.630Z"
     }
   ],
   "pokemon": {
@@ -1939,6 +1938,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T16:03:14.381Z",
       "lastPulledAt": "2026-09-28T16:03:14.381Z"
+    },
+    "891": {
+      "id": 891,
+      "name": "kubfu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-10-10T01:14:59.230Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T01:14:59.230Z",
+      "lastPulledAt": "2026-10-10T01:14:59.230Z"
     },
     "896": {
       "id": 896,

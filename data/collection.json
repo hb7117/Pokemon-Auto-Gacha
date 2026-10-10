@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 142,
-  "updatedAt": "2026-10-10T07:14:16.412Z",
+  "totalPulls": 143,
+  "updatedAt": "2026-10-10T13:48:49.764Z",
   "lastPull": {
-    "id": 176,
-    "name": "togetic",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png",
+    "id": 250,
+    "name": "ho-oh",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
     "types": [
-      "fairy",
+      "fire",
       "flying"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-10-10T07:14:16.412Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-10-10T13:48:49.764Z"
   },
   "pulls": [
+    {
+      "id": 250,
+      "name": "ho-oh",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-10T13:48:49.764Z"
+    },
     {
       "id": 176,
       "name": "togetic",
@@ -117,17 +129,6 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-10-08T11:35:29.885Z"
-    },
-    {
-      "id": 531,
-      "name": "audino",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 445,
-      "grade": "R",
-      "pulledAt": "2026-10-08T04:30:14.758Z"
     }
   ],
   "pokemon": {
@@ -655,6 +656,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T03:04:57.771Z",
       "lastPulledAt": "2026-10-06T03:04:57.771Z"
+    },
+    "250": {
+      "id": 250,
+      "name": "ho-oh",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-10T13:48:49.764Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T13:48:49.764Z",
+      "lastPulledAt": "2026-10-10T13:48:49.764Z"
     },
     "252": {
       "id": 252,

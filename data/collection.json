@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 145,
-  "updatedAt": "2026-10-10T21:36:09.868Z",
+  "totalPulls": 146,
+  "updatedAt": "2026-10-11T00:27:19.937Z",
   "lastPull": {
-    "id": 1003,
-    "name": "ting-lu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+    "id": 974,
+    "name": "cetoddle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
     "types": [
-      "dark",
-      "ground"
+      "ice"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-10T21:36:09.868Z"
+    "totalStats": 334,
+    "grade": "N",
+    "pulledAt": "2026-10-11T00:27:19.937Z"
   },
   "pulls": [
+    {
+      "id": 974,
+      "name": "cetoddle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 334,
+      "grade": "N",
+      "pulledAt": "2026-10-11T00:27:19.937Z"
+    },
     {
       "id": 1003,
       "name": "ting-lu",
@@ -118,18 +128,6 @@
       "totalStats": 262,
       "grade": "N",
       "pulledAt": "2026-10-09T02:58:06.481Z"
-    },
-    {
-      "id": 590,
-      "name": "foongus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 294,
-      "grade": "N",
-      "pulledAt": "2026-10-08T23:15:11.783Z"
     }
   ],
   "pokemon": {
@@ -2128,6 +2126,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T01:55:02.172Z",
       "lastPulledAt": "2026-10-05T01:55:02.172Z"
+    },
+    "974": {
+      "id": 974,
+      "name": "cetoddle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 334,
+      "grade": "N",
+      "pulledAt": "2026-10-11T00:27:19.937Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T00:27:19.937Z",
+      "lastPulledAt": "2026-10-11T00:27:19.937Z"
     },
     "975": {
       "id": 975,

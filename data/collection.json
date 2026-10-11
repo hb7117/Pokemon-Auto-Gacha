@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 149,
-  "updatedAt": "2026-10-11T18:01:29.113Z",
+  "totalPulls": 150,
+  "updatedAt": "2026-10-11T21:51:49.704Z",
   "lastPull": {
-    "id": 637,
-    "name": "volcarona",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+    "id": 864,
+    "name": "cursola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/864.png",
     "types": [
-      "bug",
-      "fire"
+      "ghost"
     ],
-    "totalStats": 550,
+    "totalStats": 510,
     "grade": "SR",
-    "pulledAt": "2026-10-11T18:01:29.113Z"
+    "pulledAt": "2026-10-11T21:51:49.704Z"
   },
   "pulls": [
+    {
+      "id": 864,
+      "name": "cursola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/864.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T21:51:49.704Z"
+    },
     {
       "id": 637,
       "name": "volcarona",
@@ -117,17 +127,6 @@
       "totalStats": 385,
       "grade": "N",
       "pulledAt": "2026-10-10T01:14:59.230Z"
-    },
-    {
-      "id": 896,
-      "name": "glastrier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-09T21:38:23.876Z"
     }
   ],
   "pokemon": {
@@ -1969,6 +1968,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T20:15:30.047Z",
       "lastPulledAt": "2026-09-21T20:15:30.047Z"
+    },
+    "864": {
+      "id": 864,
+      "name": "cursola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/864.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T21:51:49.704Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T21:51:49.704Z",
+      "lastPulledAt": "2026-10-11T21:51:49.704Z"
     },
     "870": {
       "id": 870,

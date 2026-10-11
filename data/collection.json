@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 148,
-  "updatedAt": "2026-10-11T13:01:21.344Z",
+  "totalPulls": 149,
+  "updatedAt": "2026-10-11T18:01:29.113Z",
   "lastPull": {
-    "id": 30,
-    "name": "nidorina",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
+    "id": 637,
+    "name": "volcarona",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
     "types": [
-      "poison"
+      "bug",
+      "fire"
     ],
-    "totalStats": 365,
-    "grade": "N",
-    "pulledAt": "2026-10-11T13:01:21.344Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-10-11T18:01:29.113Z"
   },
   "pulls": [
+    {
+      "id": 637,
+      "name": "volcarona",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T18:01:29.113Z"
+    },
     {
       "id": 30,
       "name": "nidorina",
@@ -115,18 +128,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-09T21:38:23.876Z"
-    },
-    {
-      "id": 632,
-      "name": "durant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 484,
-      "grade": "R",
-      "pulledAt": "2026-10-09T17:03:13.416Z"
     }
   ],
   "pokemon": {
@@ -1474,6 +1475,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T06:03:33.417Z",
       "lastPulledAt": "2026-09-23T06:03:33.417Z"
+    },
+    "637": {
+      "id": 637,
+      "name": "volcarona",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T18:01:29.113Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T18:01:29.113Z",
+      "lastPulledAt": "2026-10-11T18:01:29.113Z"
     },
     "644": {
       "id": 644,

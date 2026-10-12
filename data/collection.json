@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 150,
-  "updatedAt": "2026-10-11T21:51:49.704Z",
+  "totalPulls": 151,
+  "updatedAt": "2026-10-12T00:57:48.408Z",
   "lastPull": {
-    "id": 864,
-    "name": "cursola",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/864.png",
+    "id": 526,
+    "name": "gigalith",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
     "types": [
-      "ghost"
+      "rock"
     ],
-    "totalStats": 510,
+    "totalStats": 515,
     "grade": "SR",
-    "pulledAt": "2026-10-11T21:51:49.704Z"
+    "pulledAt": "2026-10-12T00:57:48.408Z"
   },
   "pulls": [
+    {
+      "id": 526,
+      "name": "gigalith",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-12T00:57:48.408Z"
+    },
     {
       "id": 864,
       "name": "cursola",
@@ -116,17 +127,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-10T07:14:16.412Z"
-    },
-    {
-      "id": 891,
-      "name": "kubfu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 385,
-      "grade": "N",
-      "pulledAt": "2026-10-10T01:14:59.230Z"
     }
   ],
   "pokemon": {
@@ -1189,10 +1189,10 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-10-03T06:50:34.119Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T06:50:34.119Z",
-      "lastPulledAt": "2026-10-03T06:50:34.119Z"
+      "lastPulledAt": "2026-10-12T00:57:48.408Z"
     },
     "531": {
       "id": 531,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 156,
-  "updatedAt": "2026-10-13T11:05:00.243Z",
+  "totalPulls": 157,
+  "updatedAt": "2026-10-13T18:12:19.177Z",
   "lastPull": {
-    "id": 934,
-    "name": "garganacl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
+    "id": 608,
+    "name": "lampent",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png",
     "types": [
-      "rock"
+      "ghost",
+      "fire"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-13T11:05:00.243Z"
+    "totalStats": 370,
+    "grade": "N",
+    "pulledAt": "2026-10-13T18:12:19.177Z"
   },
   "pulls": [
+    {
+      "id": 608,
+      "name": "lampent",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-10-13T18:12:19.177Z"
+    },
     {
       "id": 934,
       "name": "garganacl",
@@ -117,17 +130,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-10-11T13:01:21.344Z"
-    },
-    {
-      "id": 237,
-      "name": "hitmontop",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-10-11T06:14:05.471Z"
     }
   ],
   "pokemon": {
@@ -1475,6 +1477,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:52:17.777Z",
       "lastPulledAt": "2026-10-04T20:07:30.007Z"
+    },
+    "608": {
+      "id": 608,
+      "name": "lampent",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-10-13T18:12:19.177Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T18:12:19.177Z",
+      "lastPulledAt": "2026-10-13T18:12:19.177Z"
     },
     "609": {
       "id": 609,

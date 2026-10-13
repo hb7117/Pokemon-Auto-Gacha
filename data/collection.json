@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 157,
-  "updatedAt": "2026-10-13T18:12:19.177Z",
+  "totalPulls": 158,
+  "updatedAt": "2026-10-13T22:52:23.811Z",
   "lastPull": {
-    "id": 608,
-    "name": "lampent",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png",
+    "id": 79,
+    "name": "slowpoke",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
     "types": [
-      "ghost",
-      "fire"
+      "water",
+      "psychic"
     ],
-    "totalStats": 370,
+    "totalStats": 315,
     "grade": "N",
-    "pulledAt": "2026-10-13T18:12:19.177Z"
+    "pulledAt": "2026-10-13T22:52:23.811Z"
   },
   "pulls": [
+    {
+      "id": 79,
+      "name": "slowpoke",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-13T22:52:23.811Z"
+    },
     {
       "id": 608,
       "name": "lampent",
@@ -119,17 +131,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-10-11T18:01:29.113Z"
-    },
-    {
-      "id": 30,
-      "name": "nidorina",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-10-11T13:01:21.344Z"
     }
   ],
   "pokemon": {
@@ -269,6 +270,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T01:21:24.391Z",
       "lastPulledAt": "2026-10-03T01:21:24.391Z"
+    },
+    "79": {
+      "id": 79,
+      "name": "slowpoke",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-13T22:52:23.811Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T22:52:23.811Z",
+      "lastPulledAt": "2026-10-13T22:52:23.811Z"
     },
     "85": {
       "id": 85,

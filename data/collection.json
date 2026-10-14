@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 161,
-  "updatedAt": "2026-10-14T12:27:42.763Z",
+  "totalPulls": 162,
+  "updatedAt": "2026-10-14T17:30:16.559Z",
   "lastPull": {
-    "id": 127,
-    "name": "pinsir",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+    "id": 25,
+    "name": "pikachu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
     "types": [
-      "bug"
+      "electric"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-14T12:27:42.763Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-10-14T17:30:16.559Z"
   },
   "pulls": [
+    {
+      "id": 25,
+      "name": "pikachu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-14T17:30:16.559Z"
+    },
     {
       "id": 127,
       "name": "pinsir",
@@ -118,18 +129,6 @@
       "totalStats": 476,
       "grade": "R",
       "pulledAt": "2026-10-12T16:42:18.479Z"
-    },
-    {
-      "id": 406,
-      "name": "budew",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-10-12T07:07:57.091Z"
     }
   ],
   "pokemon": {
@@ -159,10 +158,10 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-09T10:18:13.962Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T10:18:13.962Z",
-      "lastPulledAt": "2026-10-09T10:18:13.962Z"
+      "lastPulledAt": "2026-10-14T17:30:16.559Z"
     },
     "28": {
       "id": 28,

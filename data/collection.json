@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 160,
-  "updatedAt": "2026-10-14T06:40:12.270Z",
+  "totalPulls": 161,
+  "updatedAt": "2026-10-14T12:27:42.763Z",
   "lastPull": {
-    "id": 234,
-    "name": "stantler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
+    "id": 127,
+    "name": "pinsir",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
     "types": [
-      "normal"
+      "bug"
     ],
-    "totalStats": 465,
-    "grade": "R",
-    "pulledAt": "2026-10-14T06:40:12.270Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-14T12:27:42.763Z"
   },
   "pulls": [
+    {
+      "id": 127,
+      "name": "pinsir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T12:27:42.763Z"
+    },
     {
       "id": 234,
       "name": "stantler",
@@ -119,17 +130,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-10-12T07:07:57.091Z"
-    },
-    {
-      "id": 526,
-      "name": "gigalith",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-10-12T00:57:48.408Z"
     }
   ],
   "pokemon": {
@@ -364,6 +364,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T19:43:12.505Z",
       "lastPulledAt": "2026-09-26T21:23:15.324Z"
+    },
+    "127": {
+      "id": 127,
+      "name": "pinsir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T12:27:42.763Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T12:27:42.763Z",
+      "lastPulledAt": "2026-10-14T12:27:42.763Z"
     },
     "135": {
       "id": 135,

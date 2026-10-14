@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 163,
-  "updatedAt": "2026-10-14T20:55:10.988Z",
+  "totalPulls": 164,
+  "updatedAt": "2026-10-14T23:40:47.647Z",
   "lastPull": {
-    "id": 276,
-    "name": "taillow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png",
+    "id": 532,
+    "name": "timburr",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
     "types": [
-      "normal",
-      "flying"
+      "fighting"
     ],
-    "totalStats": 270,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-10-14T20:55:10.988Z"
+    "pulledAt": "2026-10-14T23:40:47.647Z"
   },
   "pulls": [
+    {
+      "id": 532,
+      "name": "timburr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-14T23:40:47.647Z"
+    },
     {
       "id": 276,
       "name": "taillow",
@@ -118,18 +128,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-10-13T03:37:29.622Z"
-    },
-    {
-      "id": 587,
-      "name": "emolga",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
-      "types": [
-        "electric",
-        "flying"
-      ],
-      "totalStats": 428,
-      "grade": "R",
-      "pulledAt": "2026-10-12T23:15:45.671Z"
     }
   ],
   "pokemon": {
@@ -1305,6 +1303,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T04:30:14.758Z",
       "lastPulledAt": "2026-10-08T04:30:14.758Z"
+    },
+    "532": {
+      "id": 532,
+      "name": "timburr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-14T23:40:47.647Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T23:40:47.647Z",
+      "lastPulledAt": "2026-10-14T23:40:47.647Z"
     },
     "542": {
       "id": 542,

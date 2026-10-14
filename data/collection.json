@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 162,
-  "updatedAt": "2026-10-14T17:30:16.559Z",
+  "totalPulls": 163,
+  "updatedAt": "2026-10-14T20:55:10.988Z",
   "lastPull": {
-    "id": 25,
-    "name": "pikachu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "id": 276,
+    "name": "taillow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png",
     "types": [
-      "electric"
+      "normal",
+      "flying"
     ],
-    "totalStats": 320,
+    "totalStats": 270,
     "grade": "N",
-    "pulledAt": "2026-10-14T17:30:16.559Z"
+    "pulledAt": "2026-10-14T20:55:10.988Z"
   },
   "pulls": [
+    {
+      "id": 276,
+      "name": "taillow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-14T20:55:10.988Z"
+    },
     {
       "id": 25,
       "name": "pikachu",
@@ -117,18 +130,6 @@
       "totalStats": 428,
       "grade": "R",
       "pulledAt": "2026-10-12T23:15:45.671Z"
-    },
-    {
-      "id": 741,
-      "name": "oricorio-baile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 476,
-      "grade": "R",
-      "pulledAt": "2026-10-12T16:42:18.479Z"
     }
   ],
   "pokemon": {
@@ -794,6 +795,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:01.502Z",
       "lastPulledAt": "2026-09-16T01:47:01.502Z"
+    },
+    "276": {
+      "id": 276,
+      "name": "taillow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-14T20:55:10.988Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T20:55:10.988Z",
+      "lastPulledAt": "2026-10-14T20:55:10.988Z"
     },
     "300": {
       "id": 300,

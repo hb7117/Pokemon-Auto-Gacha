@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 159,
-  "updatedAt": "2026-10-14T01:35:12.978Z",
+  "totalPulls": 160,
+  "updatedAt": "2026-10-14T06:40:12.270Z",
   "lastPull": {
-    "id": 834,
-    "name": "drednaw",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+    "id": 234,
+    "name": "stantler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
     "types": [
-      "water",
-      "rock"
+      "normal"
     ],
-    "totalStats": 485,
+    "totalStats": 465,
     "grade": "R",
-    "pulledAt": "2026-10-14T01:35:12.978Z"
+    "pulledAt": "2026-10-14T06:40:12.270Z"
   },
   "pulls": [
+    {
+      "id": 234,
+      "name": "stantler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-10-14T06:40:12.270Z"
+    },
     {
       "id": 834,
       "name": "drednaw",
@@ -120,17 +130,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-10-12T00:57:48.408Z"
-    },
-    {
-      "id": 864,
-      "name": "cursola",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/864.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-11T21:51:49.704Z"
     }
   ],
   "pokemon": {
@@ -645,6 +644,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T18:29:40.830Z",
       "lastPulledAt": "2026-10-02T18:29:40.830Z"
+    },
+    "234": {
+      "id": 234,
+      "name": "stantler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-10-14T06:40:12.270Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T06:40:12.270Z",
+      "lastPulledAt": "2026-10-14T06:40:12.270Z"
     },
     "236": {
       "id": 236,

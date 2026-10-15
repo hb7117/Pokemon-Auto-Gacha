@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 169,
-  "updatedAt": "2026-10-15T20:24:54.633Z",
+  "totalPulls": 170,
+  "updatedAt": "2026-10-15T23:10:18.901Z",
   "lastPull": {
-    "id": 389,
-    "name": "torterra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png",
+    "id": 860,
+    "name": "morgrem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
     "types": [
-      "grass",
-      "ground"
+      "dark",
+      "fairy"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-15T20:24:54.633Z"
+    "totalStats": 370,
+    "grade": "N",
+    "pulledAt": "2026-10-15T23:10:18.901Z"
   },
   "pulls": [
+    {
+      "id": 860,
+      "name": "morgrem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
+      "types": [
+        "dark",
+        "fairy"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-10-15T23:10:18.901Z"
+    },
     {
       "id": 389,
       "name": "torterra",
@@ -118,17 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-14T12:27:42.763Z"
-    },
-    {
-      "id": 234,
-      "name": "stantler",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 465,
-      "grade": "R",
-      "pulledAt": "2026-10-14T06:40:12.270Z"
     }
   ],
   "pokemon": {
@@ -2206,6 +2207,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T20:15:30.047Z",
       "lastPulledAt": "2026-09-21T20:15:30.047Z"
+    },
+    "860": {
+      "id": 860,
+      "name": "morgrem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
+      "types": [
+        "dark",
+        "fairy"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-10-15T23:10:18.901Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T23:10:18.901Z",
+      "lastPulledAt": "2026-10-15T23:10:18.901Z"
     },
     "864": {
       "id": 864,

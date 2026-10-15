@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 166,
-  "updatedAt": "2026-10-15T06:57:10.102Z",
+  "totalPulls": 167,
+  "updatedAt": "2026-10-15T12:31:31.801Z",
   "lastPull": {
-    "id": 330,
-    "name": "flygon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+    "id": 253,
+    "name": "grovyle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png",
     "types": [
-      "ground",
-      "dragon"
+      "grass"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-10-15T06:57:10.102Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-10-15T12:31:31.801Z"
   },
   "pulls": [
+    {
+      "id": 253,
+      "name": "grovyle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-15T12:31:31.801Z"
+    },
     {
       "id": 330,
       "name": "flygon",
@@ -118,18 +128,6 @@
       "totalStats": 315,
       "grade": "N",
       "pulledAt": "2026-10-13T22:52:23.811Z"
-    },
-    {
-      "id": 608,
-      "name": "lampent",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png",
-      "types": [
-        "ghost",
-        "fire"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-10-13T18:12:19.177Z"
     }
   ],
   "pokemon": {
@@ -780,6 +778,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:46:22.775Z",
       "lastPulledAt": "2026-09-16T01:46:22.775Z"
+    },
+    "253": {
+      "id": 253,
+      "name": "grovyle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-15T12:31:31.801Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T12:31:31.801Z",
+      "lastPulledAt": "2026-10-15T12:31:31.801Z"
     },
     "264": {
       "id": 264,

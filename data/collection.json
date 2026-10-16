@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 171,
-  "updatedAt": "2026-10-16T01:27:09.347Z",
+  "totalPulls": 172,
+  "updatedAt": "2026-10-16T06:12:24.852Z",
   "lastPull": {
-    "id": 84,
-    "name": "doduo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+    "id": 554,
+    "name": "darumaka",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
     "types": [
-      "normal",
-      "flying"
+      "fire"
     ],
-    "totalStats": 310,
+    "totalStats": 315,
     "grade": "N",
-    "pulledAt": "2026-10-16T01:27:09.347Z"
+    "pulledAt": "2026-10-16T06:12:24.852Z"
   },
   "pulls": [
+    {
+      "id": 554,
+      "name": "darumaka",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-16T06:12:24.852Z"
+    },
     {
       "id": 84,
       "name": "doduo",
@@ -120,17 +130,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-10-14T20:55:10.988Z"
-    },
-    {
-      "id": 25,
-      "name": "pikachu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-10-14T17:30:16.559Z"
     }
   ],
   "pokemon": {
@@ -1464,6 +1463,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T02:25:56.476Z",
       "lastPulledAt": "2026-10-01T02:25:56.476Z"
+    },
+    "554": {
+      "id": 554,
+      "name": "darumaka",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-16T06:12:24.852Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T06:12:24.852Z",
+      "lastPulledAt": "2026-10-16T06:12:24.852Z"
     },
     "558": {
       "id": 558,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 173,
-  "updatedAt": "2026-10-16T11:33:13.904Z",
+  "totalPulls": 174,
+  "updatedAt": "2026-10-16T15:30:57.428Z",
   "lastPull": {
-    "id": 774,
-    "name": "minior-red-meteor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+    "id": 789,
+    "name": "cosmog",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
     "types": [
-      "rock",
-      "flying"
+      "psychic"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-10-16T11:33:13.904Z"
+    "totalStats": 200,
+    "grade": "N",
+    "pulledAt": "2026-10-16T15:30:57.428Z"
   },
   "pulls": [
+    {
+      "id": 789,
+      "name": "cosmog",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-10-16T15:30:57.428Z"
+    },
     {
       "id": 774,
       "name": "minior-red-meteor",
@@ -120,17 +130,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-15T01:53:07.271Z"
-    },
-    {
-      "id": 532,
-      "name": "timburr",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-14T23:40:47.647Z"
     }
   ],
   "pokemon": {
@@ -2100,6 +2099,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:49:57.894Z",
       "lastPulledAt": "2026-09-22T06:49:57.894Z"
+    },
+    "789": {
+      "id": 789,
+      "name": "cosmog",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-10-16T15:30:57.428Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T15:30:57.428Z",
+      "lastPulledAt": "2026-10-16T15:30:57.428Z"
     },
     "804": {
       "id": 804,

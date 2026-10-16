@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 170,
-  "updatedAt": "2026-10-15T23:10:18.901Z",
+  "totalPulls": 171,
+  "updatedAt": "2026-10-16T01:27:09.347Z",
   "lastPull": {
-    "id": 860,
-    "name": "morgrem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
+    "id": 84,
+    "name": "doduo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
     "types": [
-      "dark",
-      "fairy"
+      "normal",
+      "flying"
     ],
-    "totalStats": 370,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-10-15T23:10:18.901Z"
+    "pulledAt": "2026-10-16T01:27:09.347Z"
   },
   "pulls": [
+    {
+      "id": 84,
+      "name": "doduo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-16T01:27:09.347Z"
+    },
     {
       "id": 860,
       "name": "morgrem",
@@ -119,17 +131,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-14T17:30:16.559Z"
-    },
-    {
-      "id": 127,
-      "name": "pinsir",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-14T12:27:42.763Z"
     }
   ],
   "pokemon": {
@@ -285,6 +286,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T22:52:23.811Z",
       "lastPulledAt": "2026-10-13T22:52:23.811Z"
+    },
+    "84": {
+      "id": 84,
+      "name": "doduo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-16T01:27:09.347Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T01:27:09.347Z",
+      "lastPulledAt": "2026-10-16T01:27:09.347Z"
     },
     "85": {
       "id": 85,

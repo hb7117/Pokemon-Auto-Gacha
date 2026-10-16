@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 172,
-  "updatedAt": "2026-10-16T06:12:24.852Z",
+  "totalPulls": 173,
+  "updatedAt": "2026-10-16T11:33:13.904Z",
   "lastPull": {
-    "id": 554,
-    "name": "darumaka",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
+    "id": 774,
+    "name": "minior-red-meteor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
     "types": [
-      "fire"
+      "rock",
+      "flying"
     ],
-    "totalStats": 315,
-    "grade": "N",
-    "pulledAt": "2026-10-16T06:12:24.852Z"
+    "totalStats": 440,
+    "grade": "R",
+    "pulledAt": "2026-10-16T11:33:13.904Z"
   },
   "pulls": [
+    {
+      "id": 774,
+      "name": "minior-red-meteor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-16T11:33:13.904Z"
+    },
     {
       "id": 554,
       "name": "darumaka",
@@ -118,18 +131,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-14T23:40:47.647Z"
-    },
-    {
-      "id": 276,
-      "name": "taillow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-10-14T20:55:10.988Z"
     }
   ],
   "pokemon": {
@@ -2068,6 +2069,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T16:27:48.791Z",
       "lastPulledAt": "2026-10-03T16:27:48.791Z"
+    },
+    "774": {
+      "id": 774,
+      "name": "minior-red-meteor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-16T11:33:13.904Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T11:33:13.904Z",
+      "lastPulledAt": "2026-10-16T11:33:13.904Z"
     },
     "782": {
       "id": 782,

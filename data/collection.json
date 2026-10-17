@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 178,
-  "updatedAt": "2026-10-17T04:39:44.112Z",
+  "totalPulls": 179,
+  "updatedAt": "2026-10-17T08:48:51.548Z",
   "lastPull": {
-    "id": 992,
-    "name": "iron-hands",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
+    "id": 851,
+    "name": "centiskorch",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
     "types": [
-      "fighting",
-      "electric"
+      "fire",
+      "bug"
     ],
-    "totalStats": 570,
+    "totalStats": 525,
     "grade": "SR",
-    "pulledAt": "2026-10-17T04:39:44.112Z"
+    "pulledAt": "2026-10-17T08:48:51.548Z"
   },
   "pulls": [
+    {
+      "id": 851,
+      "name": "centiskorch",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T08:48:51.548Z"
+    },
     {
       "id": 992,
       "name": "iron-hands",
@@ -119,18 +131,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-10-15T23:10:18.901Z"
-    },
-    {
-      "id": 389,
-      "name": "torterra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png",
-      "types": [
-        "grass",
-        "ground"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-15T20:24:54.633Z"
     }
   ],
   "pokemon": {
@@ -2317,6 +2317,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T20:15:30.047Z",
       "lastPulledAt": "2026-09-21T20:15:30.047Z"
+    },
+    "851": {
+      "id": 851,
+      "name": "centiskorch",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T08:48:51.548Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T08:48:51.548Z",
+      "lastPulledAt": "2026-10-17T08:48:51.548Z"
     },
     "860": {
       "id": 860,

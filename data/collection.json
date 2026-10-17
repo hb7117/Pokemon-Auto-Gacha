@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 180,
-  "updatedAt": "2026-10-17T12:29:07.391Z",
+  "totalPulls": 181,
+  "updatedAt": "2026-10-17T15:52:12.333Z",
   "lastPull": {
-    "id": 98,
-    "name": "krabby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+    "id": 216,
+    "name": "teddiursa",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
     "types": [
-      "water"
+      "normal"
     ],
-    "totalStats": 325,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-10-17T12:29:07.391Z"
+    "pulledAt": "2026-10-17T15:52:12.333Z"
   },
   "pulls": [
+    {
+      "id": 216,
+      "name": "teddiursa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-17T15:52:12.333Z"
+    },
     {
       "id": 98,
       "name": "krabby",
@@ -117,18 +128,6 @@
       "totalStats": 315,
       "grade": "N",
       "pulledAt": "2026-10-16T06:12:24.852Z"
-    },
-    {
-      "id": 84,
-      "name": "doduo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-16T01:27:09.347Z"
     }
   ],
   "pokemon": {
@@ -659,6 +658,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T04:59:26.388Z",
       "lastPulledAt": "2026-09-18T04:59:26.388Z"
+    },
+    "216": {
+      "id": 216,
+      "name": "teddiursa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-17T15:52:12.333Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T15:52:12.333Z",
+      "lastPulledAt": "2026-10-17T15:52:12.333Z"
     },
     "224": {
       "id": 224,

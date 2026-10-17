@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 181,
-  "updatedAt": "2026-10-17T15:52:12.333Z",
+  "totalPulls": 182,
+  "updatedAt": "2026-10-17T18:09:06.688Z",
   "lastPull": {
-    "id": 216,
-    "name": "teddiursa",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+    "id": 836,
+    "name": "boltund",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
     "types": [
-      "normal"
+      "electric"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-17T15:52:12.333Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-10-17T18:09:06.688Z"
   },
   "pulls": [
+    {
+      "id": 836,
+      "name": "boltund",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-17T18:09:06.688Z"
+    },
     {
       "id": 216,
       "name": "teddiursa",
@@ -117,17 +128,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-10-16T11:33:13.904Z"
-    },
-    {
-      "id": 554,
-      "name": "darumaka",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 315,
-      "grade": "N",
-      "pulledAt": "2026-10-16T06:12:24.852Z"
     }
   ],
   "pokemon": {
@@ -2281,6 +2281,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:42:27.006Z",
       "lastPulledAt": "2026-10-14T01:35:12.978Z"
+    },
+    "836": {
+      "id": 836,
+      "name": "boltund",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-17T18:09:06.688Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T18:09:06.688Z",
+      "lastPulledAt": "2026-10-17T18:09:06.688Z"
     },
     "839": {
       "id": 839,

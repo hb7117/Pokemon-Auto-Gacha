@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 182,
-  "updatedAt": "2026-10-17T18:09:06.688Z",
+  "totalPulls": 183,
+  "updatedAt": "2026-10-17T20:34:20.990Z",
   "lastPull": {
-    "id": 836,
-    "name": "boltund",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+    "id": 362,
+    "name": "glalie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
     "types": [
-      "electric"
+      "ice"
     ],
-    "totalStats": 490,
+    "totalStats": 480,
     "grade": "R",
-    "pulledAt": "2026-10-17T18:09:06.688Z"
+    "pulledAt": "2026-10-17T20:34:20.990Z"
   },
   "pulls": [
+    {
+      "id": 362,
+      "name": "glalie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-17T20:34:20.990Z"
+    },
     {
       "id": 836,
       "name": "boltund",
@@ -116,18 +127,6 @@
       "totalStats": 200,
       "grade": "N",
       "pulledAt": "2026-10-16T15:30:57.428Z"
-    },
-    {
-      "id": 774,
-      "name": "minior-red-meteor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
-      "types": [
-        "rock",
-        "flying"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-10-16T11:33:13.904Z"
     }
   ],
   "pokemon": {
@@ -1041,6 +1040,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T15:52:25.487Z",
       "lastPulledAt": "2026-09-21T15:52:25.487Z"
+    },
+    "362": {
+      "id": 362,
+      "name": "glalie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-17T20:34:20.990Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T20:34:20.990Z",
+      "lastPulledAt": "2026-10-17T20:34:20.990Z"
     },
     "389": {
       "id": 389,

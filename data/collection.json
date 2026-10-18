@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 184,
-  "updatedAt": "2026-10-17T22:37:49.696Z",
+  "totalPulls": 185,
+  "updatedAt": "2026-10-18T00:17:58.100Z",
   "lastPull": {
-    "id": 777,
-    "name": "togedemaru",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
+    "id": 359,
+    "name": "absol",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
     "types": [
-      "electric",
-      "steel"
+      "dark"
     ],
-    "totalStats": 435,
+    "totalStats": 465,
     "grade": "R",
-    "pulledAt": "2026-10-17T22:37:49.696Z"
+    "pulledAt": "2026-10-18T00:17:58.100Z"
   },
   "pulls": [
+    {
+      "id": 359,
+      "name": "absol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-10-18T00:17:58.100Z"
+    },
     {
       "id": 777,
       "name": "togedemaru",
@@ -117,18 +127,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-10-16T21:59:21.357Z"
-    },
-    {
-      "id": 225,
-      "name": "delibird",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
-      "types": [
-        "ice",
-        "flying"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-16T18:59:34.565Z"
     }
   ],
   "pokemon": {
@@ -1027,6 +1025,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T06:40:39.520Z",
       "lastPulledAt": "2026-10-02T06:40:39.520Z"
+    },
+    "359": {
+      "id": 359,
+      "name": "absol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-10-18T00:17:58.100Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T00:17:58.100Z",
+      "lastPulledAt": "2026-10-18T00:17:58.100Z"
     },
     "360": {
       "id": 360,

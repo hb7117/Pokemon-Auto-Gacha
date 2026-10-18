@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 188,
-  "updatedAt": "2026-10-18T13:15:16.728Z",
+  "totalPulls": 189,
+  "updatedAt": "2026-10-18T16:35:05.497Z",
   "lastPull": {
-    "id": 156,
-    "name": "quilava",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
+    "id": 616,
+    "name": "shelmet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
     "types": [
-      "fire"
+      "bug"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-10-18T13:15:16.728Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-18T16:35:05.497Z"
   },
   "pulls": [
+    {
+      "id": 616,
+      "name": "shelmet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-18T16:35:05.497Z"
+    },
     {
       "id": 156,
       "name": "quilava",
@@ -113,18 +124,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-10-17T12:29:07.391Z"
-    },
-    {
-      "id": 851,
-      "name": "centiskorch",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
-      "types": [
-        "fire",
-        "bug"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T08:48:51.548Z"
     }
   ],
   "pokemon": {
@@ -1828,6 +1827,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T22:29:21.023Z",
       "lastPulledAt": "2026-10-02T22:29:21.023Z"
+    },
+    "616": {
+      "id": 616,
+      "name": "shelmet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-18T16:35:05.497Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T16:35:05.497Z",
+      "lastPulledAt": "2026-10-18T16:35:05.497Z"
     },
     "632": {
       "id": 632,

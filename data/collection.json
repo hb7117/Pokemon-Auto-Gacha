@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 185,
-  "updatedAt": "2026-10-18T00:17:58.100Z",
+  "totalPulls": 186,
+  "updatedAt": "2026-10-18T04:45:51.118Z",
   "lastPull": {
-    "id": 359,
-    "name": "absol",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
+    "id": 490,
+    "name": "manaphy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
     "types": [
-      "dark"
+      "water"
     ],
-    "totalStats": 465,
-    "grade": "R",
-    "pulledAt": "2026-10-18T00:17:58.100Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-18T04:45:51.118Z"
   },
   "pulls": [
+    {
+      "id": 490,
+      "name": "manaphy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-18T04:45:51.118Z"
+    },
     {
       "id": 359,
       "name": "absol",
@@ -116,17 +127,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-17T00:17:24.121Z"
-    },
-    {
-      "id": 421,
-      "name": "cherrim",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/421.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-10-16T21:59:21.357Z"
     }
   ],
   "pokemon": {
@@ -1352,6 +1352,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T12:26:57.109Z",
       "lastPulledAt": "2026-09-19T12:26:57.109Z"
+    },
+    "490": {
+      "id": 490,
+      "name": "manaphy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-18T04:45:51.118Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T04:45:51.118Z",
+      "lastPulledAt": "2026-10-18T04:45:51.118Z"
     },
     "502": {
       "id": 502,

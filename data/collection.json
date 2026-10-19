@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 196,
-  "updatedAt": "2026-10-19T19:39:02.054Z",
+  "totalPulls": 197,
+  "updatedAt": "2026-10-19T23:05:43.050Z",
   "lastPull": {
-    "id": 509,
-    "name": "purrloin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
+    "id": 954,
+    "name": "rabsca",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
     "types": [
-      "dark"
+      "bug",
+      "psychic"
     ],
-    "totalStats": 281,
-    "grade": "N",
-    "pulledAt": "2026-10-19T19:39:02.054Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-10-19T23:05:43.050Z"
   },
   "pulls": [
+    {
+      "id": 954,
+      "name": "rabsca",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-19T23:05:43.050Z"
+    },
     {
       "id": 509,
       "name": "purrloin",
@@ -115,17 +128,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-18T13:15:16.728Z"
-    },
-    {
-      "id": 266,
-      "name": "silcoon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/266.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 205,
-      "grade": "N",
-      "pulledAt": "2026-10-18T09:09:11.867Z"
     }
   ],
   "pokemon": {
@@ -2774,6 +2776,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T14:57:37.520Z",
       "lastPulledAt": "2026-09-26T14:57:37.520Z"
+    },
+    "954": {
+      "id": 954,
+      "name": "rabsca",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-19T23:05:43.050Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T23:05:43.050Z",
+      "lastPulledAt": "2026-10-19T23:05:43.050Z"
     },
     "958": {
       "id": 958,

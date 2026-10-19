@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 194,
-  "updatedAt": "2026-10-19T06:32:11.241Z",
+  "totalPulls": 195,
+  "updatedAt": "2026-10-19T13:54:29.766Z",
   "lastPull": {
-    "id": 316,
-    "name": "gulpin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+    "id": 884,
+    "name": "duraludon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
     "types": [
-      "poison"
+      "steel",
+      "dragon"
     ],
-    "totalStats": 302,
-    "grade": "N",
-    "pulledAt": "2026-10-19T06:32:11.241Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-10-19T13:54:29.766Z"
   },
   "pulls": [
+    {
+      "id": 884,
+      "name": "duraludon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T13:54:29.766Z"
+    },
     {
       "id": 316,
       "name": "gulpin",
@@ -114,17 +127,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-18T04:45:51.118Z"
-    },
-    {
-      "id": 359,
-      "name": "absol",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 465,
-      "grade": "R",
-      "pulledAt": "2026-10-18T00:17:58.100Z"
     }
   ],
   "pokemon": {
@@ -2603,6 +2605,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T16:03:14.381Z",
       "lastPulledAt": "2026-09-28T16:03:14.381Z"
+    },
+    "884": {
+      "id": 884,
+      "name": "duraludon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T13:54:29.766Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T13:54:29.766Z",
+      "lastPulledAt": "2026-10-19T13:54:29.766Z"
     },
     "891": {
       "id": 891,

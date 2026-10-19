@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 192,
-  "updatedAt": "2026-10-18T23:19:50.114Z",
+  "totalPulls": 193,
+  "updatedAt": "2026-10-19T01:24:36.861Z",
   "lastPull": {
-    "id": 98,
-    "name": "krabby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+    "id": 849,
+    "name": "toxtricity-amped",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
     "types": [
-      "water"
+      "electric",
+      "poison"
     ],
-    "totalStats": 325,
-    "grade": "N",
-    "pulledAt": "2026-10-18T23:19:50.114Z"
+    "totalStats": 502,
+    "grade": "SR",
+    "pulledAt": "2026-10-19T01:24:36.861Z"
   },
   "pulls": [
+    {
+      "id": 849,
+      "name": "toxtricity-amped",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "totalStats": 502,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T01:24:36.861Z"
+    },
     {
       "id": 98,
       "name": "krabby",
@@ -114,17 +127,6 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-10-17T22:37:49.696Z"
-    },
-    {
-      "id": 362,
-      "name": "glalie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-17T20:34:20.990Z"
     }
   ],
   "pokemon": {
@@ -2474,10 +2476,10 @@
       "totalStats": 502,
       "grade": "SR",
       "pulledAt": "2026-09-21T20:15:30.047Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T20:15:30.047Z",
-      "lastPulledAt": "2026-09-21T20:15:30.047Z"
+      "lastPulledAt": "2026-10-19T01:24:36.861Z"
     },
     "851": {
       "id": 851,

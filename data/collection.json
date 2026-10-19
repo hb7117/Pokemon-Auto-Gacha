@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 195,
-  "updatedAt": "2026-10-19T13:54:29.766Z",
+  "totalPulls": 196,
+  "updatedAt": "2026-10-19T19:39:02.054Z",
   "lastPull": {
-    "id": 884,
-    "name": "duraludon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
+    "id": 509,
+    "name": "purrloin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
     "types": [
-      "steel",
-      "dragon"
+      "dark"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-10-19T13:54:29.766Z"
+    "totalStats": 281,
+    "grade": "N",
+    "pulledAt": "2026-10-19T19:39:02.054Z"
   },
   "pulls": [
+    {
+      "id": 509,
+      "name": "purrloin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 281,
+      "grade": "N",
+      "pulledAt": "2026-10-19T19:39:02.054Z"
+    },
     {
       "id": 884,
       "name": "duraludon",
@@ -116,17 +126,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-10-18T09:09:11.867Z"
-    },
-    {
-      "id": 490,
-      "name": "manaphy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-18T04:45:51.118Z"
     }
   ],
   "pokemon": {
@@ -1458,6 +1457,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T22:47:04.192Z",
       "lastPulledAt": "2026-09-25T22:47:04.192Z"
+    },
+    "509": {
+      "id": 509,
+      "name": "purrloin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 281,
+      "grade": "N",
+      "pulledAt": "2026-10-19T19:39:02.054Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T19:39:02.054Z",
+      "lastPulledAt": "2026-10-19T19:39:02.054Z"
     },
     "516": {
       "id": 516,

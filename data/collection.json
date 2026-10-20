@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 202,
-  "updatedAt": "2026-10-20T20:46:41.544Z",
+  "totalPulls": 203,
+  "updatedAt": "2026-10-20T23:27:58.293Z",
   "lastPull": {
-    "id": 215,
-    "name": "sneasel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+    "id": 228,
+    "name": "houndour",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
     "types": [
       "dark",
-      "ice"
+      "fire"
     ],
-    "totalStats": 430,
-    "grade": "R",
-    "pulledAt": "2026-10-20T20:46:41.544Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-10-20T23:27:58.293Z"
   },
   "pulls": [
+    {
+      "id": 228,
+      "name": "houndour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-20T23:27:58.293Z"
+    },
     {
       "id": 215,
       "name": "sneasel",
@@ -119,18 +131,6 @@
       "totalStats": 302,
       "grade": "N",
       "pulledAt": "2026-10-19T06:32:11.241Z"
-    },
-    {
-      "id": 849,
-      "name": "toxtricity-amped",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
-      "types": [
-        "electric",
-        "poison"
-      ],
-      "totalStats": 502,
-      "grade": "SR",
-      "pulledAt": "2026-10-19T01:24:36.861Z"
     }
   ],
   "pokemon": {
@@ -801,6 +801,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T03:07:48.061Z",
       "lastPulledAt": "2026-09-19T03:07:48.061Z"
+    },
+    "228": {
+      "id": 228,
+      "name": "houndour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-20T23:27:58.293Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T23:27:58.293Z",
+      "lastPulledAt": "2026-10-20T23:27:58.293Z"
     },
     "231": {
       "id": 231,

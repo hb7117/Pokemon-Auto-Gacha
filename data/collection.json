@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 199,
-  "updatedAt": "2026-10-20T06:41:58.641Z",
+  "totalPulls": 200,
+  "updatedAt": "2026-10-20T12:18:23.199Z",
   "lastPull": {
-    "id": 125,
-    "name": "electabuzz",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+    "id": 756,
+    "name": "shiinotic",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png",
     "types": [
-      "electric"
+      "grass",
+      "fairy"
     ],
-    "totalStats": 490,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-10-20T06:41:58.641Z"
+    "pulledAt": "2026-10-20T12:18:23.199Z"
   },
   "pulls": [
+    {
+      "id": 756,
+      "name": "shiinotic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-20T12:18:23.199Z"
+    },
     {
       "id": 125,
       "name": "electabuzz",
@@ -117,17 +130,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-18T21:14:56.805Z"
-    },
-    {
-      "id": 126,
-      "name": "magmar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-18T18:53:16.876Z"
     }
   ],
   "pokemon": {
@@ -2218,6 +2220,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T21:18:00.536Z",
       "lastPulledAt": "2026-10-06T21:18:00.536Z"
+    },
+    "756": {
+      "id": 756,
+      "name": "shiinotic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-20T12:18:23.199Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T12:18:23.199Z",
+      "lastPulledAt": "2026-10-20T12:18:23.199Z"
     },
     "764": {
       "id": 764,

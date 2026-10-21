@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 204,
-  "updatedAt": "2026-10-21T01:53:51.409Z",
+  "totalPulls": 205,
+  "updatedAt": "2026-10-21T07:02:52.023Z",
   "lastPull": {
-    "id": 651,
-    "name": "quilladin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+    "id": 330,
+    "name": "flygon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
     "types": [
-      "grass"
+      "ground",
+      "dragon"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-10-21T01:53:51.409Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-10-21T07:02:52.023Z"
   },
   "pulls": [
+    {
+      "id": 330,
+      "name": "flygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T07:02:52.023Z"
+    },
     {
       "id": 651,
       "name": "quilladin",
@@ -118,18 +131,6 @@
       "totalStats": 281,
       "grade": "N",
       "pulledAt": "2026-10-19T19:39:02.054Z"
-    },
-    {
-      "id": 884,
-      "name": "duraludon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
-      "types": [
-        "steel",
-        "dragon"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-10-19T13:54:29.766Z"
     }
   ],
   "pokemon": {
@@ -1086,10 +1087,10 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-15T06:57:10.102Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T06:57:10.102Z",
-      "lastPulledAt": "2026-10-15T06:57:10.102Z"
+      "lastPulledAt": "2026-10-21T07:02:52.023Z"
     },
     "332": {
       "id": 332,

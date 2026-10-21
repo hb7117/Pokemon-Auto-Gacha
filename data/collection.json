@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 207,
-  "updatedAt": "2026-10-21T17:54:10.460Z",
+  "totalPulls": 208,
+  "updatedAt": "2026-10-21T21:15:01.738Z",
   "lastPull": {
-    "id": 483,
-    "name": "dialga",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+    "id": 10,
+    "name": "caterpie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
     "types": [
-      "steel",
-      "dragon"
+      "bug"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-10-21T17:54:10.460Z"
+    "totalStats": 195,
+    "grade": "N",
+    "pulledAt": "2026-10-21T21:15:01.738Z"
   },
   "pulls": [
+    {
+      "id": 10,
+      "name": "caterpie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-10-21T21:15:01.738Z"
+    },
     {
       "id": 483,
       "name": "dialga",
@@ -119,21 +129,24 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-20T06:41:58.641Z"
-    },
-    {
-      "id": 42,
-      "name": "golbat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
-      "types": [
-        "poison",
-        "flying"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-10-20T01:45:38.753Z"
     }
   ],
   "pokemon": {
+    "10": {
+      "id": 10,
+      "name": "caterpie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-10-21T21:15:01.738Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T21:15:01.738Z",
+      "lastPulledAt": "2026-10-21T21:15:01.738Z"
+    },
     "14": {
       "id": 14,
       "name": "kakuna",

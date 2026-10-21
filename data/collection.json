@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 206,
-  "updatedAt": "2026-10-21T12:53:31.343Z",
+  "totalPulls": 207,
+  "updatedAt": "2026-10-21T17:54:10.460Z",
   "lastPull": {
-    "id": 316,
-    "name": "gulpin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+    "id": 483,
+    "name": "dialga",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
     "types": [
-      "poison"
+      "steel",
+      "dragon"
     ],
-    "totalStats": 302,
-    "grade": "N",
-    "pulledAt": "2026-10-21T12:53:31.343Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-10-21T17:54:10.460Z"
   },
   "pulls": [
+    {
+      "id": 483,
+      "name": "dialga",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-21T17:54:10.460Z"
+    },
     {
       "id": 316,
       "name": "gulpin",
@@ -118,18 +131,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-20T01:45:38.753Z"
-    },
-    {
-      "id": 954,
-      "name": "rabsca",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
-      "types": [
-        "bug",
-        "psychic"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-10-19T23:05:43.050Z"
     }
   ],
   "pokemon": {
@@ -1476,10 +1477,10 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-15T01:53:07.271Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T01:53:07.271Z",
-      "lastPulledAt": "2026-10-15T01:53:07.271Z"
+      "lastPulledAt": "2026-10-21T17:54:10.460Z"
     },
     "486": {
       "id": 486,

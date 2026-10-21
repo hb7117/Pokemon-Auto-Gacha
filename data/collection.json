@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 205,
-  "updatedAt": "2026-10-21T07:02:52.023Z",
+  "totalPulls": 206,
+  "updatedAt": "2026-10-21T12:53:31.343Z",
   "lastPull": {
-    "id": 330,
-    "name": "flygon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+    "id": 316,
+    "name": "gulpin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
     "types": [
-      "ground",
-      "dragon"
+      "poison"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-10-21T07:02:52.023Z"
+    "totalStats": 302,
+    "grade": "N",
+    "pulledAt": "2026-10-21T12:53:31.343Z"
   },
   "pulls": [
+    {
+      "id": 316,
+      "name": "gulpin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 302,
+      "grade": "N",
+      "pulledAt": "2026-10-21T12:53:31.343Z"
+    },
     {
       "id": 330,
       "name": "flygon",
@@ -120,17 +130,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-19T23:05:43.050Z"
-    },
-    {
-      "id": 509,
-      "name": "purrloin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 281,
-      "grade": "N",
-      "pulledAt": "2026-10-19T19:39:02.054Z"
     }
   ],
   "pokemon": {
@@ -1071,10 +1070,10 @@
       "totalStats": 302,
       "grade": "N",
       "pulledAt": "2026-10-19T06:32:11.241Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-19T06:32:11.241Z",
-      "lastPulledAt": "2026-10-19T06:32:11.241Z"
+      "lastPulledAt": "2026-10-21T12:53:31.343Z"
     },
     "330": {
       "id": 330,

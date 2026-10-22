@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 210,
-  "updatedAt": "2026-10-22T04:34:38.439Z",
+  "totalPulls": 211,
+  "updatedAt": "2026-10-22T09:36:32.247Z",
   "lastPull": {
-    "id": 443,
-    "name": "gible",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
+    "id": 688,
+    "name": "binacle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
     "types": [
-      "dragon",
-      "ground"
+      "rock",
+      "water"
     ],
-    "totalStats": 300,
+    "totalStats": 306,
     "grade": "N",
-    "pulledAt": "2026-10-22T04:34:38.439Z"
+    "pulledAt": "2026-10-22T09:36:32.247Z"
   },
   "pulls": [
+    {
+      "id": 688,
+      "name": "binacle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 306,
+      "grade": "N",
+      "pulledAt": "2026-10-22T09:36:32.247Z"
+    },
     {
       "id": 443,
       "name": "gible",
@@ -118,18 +130,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-10-20T20:46:41.544Z"
-    },
-    {
-      "id": 437,
-      "name": "bronzong",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T17:20:18.976Z"
     }
   ],
   "pokemon": {
@@ -2189,6 +2189,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T19:31:30.403Z",
       "lastPulledAt": "2026-09-25T19:31:30.403Z"
+    },
+    "688": {
+      "id": 688,
+      "name": "binacle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 306,
+      "grade": "N",
+      "pulledAt": "2026-10-22T09:36:32.247Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T09:36:32.247Z",
+      "lastPulledAt": "2026-10-22T09:36:32.247Z"
     },
     "695": {
       "id": 695,

@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 218,
-  "updatedAt": "2026-10-23T15:10:21.902Z",
+  "totalPulls": 219,
+  "updatedAt": "2026-10-23T19:19:23.504Z",
   "lastPull": {
-    "id": 759,
-    "name": "stufful",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
+    "id": 80,
+    "name": "slowbro",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
     "types": [
-      "normal",
-      "fighting"
+      "water",
+      "psychic"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-10-23T15:10:21.902Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-10-23T19:19:23.504Z"
   },
   "pulls": [
+    {
+      "id": 80,
+      "name": "slowbro",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-23T19:19:23.504Z"
+    },
     {
       "id": 759,
       "name": "stufful",
@@ -118,17 +130,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-22T04:34:38.439Z"
-    },
-    {
-      "id": 120,
-      "name": "staryu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-10-22T00:01:57.096Z"
     }
   ],
   "pokemon": {
@@ -327,10 +328,10 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-18T21:14:56.805Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T21:14:56.805Z",
-      "lastPulledAt": "2026-10-18T21:14:56.805Z"
+      "lastPulledAt": "2026-10-23T19:19:23.504Z"
     },
     "84": {
       "id": 84,

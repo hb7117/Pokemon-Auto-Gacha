@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 214,
-  "updatedAt": "2026-10-22T21:57:04.851Z",
+  "totalPulls": 215,
+  "updatedAt": "2026-10-23T00:27:20.991Z",
   "lastPull": {
-    "id": 382,
-    "name": "kyogre",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+    "id": 450,
+    "name": "hippowdon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
     "types": [
-      "water"
+      "ground"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-10-22T21:57:04.851Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-23T00:27:20.991Z"
   },
   "pulls": [
+    {
+      "id": 450,
+      "name": "hippowdon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T00:27:20.991Z"
+    },
     {
       "id": 382,
       "name": "kyogre",
@@ -115,18 +126,6 @@
       "totalStats": 302,
       "grade": "N",
       "pulledAt": "2026-10-21T12:53:31.343Z"
-    },
-    {
-      "id": 330,
-      "name": "flygon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
-      "types": [
-        "ground",
-        "dragon"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-10-21T07:02:52.023Z"
     }
   ],
   "pokemon": {
@@ -1459,6 +1458,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T04:34:38.439Z",
       "lastPulledAt": "2026-10-22T04:34:38.439Z"
+    },
+    "450": {
+      "id": 450,
+      "name": "hippowdon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T00:27:20.991Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T00:27:20.991Z",
+      "lastPulledAt": "2026-10-23T00:27:20.991Z"
     },
     "459": {
       "id": 459,

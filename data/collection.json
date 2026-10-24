@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 223,
-  "updatedAt": "2026-10-24T09:43:03.531Z",
+  "totalPulls": 224,
+  "updatedAt": "2026-10-24T13:38:10.960Z",
   "lastPull": {
-    "id": 335,
-    "name": "zangoose",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/335.png",
+    "id": 18,
+    "name": "pidgeot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
     "types": [
-      "normal"
+      "normal",
+      "flying"
     ],
-    "totalStats": 458,
+    "totalStats": 479,
     "grade": "R",
-    "pulledAt": "2026-10-24T09:43:03.531Z"
+    "pulledAt": "2026-10-24T13:38:10.960Z"
   },
   "pulls": [
+    {
+      "id": 18,
+      "name": "pidgeot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 479,
+      "grade": "R",
+      "pulledAt": "2026-10-24T13:38:10.960Z"
+    },
     {
       "id": 335,
       "name": "zangoose",
@@ -118,17 +131,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-23T00:27:20.991Z"
-    },
-    {
-      "id": 382,
-      "name": "kyogre",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-10-22T21:57:04.851Z"
     }
   ],
   "pokemon": {
@@ -162,6 +164,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T03:37:29.622Z",
       "lastPulledAt": "2026-10-13T03:37:29.622Z"
+    },
+    "18": {
+      "id": 18,
+      "name": "pidgeot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 479,
+      "grade": "R",
+      "pulledAt": "2026-10-24T13:38:10.960Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T13:38:10.960Z",
+      "lastPulledAt": "2026-10-24T13:38:10.960Z"
     },
     "25": {
       "id": 25,

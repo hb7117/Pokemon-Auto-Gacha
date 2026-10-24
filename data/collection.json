@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 224,
-  "updatedAt": "2026-10-24T13:38:10.960Z",
+  "totalPulls": 225,
+  "updatedAt": "2026-10-24T16:57:07.308Z",
   "lastPull": {
-    "id": 18,
-    "name": "pidgeot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "id": 524,
+    "name": "roggenrola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
     "types": [
-      "normal",
-      "flying"
+      "rock"
     ],
-    "totalStats": 479,
-    "grade": "R",
-    "pulledAt": "2026-10-24T13:38:10.960Z"
+    "totalStats": 280,
+    "grade": "N",
+    "pulledAt": "2026-10-24T16:57:07.308Z"
   },
   "pulls": [
+    {
+      "id": 524,
+      "name": "roggenrola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-10-24T16:57:07.308Z"
+    },
     {
       "id": 18,
       "name": "pidgeot",
@@ -120,17 +130,6 @@
       "totalStats": 474,
       "grade": "R",
       "pulledAt": "2026-10-23T05:12:56.994Z"
-    },
-    {
-      "id": 450,
-      "name": "hippowdon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-23T00:27:20.991Z"
     }
   ],
   "pokemon": {
@@ -1770,6 +1769,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T11:35:29.885Z",
       "lastPulledAt": "2026-10-08T11:35:29.885Z"
+    },
+    "524": {
+      "id": 524,
+      "name": "roggenrola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-10-24T16:57:07.308Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T16:57:07.308Z",
+      "lastPulledAt": "2026-10-24T16:57:07.308Z"
     },
     "526": {
       "id": 526,

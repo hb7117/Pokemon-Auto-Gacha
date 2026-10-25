@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 231,
-  "updatedAt": "2026-10-25T12:25:00.265Z",
+  "totalPulls": 232,
+  "updatedAt": "2026-10-25T16:41:01.957Z",
   "lastPull": {
-    "id": 404,
-    "name": "luxio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
+    "id": 771,
+    "name": "pyukumuku",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
     "types": [
-      "electric"
+      "water"
     ],
-    "totalStats": 363,
-    "grade": "N",
-    "pulledAt": "2026-10-25T12:25:00.265Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-25T16:41:01.957Z"
   },
   "pulls": [
+    {
+      "id": 771,
+      "name": "pyukumuku",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-25T16:41:01.957Z"
+    },
     {
       "id": 404,
       "name": "luxio",
@@ -117,18 +128,6 @@
       "totalStats": 458,
       "grade": "R",
       "pulledAt": "2026-10-24T09:43:03.531Z"
-    },
-    {
-      "id": 648,
-      "name": "meloetta-aria",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
-      "types": [
-        "normal",
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-24T05:23:01.032Z"
     }
   ],
   "pokemon": {
@@ -2635,10 +2634,10 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-09-24T00:42:18.705Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T00:42:18.705Z",
-      "lastPulledAt": "2026-09-24T00:42:18.705Z"
+      "lastPulledAt": "2026-10-25T16:41:01.957Z"
     },
     "772": {
       "id": 772,

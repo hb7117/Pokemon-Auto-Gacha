@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 228,
-  "updatedAt": "2026-10-24T23:45:56.166Z",
+  "totalPulls": 229,
+  "updatedAt": "2026-10-25T01:45:09.140Z",
   "lastPull": {
-    "id": 784,
-    "name": "kommo-o",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
+    "id": 666,
+    "name": "vivillon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png",
     "types": [
-      "dragon",
-      "fighting"
+      "bug",
+      "flying"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-24T23:45:56.166Z"
+    "totalStats": 411,
+    "grade": "R",
+    "pulledAt": "2026-10-25T01:45:09.140Z"
   },
   "pulls": [
+    {
+      "id": 666,
+      "name": "vivillon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 411,
+      "grade": "R",
+      "pulledAt": "2026-10-25T01:45:09.140Z"
+    },
     {
       "id": 784,
       "name": "kommo-o",
@@ -118,18 +130,6 @@
       "totalStats": 385,
       "grade": "N",
       "pulledAt": "2026-10-23T22:23:01.409Z"
-    },
-    {
-      "id": 80,
-      "name": "slowbro",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
-      "types": [
-        "water",
-        "psychic"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-23T19:19:23.504Z"
     }
   ],
   "pokemon": {
@@ -2297,6 +2297,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T00:50:04.604Z",
       "lastPulledAt": "2026-09-25T00:50:04.604Z"
+    },
+    "666": {
+      "id": 666,
+      "name": "vivillon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 411,
+      "grade": "R",
+      "pulledAt": "2026-10-25T01:45:09.140Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T01:45:09.140Z",
+      "lastPulledAt": "2026-10-25T01:45:09.140Z"
     },
     "672": {
       "id": 672,

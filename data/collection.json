@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 230,
-  "updatedAt": "2026-10-25T06:57:26.717Z",
+  "totalPulls": 231,
+  "updatedAt": "2026-10-25T12:25:00.265Z",
   "lastPull": {
-    "id": 400,
-    "name": "bibarel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png",
+    "id": 404,
+    "name": "luxio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
     "types": [
-      "normal",
-      "water"
+      "electric"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-25T06:57:26.717Z"
+    "totalStats": 363,
+    "grade": "N",
+    "pulledAt": "2026-10-25T12:25:00.265Z"
   },
   "pulls": [
+    {
+      "id": 404,
+      "name": "luxio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 363,
+      "grade": "N",
+      "pulledAt": "2026-10-25T12:25:00.265Z"
+    },
     {
       "id": 400,
       "name": "bibarel",
@@ -119,18 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-24T05:23:01.032Z"
-    },
-    {
-      "id": 199,
-      "name": "slowking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
-      "types": [
-        "water",
-        "psychic"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-24T00:55:15.127Z"
     }
   ],
   "pokemon": {
@@ -1384,6 +1382,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T06:57:26.717Z",
       "lastPulledAt": "2026-10-25T06:57:26.717Z"
+    },
+    "404": {
+      "id": 404,
+      "name": "luxio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 363,
+      "grade": "N",
+      "pulledAt": "2026-10-25T12:25:00.265Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T12:25:00.265Z",
+      "lastPulledAt": "2026-10-25T12:25:00.265Z"
     },
     "405": {
       "id": 405,

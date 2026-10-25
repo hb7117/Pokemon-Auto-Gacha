@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 232,
-  "updatedAt": "2026-10-25T16:41:01.957Z",
+  "totalPulls": 233,
+  "updatedAt": "2026-10-25T19:18:24.387Z",
   "lastPull": {
-    "id": 771,
-    "name": "pyukumuku",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+    "id": 501,
+    "name": "oshawott",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png",
     "types": [
       "water"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-25T16:41:01.957Z"
+    "totalStats": 308,
+    "grade": "N",
+    "pulledAt": "2026-10-25T19:18:24.387Z"
   },
   "pulls": [
+    {
+      "id": 501,
+      "name": "oshawott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-25T19:18:24.387Z"
+    },
     {
       "id": 771,
       "name": "pyukumuku",
@@ -117,17 +128,6 @@
       "totalStats": 479,
       "grade": "R",
       "pulledAt": "2026-10-24T13:38:10.960Z"
-    },
-    {
-      "id": 335,
-      "name": "zangoose",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/335.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 458,
-      "grade": "R",
-      "pulledAt": "2026-10-24T09:43:03.531Z"
     }
   ],
   "pokemon": {
@@ -1708,6 +1708,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T04:45:51.118Z",
       "lastPulledAt": "2026-10-18T04:45:51.118Z"
+    },
+    "501": {
+      "id": 501,
+      "name": "oshawott",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-25T19:18:24.387Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T19:18:24.387Z",
+      "lastPulledAt": "2026-10-25T19:18:24.387Z"
     },
     "502": {
       "id": 502,

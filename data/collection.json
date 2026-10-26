@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 237,
-  "updatedAt": "2026-10-26T07:06:29.647Z",
+  "totalPulls": 238,
+  "updatedAt": "2026-10-26T14:11:21.413Z",
   "lastPull": {
-    "id": 226,
-    "name": "mantine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+    "id": 112,
+    "name": "rhydon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
     "types": [
-      "water",
-      "flying"
+      "ground",
+      "rock"
     ],
     "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-10-26T07:06:29.647Z"
+    "pulledAt": "2026-10-26T14:11:21.413Z"
   },
   "pulls": [
+    {
+      "id": 112,
+      "name": "rhydon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-26T14:11:21.413Z"
+    },
     {
       "id": 226,
       "name": "mantine",
@@ -119,18 +131,6 @@
       "totalStats": 411,
       "grade": "R",
       "pulledAt": "2026-10-25T01:45:09.140Z"
-    },
-    {
-      "id": 784,
-      "name": "kommo-o",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
-      "types": [
-        "dragon",
-        "fighting"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-24T23:45:56.166Z"
     }
   ],
   "pokemon": {
@@ -428,6 +428,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T12:29:07.391Z",
       "lastPulledAt": "2026-10-18T23:19:50.114Z"
+    },
+    "112": {
+      "id": 112,
+      "name": "rhydon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-26T14:11:21.413Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T14:11:21.413Z",
+      "lastPulledAt": "2026-10-26T14:11:21.413Z"
     },
     "115": {
       "id": 115,

@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 235,
-  "updatedAt": "2026-10-25T23:48:06.331Z",
+  "totalPulls": 236,
+  "updatedAt": "2026-10-26T01:49:45.511Z",
   "lastPull": {
-    "id": 557,
-    "name": "dwebble",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/557.png",
+    "id": 959,
+    "name": "tinkaton",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
     "types": [
-      "bug",
-      "rock"
+      "fairy",
+      "steel"
     ],
-    "totalStats": 325,
-    "grade": "N",
-    "pulledAt": "2026-10-25T23:48:06.331Z"
+    "totalStats": 506,
+    "grade": "SR",
+    "pulledAt": "2026-10-26T01:49:45.511Z"
   },
   "pulls": [
+    {
+      "id": 959,
+      "name": "tinkaton",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 506,
+      "grade": "SR",
+      "pulledAt": "2026-10-26T01:49:45.511Z"
+    },
     {
       "id": 557,
       "name": "dwebble",
@@ -118,18 +130,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-10-24T21:41:02.204Z"
-    },
-    {
-      "id": 306,
-      "name": "aggron",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
-      "types": [
-        "steel",
-        "rock"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T19:18:40.865Z"
     }
   ],
   "pokemon": {
@@ -3278,6 +3278,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T01:55:02.172Z",
       "lastPulledAt": "2026-10-05T01:55:02.172Z"
+    },
+    "959": {
+      "id": 959,
+      "name": "tinkaton",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 506,
+      "grade": "SR",
+      "pulledAt": "2026-10-26T01:49:45.511Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T01:49:45.511Z",
+      "lastPulledAt": "2026-10-26T01:49:45.511Z"
     },
     "974": {
       "id": 974,

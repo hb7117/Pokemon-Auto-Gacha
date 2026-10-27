@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 242,
-  "updatedAt": "2026-10-27T08:16:27.030Z",
+  "totalPulls": 243,
+  "updatedAt": "2026-10-27T14:38:37.140Z",
   "lastPull": {
-    "id": 746,
-    "name": "wishiwashi-solo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/746.png",
+    "id": 960,
+    "name": "wiglett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
     "types": [
       "water"
     ],
-    "totalStats": 175,
+    "totalStats": 245,
     "grade": "N",
-    "pulledAt": "2026-10-27T08:16:27.030Z"
+    "pulledAt": "2026-10-27T14:38:37.140Z"
   },
   "pulls": [
+    {
+      "id": 960,
+      "name": "wiglett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-27T14:38:37.140Z"
+    },
     {
       "id": 746,
       "name": "wishiwashi-solo",
@@ -119,17 +130,6 @@
       "totalStats": 220,
       "grade": "N",
       "pulledAt": "2026-10-25T21:54:04.156Z"
-    },
-    {
-      "id": 501,
-      "name": "oshawott",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 308,
-      "grade": "N",
-      "pulledAt": "2026-10-25T19:18:24.387Z"
     }
   ],
   "pokemon": {
@@ -3357,6 +3357,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T01:49:45.511Z",
       "lastPulledAt": "2026-10-26T01:49:45.511Z"
+    },
+    "960": {
+      "id": 960,
+      "name": "wiglett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-27T14:38:37.140Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T14:38:37.140Z",
+      "lastPulledAt": "2026-10-27T14:38:37.140Z"
     },
     "974": {
       "id": 974,

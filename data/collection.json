@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 240,
-  "updatedAt": "2026-10-26T23:43:20.004Z",
+  "totalPulls": 241,
+  "updatedAt": "2026-10-27T02:27:28.929Z",
   "lastPull": {
-    "id": 344,
-    "name": "claydol",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+    "id": 747,
+    "name": "mareanie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
     "types": [
-      "ground",
-      "psychic"
+      "poison",
+      "water"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-26T23:43:20.004Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-27T02:27:28.929Z"
   },
   "pulls": [
+    {
+      "id": 747,
+      "name": "mareanie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-27T02:27:28.929Z"
+    },
     {
       "id": 344,
       "name": "claydol",
@@ -119,17 +131,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-25T16:41:01.957Z"
-    },
-    {
-      "id": 404,
-      "name": "luxio",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 363,
-      "grade": "N",
-      "pulledAt": "2026-10-25T12:25:00.265Z"
     }
   ],
   "pokemon": {
@@ -2640,6 +2641,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T21:18:00.536Z",
       "lastPulledAt": "2026-10-06T21:18:00.536Z"
+    },
+    "747": {
+      "id": 747,
+      "name": "mareanie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-27T02:27:28.929Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T02:27:28.929Z",
+      "lastPulledAt": "2026-10-27T02:27:28.929Z"
     },
     "756": {
       "id": 756,

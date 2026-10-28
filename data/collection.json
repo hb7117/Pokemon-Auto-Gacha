@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 246,
-  "updatedAt": "2026-10-28T02:21:35.649Z",
+  "totalPulls": 247,
+  "updatedAt": "2026-10-28T08:50:54.149Z",
   "lastPull": {
-    "id": 147,
-    "name": "dratini",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+    "id": 213,
+    "name": "shuckle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
     "types": [
-      "dragon"
+      "bug",
+      "rock"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-28T02:21:35.649Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-28T08:50:54.149Z"
   },
   "pulls": [
+    {
+      "id": 213,
+      "name": "shuckle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-28T08:50:54.149Z"
+    },
     {
       "id": 147,
       "name": "dratini",
@@ -117,18 +130,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-26T14:11:21.413Z"
-    },
-    {
-      "id": 226,
-      "name": "mantine",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-26T07:06:29.647Z"
     }
   ],
   "pokemon": {
@@ -841,10 +842,10 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-18T04:59:26.388Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T04:59:26.388Z",
-      "lastPulledAt": "2026-09-18T04:59:26.388Z"
+      "lastPulledAt": "2026-10-28T08:50:54.149Z"
     },
     "215": {
       "id": 215,

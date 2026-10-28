@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 247,
-  "updatedAt": "2026-10-28T08:50:54.149Z",
+  "totalPulls": 248,
+  "updatedAt": "2026-10-28T15:43:11.851Z",
   "lastPull": {
-    "id": 213,
-    "name": "shuckle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+    "id": 258,
+    "name": "mudkip",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
     "types": [
-      "bug",
-      "rock"
+      "water"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-28T08:50:54.149Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-10-28T15:43:11.851Z"
   },
   "pulls": [
+    {
+      "id": 258,
+      "name": "mudkip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-28T15:43:11.851Z"
+    },
     {
       "id": 213,
       "name": "shuckle",
@@ -118,18 +128,6 @@
       "totalStats": 425,
       "grade": "R",
       "pulledAt": "2026-10-26T19:58:52.686Z"
-    },
-    {
-      "id": 112,
-      "name": "rhydon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
-      "types": [
-        "ground",
-        "rock"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-26T14:11:21.413Z"
     }
   ],
   "pokemon": {
@@ -1122,6 +1120,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T12:31:31.801Z",
       "lastPulledAt": "2026-10-15T12:31:31.801Z"
+    },
+    "258": {
+      "id": 258,
+      "name": "mudkip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-28T15:43:11.851Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T15:43:11.851Z",
+      "lastPulledAt": "2026-10-28T15:43:11.851Z"
     },
     "264": {
       "id": 264,

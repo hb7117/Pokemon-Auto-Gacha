@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 248,
-  "updatedAt": "2026-10-28T15:43:11.851Z",
+  "totalPulls": 249,
+  "updatedAt": "2026-10-28T20:35:27.141Z",
   "lastPull": {
-    "id": 258,
-    "name": "mudkip",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+    "id": 395,
+    "name": "empoleon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
     "types": [
-      "water"
+      "water",
+      "steel"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-10-28T15:43:11.851Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-28T20:35:27.141Z"
   },
   "pulls": [
+    {
+      "id": 395,
+      "name": "empoleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+      "types": [
+        "water",
+        "steel"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-28T20:35:27.141Z"
+    },
     {
       "id": 258,
       "name": "mudkip",
@@ -117,17 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-26T23:43:20.004Z"
-    },
-    {
-      "id": 51,
-      "name": "dugtrio",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 425,
-      "grade": "R",
-      "pulledAt": "2026-10-26T19:58:52.686Z"
     }
   ],
   "pokemon": {
@@ -1474,6 +1476,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T20:24:54.633Z",
       "lastPulledAt": "2026-10-15T20:24:54.633Z"
+    },
+    "395": {
+      "id": 395,
+      "name": "empoleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+      "types": [
+        "water",
+        "steel"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-28T20:35:27.141Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T20:35:27.141Z",
+      "lastPulledAt": "2026-10-28T20:35:27.141Z"
     },
     "398": {
       "id": 398,

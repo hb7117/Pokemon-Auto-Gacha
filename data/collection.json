@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 253,
-  "updatedAt": "2026-10-29T18:59:25.236Z",
+  "totalPulls": 254,
+  "updatedAt": "2026-10-29T23:13:05.385Z",
   "lastPull": {
-    "id": 1000,
-    "name": "gholdengo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+    "id": 123,
+    "name": "scyther",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
     "types": [
-      "steel",
-      "ghost"
+      "bug",
+      "flying"
     ],
-    "totalStats": 550,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-10-29T18:59:25.236Z"
+    "pulledAt": "2026-10-29T23:13:05.385Z"
   },
   "pulls": [
+    {
+      "id": 123,
+      "name": "scyther",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-29T23:13:05.385Z"
+    },
     {
       "id": 1000,
       "name": "gholdengo",
@@ -117,18 +129,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-27T23:10:16.939Z"
-    },
-    {
-      "id": 381,
-      "name": "latios",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png",
-      "types": [
-        "dragon",
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-27T19:38:09.254Z"
     }
   ],
   "pokemon": {
@@ -550,6 +550,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T19:43:12.505Z",
       "lastPulledAt": "2026-09-26T21:23:15.324Z"
+    },
+    "123": {
+      "id": 123,
+      "name": "scyther",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-29T23:13:05.385Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T23:13:05.385Z",
+      "lastPulledAt": "2026-10-29T23:13:05.385Z"
     },
     "125": {
       "id": 125,

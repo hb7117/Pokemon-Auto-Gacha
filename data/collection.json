@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 252,
-  "updatedAt": "2026-10-29T13:13:56.376Z",
+  "totalPulls": 253,
+  "updatedAt": "2026-10-29T18:59:25.236Z",
   "lastPull": {
-    "id": 9,
-    "name": "blastoise",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "id": 1000,
+    "name": "gholdengo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
     "types": [
-      "water"
+      "steel",
+      "ghost"
     ],
-    "totalStats": 530,
+    "totalStats": 550,
     "grade": "SR",
-    "pulledAt": "2026-10-29T13:13:56.376Z"
+    "pulledAt": "2026-10-29T18:59:25.236Z"
   },
   "pulls": [
+    {
+      "id": 1000,
+      "name": "gholdengo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-10-29T18:59:25.236Z"
+    },
     {
       "id": 9,
       "name": "blastoise",
@@ -116,17 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-27T19:38:09.254Z"
-    },
-    {
-      "id": 960,
-      "name": "wiglett",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 245,
-      "grade": "N",
-      "pulledAt": "2026-10-27T14:38:37.140Z"
     }
   ],
   "pokemon": {
@@ -3571,6 +3573,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T04:39:44.112Z",
       "lastPulledAt": "2026-10-17T04:39:44.112Z"
+    },
+    "1000": {
+      "id": 1000,
+      "name": "gholdengo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-10-29T18:59:25.236Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T18:59:25.236Z",
+      "lastPulledAt": "2026-10-29T18:59:25.236Z"
     },
     "1002": {
       "id": 1002,

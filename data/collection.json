@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 249,
-  "updatedAt": "2026-10-28T20:35:27.141Z",
+  "totalPulls": 250,
+  "updatedAt": "2026-10-29T00:22:09.932Z",
   "lastPull": {
-    "id": 395,
-    "name": "empoleon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+    "id": 828,
+    "name": "thievul",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
     "types": [
-      "water",
-      "steel"
+      "dark"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-28T20:35:27.141Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-10-29T00:22:09.932Z"
   },
   "pulls": [
+    {
+      "id": 828,
+      "name": "thievul",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-29T00:22:09.932Z"
+    },
     {
       "id": 395,
       "name": "empoleon",
@@ -118,18 +128,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-27T02:27:28.929Z"
-    },
-    {
-      "id": 344,
-      "name": "claydol",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
-      "types": [
-        "ground",
-        "psychic"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-26T23:43:20.004Z"
     }
   ],
   "pokemon": {
@@ -2997,6 +2995,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T17:59:09.174Z",
       "lastPulledAt": "2026-10-08T17:59:09.174Z"
+    },
+    "828": {
+      "id": 828,
+      "name": "thievul",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-29T00:22:09.932Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T00:22:09.932Z",
+      "lastPulledAt": "2026-10-29T00:22:09.932Z"
     },
     "830": {
       "id": 830,

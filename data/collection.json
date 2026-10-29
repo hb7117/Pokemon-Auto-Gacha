@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 250,
-  "updatedAt": "2026-10-29T00:22:09.932Z",
+  "totalPulls": 251,
+  "updatedAt": "2026-10-29T06:11:59.777Z",
   "lastPull": {
-    "id": 828,
-    "name": "thievul",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
+    "id": 651,
+    "name": "quilladin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
     "types": [
-      "dark"
+      "grass"
     ],
-    "totalStats": 455,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-10-29T00:22:09.932Z"
+    "pulledAt": "2026-10-29T06:11:59.777Z"
   },
   "pulls": [
+    {
+      "id": 651,
+      "name": "quilladin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-29T06:11:59.777Z"
+    },
     {
       "id": 828,
       "name": "thievul",
@@ -116,18 +127,6 @@
       "totalStats": 175,
       "grade": "N",
       "pulledAt": "2026-10-27T08:16:27.030Z"
-    },
-    {
-      "id": 747,
-      "name": "mareanie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
-      "types": [
-        "poison",
-        "water"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-27T02:27:28.929Z"
     }
   ],
   "pokemon": {
@@ -2464,10 +2463,10 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-21T01:53:51.409Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T01:53:51.409Z",
-      "lastPulledAt": "2026-10-21T01:53:51.409Z"
+      "lastPulledAt": "2026-10-29T06:11:59.777Z"
     },
     "656": {
       "id": 656,

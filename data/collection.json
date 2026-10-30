@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 257,
-  "updatedAt": "2026-10-30T15:49:20.116Z",
+  "totalPulls": 258,
+  "updatedAt": "2026-10-30T20:17:35.201Z",
   "lastPull": {
-    "id": 355,
-    "name": "duskull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+    "id": 622,
+    "name": "golett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
     "types": [
+      "ground",
       "ghost"
     ],
-    "totalStats": 295,
+    "totalStats": 303,
     "grade": "N",
-    "pulledAt": "2026-10-30T15:49:20.116Z"
+    "pulledAt": "2026-10-30T20:17:35.201Z"
   },
   "pulls": [
+    {
+      "id": 622,
+      "name": "golett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-10-30T20:17:35.201Z"
+    },
     {
       "id": 355,
       "name": "duskull",
@@ -116,17 +129,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-28T20:35:27.141Z"
-    },
-    {
-      "id": 258,
-      "name": "mudkip",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-28T15:43:11.851Z"
     }
   ],
   "pokemon": {
@@ -2434,6 +2436,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T16:35:05.497Z",
       "lastPulledAt": "2026-10-18T16:35:05.497Z"
+    },
+    "622": {
+      "id": 622,
+      "name": "golett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-10-30T20:17:35.201Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T20:17:35.201Z",
+      "lastPulledAt": "2026-10-30T20:17:35.201Z"
     },
     "632": {
       "id": 632,

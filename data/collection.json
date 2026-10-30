@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 255,
-  "updatedAt": "2026-10-30T02:39:34.734Z",
+  "totalPulls": 256,
+  "updatedAt": "2026-10-30T09:00:06.597Z",
   "lastPull": {
-    "id": 495,
-    "name": "snivy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png",
+    "id": 411,
+    "name": "bastiodon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
     "types": [
-      "grass"
+      "rock",
+      "steel"
     ],
-    "totalStats": 308,
-    "grade": "N",
-    "pulledAt": "2026-10-30T02:39:34.734Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-30T09:00:06.597Z"
   },
   "pulls": [
+    {
+      "id": 411,
+      "name": "bastiodon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-30T09:00:06.597Z"
+    },
     {
       "id": 495,
       "name": "snivy",
@@ -116,17 +129,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-28T08:50:54.149Z"
-    },
-    {
-      "id": 147,
-      "name": "dratini",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-28T02:21:35.649Z"
     }
   ],
   "pokemon": {
@@ -1598,6 +1600,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-12T07:07:57.091Z",
       "lastPulledAt": "2026-10-12T07:07:57.091Z"
+    },
+    "411": {
+      "id": 411,
+      "name": "bastiodon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-30T09:00:06.597Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T09:00:06.597Z",
+      "lastPulledAt": "2026-10-30T09:00:06.597Z"
     },
     "414": {
       "id": 414,

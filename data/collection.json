@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 256,
-  "updatedAt": "2026-10-30T09:00:06.597Z",
+  "totalPulls": 257,
+  "updatedAt": "2026-10-30T15:49:20.116Z",
   "lastPull": {
-    "id": 411,
-    "name": "bastiodon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
+    "id": 355,
+    "name": "duskull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
     "types": [
-      "rock",
-      "steel"
+      "ghost"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-30T09:00:06.597Z"
+    "totalStats": 295,
+    "grade": "N",
+    "pulledAt": "2026-10-30T15:49:20.116Z"
   },
   "pulls": [
+    {
+      "id": 355,
+      "name": "duskull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-10-30T15:49:20.116Z"
+    },
     {
       "id": 411,
       "name": "bastiodon",
@@ -117,18 +127,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-28T15:43:11.851Z"
-    },
-    {
-      "id": 213,
-      "name": "shuckle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
-      "types": [
-        "bug",
-        "rock"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-28T08:50:54.149Z"
     }
   ],
   "pokemon": {
@@ -1395,10 +1393,10 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-10-04T00:46:09.859Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T00:46:09.859Z",
-      "lastPulledAt": "2026-10-04T00:46:09.859Z"
+      "lastPulledAt": "2026-10-30T15:49:20.116Z"
     },
     "358": {
       "id": 358,

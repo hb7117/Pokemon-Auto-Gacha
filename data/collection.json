@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 261,
-  "updatedAt": "2026-10-31T10:19:27.130Z",
+  "totalPulls": 262,
+  "updatedAt": "2026-10-31T15:48:03.163Z",
   "lastPull": {
-    "id": 479,
-    "name": "rotom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+    "id": 494,
+    "name": "victini",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
     "types": [
-      "electric",
-      "ghost"
+      "psychic",
+      "fire"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-10-31T10:19:27.130Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-31T15:48:03.163Z"
   },
   "pulls": [
+    {
+      "id": 494,
+      "name": "victini",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+      "types": [
+        "psychic",
+        "fire"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-31T15:48:03.163Z"
+    },
     {
       "id": 479,
       "name": "rotom",
@@ -120,17 +132,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-10-29T18:59:25.236Z"
-    },
-    {
-      "id": 9,
-      "name": "blastoise",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-29T13:13:56.376Z"
     }
   ],
   "pokemon": {
@@ -1915,6 +1916,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T04:45:51.118Z",
       "lastPulledAt": "2026-10-18T04:45:51.118Z"
+    },
+    "494": {
+      "id": 494,
+      "name": "victini",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+      "types": [
+        "psychic",
+        "fire"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-31T15:48:03.163Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T15:48:03.163Z",
+      "lastPulledAt": "2026-10-31T15:48:03.163Z"
     },
     "495": {
       "id": 495,

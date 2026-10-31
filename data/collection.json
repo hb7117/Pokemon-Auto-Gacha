@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 263,
-  "updatedAt": "2026-10-31T19:35:07.859Z",
+  "totalPulls": 264,
+  "updatedAt": "2026-10-31T22:47:50.808Z",
   "lastPull": {
-    "id": 304,
-    "name": "aron",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+    "id": 174,
+    "name": "igglybuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
     "types": [
-      "steel",
-      "rock"
+      "normal",
+      "fairy"
     ],
-    "totalStats": 330,
+    "totalStats": 210,
     "grade": "N",
-    "pulledAt": "2026-10-31T19:35:07.859Z"
+    "pulledAt": "2026-10-31T22:47:50.808Z"
   },
   "pulls": [
+    {
+      "id": 174,
+      "name": "igglybuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-10-31T22:47:50.808Z"
+    },
     {
       "id": 304,
       "name": "aron",
@@ -120,18 +132,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-10-30T02:39:34.734Z"
-    },
-    {
-      "id": 123,
-      "name": "scyther",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-29T23:13:05.385Z"
     }
   ],
   "pokemon": {
@@ -737,6 +737,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T22:14:57.380Z",
       "lastPulledAt": "2026-09-17T22:14:57.380Z"
+    },
+    "174": {
+      "id": 174,
+      "name": "igglybuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-10-31T22:47:50.808Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T22:47:50.808Z",
+      "lastPulledAt": "2026-10-31T22:47:50.808Z"
     },
     "175": {
       "id": 175,

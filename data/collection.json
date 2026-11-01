@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 266,
-  "updatedAt": "2026-11-01T08:05:47.359Z",
+  "totalPulls": 267,
+  "updatedAt": "2026-11-01T15:01:33.568Z",
   "lastPull": {
-    "id": 668,
-    "name": "pyroar-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
+    "id": 247,
+    "name": "pupitar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
     "types": [
-      "fire",
-      "normal"
+      "rock",
+      "ground"
     ],
-    "totalStats": 507,
-    "grade": "SR",
-    "pulledAt": "2026-11-01T08:05:47.359Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-11-01T15:01:33.568Z"
   },
   "pulls": [
+    {
+      "id": 247,
+      "name": "pupitar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-01T15:01:33.568Z"
+    },
     {
       "id": 668,
       "name": "pyroar-male",
@@ -122,17 +134,6 @@
       "totalStats": 303,
       "grade": "N",
       "pulledAt": "2026-10-30T20:17:35.201Z"
-    },
-    {
-      "id": 355,
-      "name": "duskull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-10-30T15:49:20.116Z"
     }
   ],
   "pokemon": {
@@ -1126,6 +1127,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T03:04:57.771Z",
       "lastPulledAt": "2026-10-06T03:04:57.771Z"
+    },
+    "247": {
+      "id": 247,
+      "name": "pupitar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-01T15:01:33.568Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T15:01:33.568Z",
+      "lastPulledAt": "2026-11-01T15:01:33.568Z"
     },
     "250": {
       "id": 250,

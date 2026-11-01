@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 268,
-  "updatedAt": "2026-11-01T19:35:26.549Z",
+  "totalPulls": 269,
+  "updatedAt": "2026-11-01T23:02:01.524Z",
   "lastPull": {
-    "id": 521,
-    "name": "unfezant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
+    "id": 965,
+    "name": "varoom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
     "types": [
-      "normal",
-      "flying"
+      "steel",
+      "poison"
     ],
-    "totalStats": 488,
-    "grade": "R",
-    "pulledAt": "2026-11-01T19:35:26.549Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-01T23:02:01.524Z"
   },
   "pulls": [
+    {
+      "id": 965,
+      "name": "varoom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+      "types": [
+        "steel",
+        "poison"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-01T23:02:01.524Z"
+    },
     {
       "id": 521,
       "name": "unfezant",
@@ -122,18 +134,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-31T04:02:00.400Z"
-    },
-    {
-      "id": 923,
-      "name": "pawmot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
-      "types": [
-        "electric",
-        "fighting"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-30T23:52:38.203Z"
     }
   ],
   "pokemon": {
@@ -3691,6 +3691,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-27T14:38:37.140Z",
       "lastPulledAt": "2026-10-27T14:38:37.140Z"
+    },
+    "965": {
+      "id": 965,
+      "name": "varoom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+      "types": [
+        "steel",
+        "poison"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-01T23:02:01.524Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T23:02:01.524Z",
+      "lastPulledAt": "2026-11-01T23:02:01.524Z"
     },
     "974": {
       "id": 974,

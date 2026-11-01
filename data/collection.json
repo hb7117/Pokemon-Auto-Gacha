@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 265,
-  "updatedAt": "2026-11-01T01:31:27.382Z",
+  "totalPulls": 266,
+  "updatedAt": "2026-11-01T08:05:47.359Z",
   "lastPull": {
-    "id": 357,
-    "name": "tropius",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+    "id": 668,
+    "name": "pyroar-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
     "types": [
-      "grass",
-      "flying"
+      "fire",
+      "normal"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-11-01T01:31:27.382Z"
+    "totalStats": 507,
+    "grade": "SR",
+    "pulledAt": "2026-11-01T08:05:47.359Z"
   },
   "pulls": [
+    {
+      "id": 668,
+      "name": "pyroar-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
+      "types": [
+        "fire",
+        "normal"
+      ],
+      "totalStats": 507,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T08:05:47.359Z"
+    },
     {
       "id": 357,
       "name": "tropius",
@@ -121,18 +133,6 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-10-30T15:49:20.116Z"
-    },
-    {
-      "id": 411,
-      "name": "bastiodon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
-      "types": [
-        "rock",
-        "steel"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-30T09:00:06.597Z"
     }
   ],
   "pokemon": {
@@ -2693,6 +2693,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T01:45:09.140Z",
       "lastPulledAt": "2026-10-25T01:45:09.140Z"
+    },
+    "668": {
+      "id": 668,
+      "name": "pyroar-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
+      "types": [
+        "fire",
+        "normal"
+      ],
+      "totalStats": 507,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T08:05:47.359Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T08:05:47.359Z",
+      "lastPulledAt": "2026-11-01T08:05:47.359Z"
     },
     "672": {
       "id": 672,

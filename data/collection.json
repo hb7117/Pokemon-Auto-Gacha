@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 275,
-  "updatedAt": "2026-11-03T17:12:51.761Z",
+  "totalPulls": 276,
+  "updatedAt": "2026-11-03T22:20:21.961Z",
   "lastPull": {
-    "id": 647,
-    "name": "keldeo-ordinary",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+    "id": 383,
+    "name": "groudon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
     "types": [
-      "water",
-      "fighting"
+      "ground"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-03T17:12:51.761Z"
+    "totalStats": 670,
+    "grade": "SSR",
+    "pulledAt": "2026-11-03T22:20:21.961Z"
   },
   "pulls": [
+    {
+      "id": 383,
+      "name": "groudon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-11-03T22:20:21.961Z"
+    },
     {
       "id": 647,
       "name": "keldeo-ordinary",
@@ -121,18 +131,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-11-01T15:01:33.568Z"
-    },
-    {
-      "id": 668,
-      "name": "pyroar-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
-      "types": [
-        "fire",
-        "normal"
-      ],
-      "totalStats": 507,
-      "grade": "SR",
-      "pulledAt": "2026-11-01T08:05:47.359Z"
     }
   ],
   "pokemon": {
@@ -1589,6 +1587,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T21:57:04.851Z",
       "lastPulledAt": "2026-10-22T21:57:04.851Z"
+    },
+    "383": {
+      "id": 383,
+      "name": "groudon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-11-03T22:20:21.961Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T22:20:21.961Z",
+      "lastPulledAt": "2026-11-03T22:20:21.961Z"
     },
     "389": {
       "id": 389,

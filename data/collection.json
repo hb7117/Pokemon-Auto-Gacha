@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 273,
-  "updatedAt": "2026-11-03T01:59:39.106Z",
+  "totalPulls": 274,
+  "updatedAt": "2026-11-03T09:24:46.089Z",
   "lastPull": {
-    "id": 178,
-    "name": "xatu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png",
+    "id": 591,
+    "name": "amoonguss",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
     "types": [
-      "psychic",
-      "flying"
+      "grass",
+      "poison"
     ],
-    "totalStats": 470,
+    "totalStats": 464,
     "grade": "R",
-    "pulledAt": "2026-11-03T01:59:39.106Z"
+    "pulledAt": "2026-11-03T09:24:46.089Z"
   },
   "pulls": [
+    {
+      "id": 591,
+      "name": "amoonguss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 464,
+      "grade": "R",
+      "pulledAt": "2026-11-03T09:24:46.089Z"
+    },
     {
       "id": 178,
       "name": "xatu",
@@ -121,18 +133,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-11-01T01:31:27.382Z"
-    },
-    {
-      "id": 174,
-      "name": "igglybuff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
-      "types": [
-        "normal",
-        "fairy"
-      ],
-      "totalStats": 210,
-      "grade": "N",
-      "pulledAt": "2026-10-31T22:47:50.808Z"
     }
   ],
   "pokemon": {
@@ -2458,6 +2458,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T23:15:11.783Z",
       "lastPulledAt": "2026-10-08T23:15:11.783Z"
+    },
+    "591": {
+      "id": 591,
+      "name": "amoonguss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 464,
+      "grade": "R",
+      "pulledAt": "2026-11-03T09:24:46.089Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T09:24:46.089Z",
+      "lastPulledAt": "2026-11-03T09:24:46.089Z"
     },
     "592": {
       "id": 592,

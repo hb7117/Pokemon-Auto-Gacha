@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 274,
-  "updatedAt": "2026-11-03T09:24:46.089Z",
+  "totalPulls": 275,
+  "updatedAt": "2026-11-03T17:12:51.761Z",
   "lastPull": {
-    "id": 591,
-    "name": "amoonguss",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
+    "id": 647,
+    "name": "keldeo-ordinary",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
     "types": [
-      "grass",
-      "poison"
+      "water",
+      "fighting"
     ],
-    "totalStats": 464,
-    "grade": "R",
-    "pulledAt": "2026-11-03T09:24:46.089Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-11-03T17:12:51.761Z"
   },
   "pulls": [
+    {
+      "id": 647,
+      "name": "keldeo-ordinary",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T17:12:51.761Z"
+    },
     {
       "id": 591,
       "name": "amoonguss",
@@ -121,18 +133,6 @@
       "totalStats": 507,
       "grade": "SR",
       "pulledAt": "2026-11-01T08:05:47.359Z"
-    },
-    {
-      "id": 357,
-      "name": "tropius",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-11-01T01:31:27.382Z"
     }
   ],
   "pokemon": {
@@ -2679,6 +2679,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:53:03.758Z",
       "lastPulledAt": "2026-09-16T01:53:03.758Z"
+    },
+    "647": {
+      "id": 647,
+      "name": "keldeo-ordinary",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T17:12:51.761Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T17:12:51.761Z",
+      "lastPulledAt": "2026-11-03T17:12:51.761Z"
     },
     "648": {
       "id": 648,

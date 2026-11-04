@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 278,
-  "updatedAt": "2026-11-04T09:48:58.819Z",
+  "totalPulls": 279,
+  "updatedAt": "2026-11-04T17:51:09.674Z",
   "lastPull": {
-    "id": 906,
-    "name": "sprigatito",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
+    "id": 438,
+    "name": "bonsly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
     "types": [
-      "grass"
+      "rock"
     ],
-    "totalStats": 310,
+    "totalStats": 290,
     "grade": "N",
-    "pulledAt": "2026-11-04T09:48:58.819Z"
+    "pulledAt": "2026-11-04T17:51:09.674Z"
   },
   "pulls": [
+    {
+      "id": 438,
+      "name": "bonsly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-04T17:51:09.674Z"
+    },
     {
       "id": 906,
       "name": "sprigatito",
@@ -117,18 +128,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-11-02T02:24:57.999Z"
-    },
-    {
-      "id": 965,
-      "name": "varoom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
-      "types": [
-        "steel",
-        "poison"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-01T23:02:01.524Z"
     }
   ],
   "pokemon": {
@@ -1836,6 +1835,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T17:20:18.976Z",
       "lastPulledAt": "2026-10-20T17:20:18.976Z"
+    },
+    "438": {
+      "id": 438,
+      "name": "bonsly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-04T17:51:09.674Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T17:51:09.674Z",
+      "lastPulledAt": "2026-11-04T17:51:09.674Z"
     },
     "439": {
       "id": 439,

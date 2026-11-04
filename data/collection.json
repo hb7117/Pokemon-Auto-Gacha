@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 277,
-  "updatedAt": "2026-11-04T02:32:25.816Z",
+  "totalPulls": 278,
+  "updatedAt": "2026-11-04T09:48:58.819Z",
   "lastPull": {
-    "id": 673,
-    "name": "gogoat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+    "id": 906,
+    "name": "sprigatito",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
     "types": [
       "grass"
     ],
-    "totalStats": 531,
-    "grade": "SR",
-    "pulledAt": "2026-11-04T02:32:25.816Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-11-04T09:48:58.819Z"
   },
   "pulls": [
+    {
+      "id": 906,
+      "name": "sprigatito",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-04T09:48:58.819Z"
+    },
     {
       "id": 673,
       "name": "gogoat",
@@ -118,18 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-01T23:02:01.524Z"
-    },
-    {
-      "id": 521,
-      "name": "unfezant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 488,
-      "grade": "R",
-      "pulledAt": "2026-11-01T19:35:26.549Z"
     }
   ],
   "pokemon": {
@@ -3592,6 +3591,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T10:32:11.125Z",
       "lastPulledAt": "2026-09-25T10:32:11.125Z"
+    },
+    "906": {
+      "id": 906,
+      "name": "sprigatito",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-04T09:48:58.819Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T09:48:58.819Z",
+      "lastPulledAt": "2026-11-04T09:48:58.819Z"
     },
     "910": {
       "id": 910,

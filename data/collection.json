@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 276,
-  "updatedAt": "2026-11-03T22:20:21.961Z",
+  "totalPulls": 277,
+  "updatedAt": "2026-11-04T02:32:25.816Z",
   "lastPull": {
-    "id": 383,
-    "name": "groudon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+    "id": 673,
+    "name": "gogoat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
     "types": [
-      "ground"
+      "grass"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-11-03T22:20:21.961Z"
+    "totalStats": 531,
+    "grade": "SR",
+    "pulledAt": "2026-11-04T02:32:25.816Z"
   },
   "pulls": [
+    {
+      "id": 673,
+      "name": "gogoat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 531,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T02:32:25.816Z"
+    },
     {
       "id": 383,
       "name": "groudon",
@@ -119,18 +130,6 @@
       "totalStats": 488,
       "grade": "R",
       "pulledAt": "2026-11-01T19:35:26.549Z"
-    },
-    {
-      "id": 247,
-      "name": "pupitar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-11-01T15:01:33.568Z"
     }
   ],
   "pokemon": {
@@ -2816,6 +2815,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T09:57:24.214Z",
       "lastPulledAt": "2026-09-20T09:57:24.214Z"
+    },
+    "673": {
+      "id": 673,
+      "name": "gogoat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 531,
+      "grade": "SR",
+      "pulledAt": "2026-11-04T02:32:25.816Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T02:32:25.816Z",
+      "lastPulledAt": "2026-11-04T02:32:25.816Z"
     },
     "678": {
       "id": 678,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 279,
-  "updatedAt": "2026-11-04T17:51:09.674Z",
+  "totalPulls": 280,
+  "updatedAt": "2026-11-04T22:51:41.653Z",
   "lastPull": {
-    "id": 438,
-    "name": "bonsly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
+    "id": 852,
+    "name": "clobbopus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
     "types": [
-      "rock"
+      "fighting"
     ],
-    "totalStats": 290,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-11-04T17:51:09.674Z"
+    "pulledAt": "2026-11-04T22:51:41.653Z"
   },
   "pulls": [
+    {
+      "id": 852,
+      "name": "clobbopus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-04T22:51:41.653Z"
+    },
     {
       "id": 438,
       "name": "bonsly",
@@ -116,18 +127,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-11-02T09:47:00.860Z"
-    },
-    {
-      "id": 1023,
-      "name": "iron-crown",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-11-02T02:24:57.999Z"
     }
   ],
   "pokemon": {
@@ -3449,6 +3448,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T08:48:51.548Z",
       "lastPulledAt": "2026-10-17T08:48:51.548Z"
+    },
+    "852": {
+      "id": 852,
+      "name": "clobbopus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-04T22:51:41.653Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T22:51:41.653Z",
+      "lastPulledAt": "2026-11-04T22:51:41.653Z"
     },
     "860": {
       "id": 860,

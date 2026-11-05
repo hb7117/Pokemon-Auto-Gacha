@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 282,
-  "updatedAt": "2026-11-05T10:47:13.042Z",
+  "totalPulls": 283,
+  "updatedAt": "2026-11-05T18:20:46.039Z",
   "lastPull": {
-    "id": 645,
-    "name": "landorus-incarnate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png",
+    "id": 618,
+    "name": "stunfisk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
     "types": [
       "ground",
-      "flying"
+      "electric"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-05T10:47:13.042Z"
+    "totalStats": 471,
+    "grade": "R",
+    "pulledAt": "2026-11-05T18:20:46.039Z"
   },
   "pulls": [
+    {
+      "id": 618,
+      "name": "stunfisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
+      "types": [
+        "ground",
+        "electric"
+      ],
+      "totalStats": 471,
+      "grade": "R",
+      "pulledAt": "2026-11-05T18:20:46.039Z"
+    },
     {
       "id": 645,
       "name": "landorus-incarnate",
@@ -116,18 +128,6 @@
       "totalStats": 464,
       "grade": "R",
       "pulledAt": "2026-11-03T09:24:46.089Z"
-    },
-    {
-      "id": 178,
-      "name": "xatu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png",
-      "types": [
-        "psychic",
-        "flying"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-11-03T01:59:39.106Z"
     }
   ],
   "pokemon": {
@@ -2623,6 +2623,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T16:35:05.497Z",
       "lastPulledAt": "2026-10-18T16:35:05.497Z"
+    },
+    "618": {
+      "id": 618,
+      "name": "stunfisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
+      "types": [
+        "ground",
+        "electric"
+      ],
+      "totalStats": 471,
+      "grade": "R",
+      "pulledAt": "2026-11-05T18:20:46.039Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T18:20:46.039Z",
+      "lastPulledAt": "2026-11-05T18:20:46.039Z"
     },
     "622": {
       "id": 622,

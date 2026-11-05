@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 283,
-  "updatedAt": "2026-11-05T18:20:46.039Z",
+  "totalPulls": 284,
+  "updatedAt": "2026-11-05T23:45:50.824Z",
   "lastPull": {
-    "id": 618,
-    "name": "stunfisk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
+    "id": 74,
+    "name": "geodude",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
     "types": [
-      "ground",
-      "electric"
+      "rock",
+      "ground"
     ],
-    "totalStats": 471,
-    "grade": "R",
-    "pulledAt": "2026-11-05T18:20:46.039Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-05T23:45:50.824Z"
   },
   "pulls": [
+    {
+      "id": 74,
+      "name": "geodude",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-05T23:45:50.824Z"
+    },
     {
       "id": 618,
       "name": "stunfisk",
@@ -116,18 +128,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-03T17:12:51.761Z"
-    },
-    {
-      "id": 591,
-      "name": "amoonguss",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 464,
-      "grade": "R",
-      "pulledAt": "2026-11-03T09:24:46.089Z"
     }
   ],
   "pokemon": {
@@ -325,10 +325,10 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-20T17:26:26.325Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T17:26:26.325Z",
-      "lastPulledAt": "2026-09-20T17:26:26.325Z"
+      "lastPulledAt": "2026-11-05T23:45:50.824Z"
     },
     "77": {
       "id": 77,

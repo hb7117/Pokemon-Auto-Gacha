@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 286,
-  "updatedAt": "2026-11-06T11:35:56.632Z",
+  "totalPulls": 287,
+  "updatedAt": "2026-11-06T18:24:48.655Z",
   "lastPull": {
-    "id": 611,
-    "name": "fraxure",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+    "id": 618,
+    "name": "stunfisk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
     "types": [
-      "dragon"
+      "ground",
+      "electric"
     ],
-    "totalStats": 410,
+    "totalStats": 471,
     "grade": "R",
-    "pulledAt": "2026-11-06T11:35:56.632Z"
+    "pulledAt": "2026-11-06T18:24:48.655Z"
   },
   "pulls": [
+    {
+      "id": 618,
+      "name": "stunfisk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
+      "types": [
+        "ground",
+        "electric"
+      ],
+      "totalStats": 471,
+      "grade": "R",
+      "pulledAt": "2026-11-06T18:24:48.655Z"
+    },
     {
       "id": 611,
       "name": "fraxure",
@@ -116,17 +129,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-11-04T09:48:58.819Z"
-    },
-    {
-      "id": 673,
-      "name": "gogoat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 531,
-      "grade": "SR",
-      "pulledAt": "2026-11-04T02:32:25.816Z"
     }
   ],
   "pokemon": {
@@ -2649,10 +2651,10 @@
       "totalStats": 471,
       "grade": "R",
       "pulledAt": "2026-11-05T18:20:46.039Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-05T18:20:46.039Z",
-      "lastPulledAt": "2026-11-05T18:20:46.039Z"
+      "lastPulledAt": "2026-11-06T18:24:48.655Z"
     },
     "622": {
       "id": 622,

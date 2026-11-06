@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 287,
-  "updatedAt": "2026-11-06T18:24:48.655Z",
+  "totalPulls": 288,
+  "updatedAt": "2026-11-06T23:23:01.659Z",
   "lastPull": {
-    "id": 618,
-    "name": "stunfisk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
+    "id": 118,
+    "name": "goldeen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
     "types": [
-      "ground",
-      "electric"
+      "water"
     ],
-    "totalStats": 471,
-    "grade": "R",
-    "pulledAt": "2026-11-06T18:24:48.655Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-11-06T23:23:01.659Z"
   },
   "pulls": [
+    {
+      "id": 118,
+      "name": "goldeen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-06T23:23:01.659Z"
+    },
     {
       "id": 618,
       "name": "stunfisk",
@@ -118,17 +128,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-11-04T17:51:09.674Z"
-    },
-    {
-      "id": 906,
-      "name": "sprigatito",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-11-04T09:48:58.819Z"
     }
   ],
   "pokemon": {
@@ -518,6 +517,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T20:00:20.796Z",
       "lastPulledAt": "2026-09-22T20:00:20.796Z"
+    },
+    "118": {
+      "id": 118,
+      "name": "goldeen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-06T23:23:01.659Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T23:23:01.659Z",
+      "lastPulledAt": "2026-11-06T23:23:01.659Z"
     },
     "120": {
       "id": 120,

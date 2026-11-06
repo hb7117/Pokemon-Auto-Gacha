@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 284,
-  "updatedAt": "2026-11-05T23:45:50.824Z",
+  "totalPulls": 285,
+  "updatedAt": "2026-11-06T03:42:18.781Z",
   "lastPull": {
-    "id": 74,
-    "name": "geodude",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+    "id": 629,
+    "name": "vullaby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png",
     "types": [
-      "rock",
-      "ground"
+      "dark",
+      "flying"
     ],
-    "totalStats": 300,
+    "totalStats": 370,
     "grade": "N",
-    "pulledAt": "2026-11-05T23:45:50.824Z"
+    "pulledAt": "2026-11-06T03:42:18.781Z"
   },
   "pulls": [
+    {
+      "id": 629,
+      "name": "vullaby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-11-06T03:42:18.781Z"
+    },
     {
       "id": 74,
       "name": "geodude",
@@ -116,18 +128,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-11-03T22:20:21.961Z"
-    },
-    {
-      "id": 647,
-      "name": "keldeo-ordinary",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
-      "types": [
-        "water",
-        "fighting"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-11-03T17:12:51.761Z"
     }
   ],
   "pokemon": {
@@ -2655,6 +2655,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T20:17:35.201Z",
       "lastPulledAt": "2026-10-30T20:17:35.201Z"
+    },
+    "629": {
+      "id": 629,
+      "name": "vullaby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-11-06T03:42:18.781Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T03:42:18.781Z",
+      "lastPulledAt": "2026-11-06T03:42:18.781Z"
     },
     "632": {
       "id": 632,

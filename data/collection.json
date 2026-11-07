@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 289,
-  "updatedAt": "2026-11-07T02:59:58.190Z",
+  "totalPulls": 290,
+  "updatedAt": "2026-11-07T09:54:14.166Z",
   "lastPull": {
-    "id": 858,
-    "name": "hatterene",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+    "id": 322,
+    "name": "numel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
     "types": [
-      "psychic",
-      "fairy"
+      "fire",
+      "ground"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-11-07T02:59:58.190Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-11-07T09:54:14.166Z"
   },
   "pulls": [
+    {
+      "id": 322,
+      "name": "numel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+      "types": [
+        "fire",
+        "ground"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-07T09:54:14.166Z"
+    },
     {
       "id": 858,
       "name": "hatterene",
@@ -119,17 +131,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-05T03:08:10.995Z"
-    },
-    {
-      "id": 852,
-      "name": "clobbopus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-11-04T22:51:41.653Z"
     }
   ],
   "pokemon": {
@@ -1401,6 +1402,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-19T06:32:11.241Z",
       "lastPulledAt": "2026-10-21T12:53:31.343Z"
+    },
+    "322": {
+      "id": 322,
+      "name": "numel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+      "types": [
+        "fire",
+        "ground"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-07T09:54:14.166Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T09:54:14.166Z",
+      "lastPulledAt": "2026-11-07T09:54:14.166Z"
     },
     "330": {
       "id": 330,

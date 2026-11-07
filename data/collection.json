@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 291,
-  "updatedAt": "2026-11-07T16:05:34.588Z",
+  "totalPulls": 292,
+  "updatedAt": "2026-11-07T20:11:30.296Z",
   "lastPull": {
-    "id": 461,
-    "name": "weavile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+    "id": 363,
+    "name": "spheal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
     "types": [
-      "dark",
-      "ice"
+      "ice",
+      "water"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-11-07T16:05:34.588Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-11-07T20:11:30.296Z"
   },
   "pulls": [
+    {
+      "id": 363,
+      "name": "spheal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-07T20:11:30.296Z"
+    },
     {
       "id": 461,
       "name": "weavile",
@@ -120,18 +132,6 @@
       "totalStats": 471,
       "grade": "R",
       "pulledAt": "2026-11-05T18:20:46.039Z"
-    },
-    {
-      "id": 645,
-      "name": "landorus-incarnate",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png",
-      "types": [
-        "ground",
-        "flying"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-05T10:47:13.042Z"
     }
   ],
   "pokemon": {
@@ -1588,6 +1588,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T20:34:20.990Z",
       "lastPulledAt": "2026-10-17T20:34:20.990Z"
+    },
+    "363": {
+      "id": 363,
+      "name": "spheal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-07T20:11:30.296Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T20:11:30.296Z",
+      "lastPulledAt": "2026-11-07T20:11:30.296Z"
     },
     "366": {
       "id": 366,

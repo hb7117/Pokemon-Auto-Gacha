@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 290,
-  "updatedAt": "2026-11-07T09:54:14.166Z",
+  "totalPulls": 291,
+  "updatedAt": "2026-11-07T16:05:34.588Z",
   "lastPull": {
-    "id": 322,
-    "name": "numel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+    "id": 461,
+    "name": "weavile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
     "types": [
-      "fire",
-      "ground"
+      "dark",
+      "ice"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-11-07T09:54:14.166Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-11-07T16:05:34.588Z"
   },
   "pulls": [
+    {
+      "id": 461,
+      "name": "weavile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T16:05:34.588Z"
+    },
     {
       "id": 322,
       "name": "numel",
@@ -120,17 +132,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-05T10:47:13.042Z"
-    },
-    {
-      "id": 26,
-      "name": "raichu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-05T03:08:10.995Z"
     }
   ],
   "pokemon": {
@@ -1962,6 +1963,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T17:05:47.487Z",
       "lastPulledAt": "2026-09-16T17:05:47.487Z"
+    },
+    "461": {
+      "id": 461,
+      "name": "weavile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T16:05:34.588Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T16:05:34.588Z",
+      "lastPulledAt": "2026-11-07T16:05:34.588Z"
     },
     "464": {
       "id": 464,

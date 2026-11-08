@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 294,
-  "updatedAt": "2026-11-08T02:42:45.844Z",
+  "totalPulls": 295,
+  "updatedAt": "2026-11-08T09:33:28.634Z",
   "lastPull": {
-    "id": 937,
-    "name": "ceruledge",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+    "id": 682,
+    "name": "spritzee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
     "types": [
-      "fire",
-      "ghost"
+      "fairy"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T02:42:45.844Z"
+    "totalStats": 341,
+    "grade": "N",
+    "pulledAt": "2026-11-08T09:33:28.634Z"
   },
   "pulls": [
+    {
+      "id": 682,
+      "name": "spritzee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 341,
+      "grade": "N",
+      "pulledAt": "2026-11-08T09:33:28.634Z"
+    },
     {
       "id": 937,
       "name": "ceruledge",
@@ -119,18 +129,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-11-06T11:35:56.632Z"
-    },
-    {
-      "id": 629,
-      "name": "vullaby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-11-06T03:42:18.781Z"
     }
   ],
   "pokemon": {
@@ -3002,6 +3000,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T19:31:30.403Z",
       "lastPulledAt": "2026-09-25T19:31:30.403Z"
+    },
+    "682": {
+      "id": 682,
+      "name": "spritzee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 341,
+      "grade": "N",
+      "pulledAt": "2026-11-08T09:33:28.634Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T09:33:28.634Z",
+      "lastPulledAt": "2026-11-08T09:33:28.634Z"
     },
     "688": {
       "id": 688,

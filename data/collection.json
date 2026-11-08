@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 295,
-  "updatedAt": "2026-11-08T09:33:28.634Z",
+  "totalPulls": 296,
+  "updatedAt": "2026-11-08T16:17:20.315Z",
   "lastPull": {
-    "id": 682,
-    "name": "spritzee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
+    "id": 424,
+    "name": "ambipom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
     "types": [
-      "fairy"
+      "normal"
     ],
-    "totalStats": 341,
-    "grade": "N",
-    "pulledAt": "2026-11-08T09:33:28.634Z"
+    "totalStats": 482,
+    "grade": "R",
+    "pulledAt": "2026-11-08T16:17:20.315Z"
   },
   "pulls": [
+    {
+      "id": 424,
+      "name": "ambipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-11-08T16:17:20.315Z"
+    },
     {
       "id": 682,
       "name": "spritzee",
@@ -118,17 +129,6 @@
       "totalStats": 471,
       "grade": "R",
       "pulledAt": "2026-11-06T18:24:48.655Z"
-    },
-    {
-      "id": 611,
-      "name": "fraxure",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-11-06T11:35:56.632Z"
     }
   ],
   "pokemon": {
@@ -1862,10 +1862,10 @@
       "totalStats": 482,
       "grade": "R",
       "pulledAt": "2026-09-21T23:21:15.462Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T23:21:15.462Z",
-      "lastPulledAt": "2026-09-21T23:21:15.462Z"
+      "lastPulledAt": "2026-11-08T16:17:20.315Z"
     },
     "430": {
       "id": 430,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 296,
-  "updatedAt": "2026-11-08T16:17:20.315Z",
+  "totalPulls": 297,
+  "updatedAt": "2026-11-08T20:36:40.850Z",
   "lastPull": {
-    "id": 424,
-    "name": "ambipom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+    "id": 712,
+    "name": "bergmite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
     "types": [
-      "normal"
+      "ice"
     ],
-    "totalStats": 482,
-    "grade": "R",
-    "pulledAt": "2026-11-08T16:17:20.315Z"
+    "totalStats": 304,
+    "grade": "N",
+    "pulledAt": "2026-11-08T20:36:40.850Z"
   },
   "pulls": [
+    {
+      "id": 712,
+      "name": "bergmite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-11-08T20:36:40.850Z"
+    },
     {
       "id": 424,
       "name": "ambipom",
@@ -117,18 +128,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-11-06T23:23:01.659Z"
-    },
-    {
-      "id": 618,
-      "name": "stunfisk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
-      "types": [
-        "ground",
-        "electric"
-      ],
-      "totalStats": 471,
-      "grade": "R",
-      "pulledAt": "2026-11-06T18:24:48.655Z"
     }
   ],
   "pokemon": {
@@ -3094,6 +3093,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T05:12:56.994Z",
       "lastPulledAt": "2026-10-23T05:12:56.994Z"
+    },
+    "712": {
+      "id": 712,
+      "name": "bergmite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-11-08T20:36:40.850Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T20:36:40.850Z",
+      "lastPulledAt": "2026-11-08T20:36:40.850Z"
     },
     "713": {
       "id": 713,

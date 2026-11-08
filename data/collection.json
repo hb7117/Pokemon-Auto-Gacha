@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 297,
-  "updatedAt": "2026-11-08T20:36:40.850Z",
+  "totalPulls": 298,
+  "updatedAt": "2026-11-08T23:59:42.066Z",
   "lastPull": {
-    "id": 712,
-    "name": "bergmite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
+    "id": 578,
+    "name": "duosion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
     "types": [
-      "ice"
+      "psychic"
     ],
-    "totalStats": 304,
+    "totalStats": 370,
     "grade": "N",
-    "pulledAt": "2026-11-08T20:36:40.850Z"
+    "pulledAt": "2026-11-08T23:59:42.066Z"
   },
   "pulls": [
+    {
+      "id": 578,
+      "name": "duosion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-11-08T23:59:42.066Z"
+    },
     {
       "id": 712,
       "name": "bergmite",
@@ -117,17 +128,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-07T02:59:58.190Z"
-    },
-    {
-      "id": 118,
-      "name": "goldeen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-11-06T23:23:01.659Z"
     }
   ],
   "pokemon": {
@@ -2529,6 +2529,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T09:16:56.924Z",
       "lastPulledAt": "2026-10-01T09:16:56.924Z"
+    },
+    "578": {
+      "id": 578,
+      "name": "duosion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-11-08T23:59:42.066Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T23:59:42.066Z",
+      "lastPulledAt": "2026-11-08T23:59:42.066Z"
     },
     "587": {
       "id": 587,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 299,
-  "updatedAt": "2026-11-09T05:59:01.982Z",
+  "totalPulls": 300,
+  "updatedAt": "2026-11-09T15:57:53.232Z",
   "lastPull": {
-    "id": 387,
-    "name": "turtwig",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png",
+    "id": 170,
+    "name": "chinchou",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
     "types": [
-      "grass"
+      "water",
+      "electric"
     ],
-    "totalStats": 318,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-11-09T05:59:01.982Z"
+    "pulledAt": "2026-11-09T15:57:53.232Z"
   },
   "pulls": [
+    {
+      "id": 170,
+      "name": "chinchou",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-09T15:57:53.232Z"
+    },
     {
       "id": 387,
       "name": "turtwig",
@@ -115,18 +128,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-07T16:05:34.588Z"
-    },
-    {
-      "id": 322,
-      "name": "numel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
-      "types": [
-        "fire",
-        "ground"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-11-07T09:54:14.166Z"
     }
   ],
   "pokemon": {
@@ -747,6 +748,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T00:25:18.086Z",
       "lastPulledAt": "2026-09-18T00:25:18.086Z"
+    },
+    "170": {
+      "id": 170,
+      "name": "chinchou",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-09T15:57:53.232Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T15:57:53.232Z",
+      "lastPulledAt": "2026-11-09T15:57:53.232Z"
     },
     "173": {
       "id": 173,

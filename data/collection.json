@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 298,
-  "updatedAt": "2026-11-08T23:59:42.066Z",
+  "totalPulls": 299,
+  "updatedAt": "2026-11-09T05:59:01.982Z",
   "lastPull": {
-    "id": 578,
-    "name": "duosion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+    "id": 387,
+    "name": "turtwig",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png",
     "types": [
-      "psychic"
+      "grass"
     ],
-    "totalStats": 370,
+    "totalStats": 318,
     "grade": "N",
-    "pulledAt": "2026-11-08T23:59:42.066Z"
+    "pulledAt": "2026-11-09T05:59:01.982Z"
   },
   "pulls": [
+    {
+      "id": 387,
+      "name": "turtwig",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 318,
+      "grade": "N",
+      "pulledAt": "2026-11-09T05:59:01.982Z"
+    },
     {
       "id": 578,
       "name": "duosion",
@@ -116,18 +127,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-11-07T09:54:14.166Z"
-    },
-    {
-      "id": 858,
-      "name": "hatterene",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-11-07T02:59:58.190Z"
     }
   ],
   "pokemon": {
@@ -1661,6 +1660,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-03T22:20:21.961Z",
       "lastPulledAt": "2026-11-03T22:20:21.961Z"
+    },
+    "387": {
+      "id": 387,
+      "name": "turtwig",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 318,
+      "grade": "N",
+      "pulledAt": "2026-11-09T05:59:01.982Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T05:59:01.982Z",
+      "lastPulledAt": "2026-11-09T05:59:01.982Z"
     },
     "389": {
       "id": 389,

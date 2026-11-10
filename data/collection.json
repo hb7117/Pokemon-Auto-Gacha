@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 300,
-  "updatedAt": "2026-11-09T15:57:53.232Z",
+  "totalPulls": 301,
+  "updatedAt": "2026-11-10T00:02:19.789Z",
   "lastPull": {
-    "id": 170,
-    "name": "chinchou",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+    "id": 154,
+    "name": "meganium",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
     "types": [
-      "water",
-      "electric"
+      "grass"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-11-09T15:57:53.232Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-10T00:02:19.789Z"
   },
   "pulls": [
+    {
+      "id": 154,
+      "name": "meganium",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T00:02:19.789Z"
+    },
     {
       "id": 170,
       "name": "chinchou",
@@ -116,18 +126,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-11-07T20:11:30.296Z"
-    },
-    {
-      "id": 461,
-      "name": "weavile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
-      "types": [
-        "dark",
-        "ice"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-11-07T16:05:34.588Z"
     }
   ],
   "pokemon": {
@@ -701,6 +699,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T01:04:55.864Z",
       "lastPulledAt": "2026-09-17T01:04:55.864Z"
+    },
+    "154": {
+      "id": 154,
+      "name": "meganium",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T00:02:19.789Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T00:02:19.789Z",
+      "lastPulledAt": "2026-11-10T00:02:19.789Z"
     },
     "156": {
       "id": 156,

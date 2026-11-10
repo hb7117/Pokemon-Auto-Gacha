@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 302,
-  "updatedAt": "2026-11-10T07:08:12.337Z",
+  "totalPulls": 303,
+  "updatedAt": "2026-11-10T15:33:37.461Z",
   "lastPull": {
-    "id": 217,
-    "name": "ursaring",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+    "id": 923,
+    "name": "pawmot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
     "types": [
-      "normal"
+      "electric",
+      "fighting"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-10T07:08:12.337Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-11-10T15:33:37.461Z"
   },
   "pulls": [
+    {
+      "id": 923,
+      "name": "pawmot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+      "types": [
+        "electric",
+        "fighting"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-10T15:33:37.461Z"
+    },
     {
       "id": 217,
       "name": "ursaring",
@@ -114,17 +127,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-08T02:42:45.844Z"
-    },
-    {
-      "id": 796,
-      "name": "xurkitree",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-07T23:39:57.093Z"
     }
   ],
   "pokemon": {
@@ -3952,10 +3954,10 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-30T23:52:38.203Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T23:52:38.203Z",
-      "lastPulledAt": "2026-10-30T23:52:38.203Z"
+      "lastPulledAt": "2026-11-10T15:33:37.461Z"
     },
     "931": {
       "id": 931,

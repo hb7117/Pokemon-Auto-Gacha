@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 301,
-  "updatedAt": "2026-11-10T00:02:19.789Z",
+  "totalPulls": 302,
+  "updatedAt": "2026-11-10T07:08:12.337Z",
   "lastPull": {
-    "id": 154,
-    "name": "meganium",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+    "id": 217,
+    "name": "ursaring",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
     "types": [
-      "grass"
+      "normal"
     ],
-    "totalStats": 525,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-11-10T00:02:19.789Z"
+    "pulledAt": "2026-11-10T07:08:12.337Z"
   },
   "pulls": [
+    {
+      "id": 217,
+      "name": "ursaring",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T07:08:12.337Z"
+    },
     {
       "id": 154,
       "name": "meganium",
@@ -114,18 +125,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-07T23:39:57.093Z"
-    },
-    {
-      "id": 363,
-      "name": "spheal",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
-      "types": [
-        "ice",
-        "water"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-11-07T20:11:30.296Z"
     }
   ],
   "pokemon": {
@@ -997,6 +996,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T15:52:12.333Z",
       "lastPulledAt": "2026-10-17T15:52:12.333Z"
+    },
+    "217": {
+      "id": 217,
+      "name": "ursaring",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T07:08:12.337Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T07:08:12.337Z",
+      "lastPulledAt": "2026-11-10T07:08:12.337Z"
     },
     "224": {
       "id": 224,

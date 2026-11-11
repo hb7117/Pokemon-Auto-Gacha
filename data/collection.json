@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 307,
-  "updatedAt": "2026-11-11T16:05:31.398Z",
+  "totalPulls": 308,
+  "updatedAt": "2026-11-11T22:38:56.129Z",
   "lastPull": {
-    "id": 59,
-    "name": "arcanine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "id": 357,
+    "name": "tropius",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
     "types": [
-      "fire"
+      "grass",
+      "flying"
     ],
-    "totalStats": 555,
-    "grade": "SR",
-    "pulledAt": "2026-11-11T16:05:31.398Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-11-11T22:38:56.129Z"
   },
   "pulls": [
+    {
+      "id": 357,
+      "name": "tropius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-11-11T22:38:56.129Z"
+    },
     {
       "id": 59,
       "name": "arcanine",
@@ -116,17 +129,6 @@
       "totalStats": 318,
       "grade": "N",
       "pulledAt": "2026-11-09T05:59:01.982Z"
-    },
-    {
-      "id": 578,
-      "name": "duosion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-11-08T23:59:42.066Z"
     }
   ],
   "pokemon": {
@@ -1581,10 +1583,10 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-11-01T01:31:27.382Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-01T01:31:27.382Z",
-      "lastPulledAt": "2026-11-01T01:31:27.382Z"
+      "lastPulledAt": "2026-11-11T22:38:56.129Z"
     },
     "358": {
       "id": 358,

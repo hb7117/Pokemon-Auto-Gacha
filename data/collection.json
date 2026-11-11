@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 306,
-  "updatedAt": "2026-11-11T08:00:14.473Z",
+  "totalPulls": 307,
+  "updatedAt": "2026-11-11T16:05:31.398Z",
   "lastPull": {
-    "id": 802,
-    "name": "marshadow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+    "id": 59,
+    "name": "arcanine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
     "types": [
-      "fighting",
-      "ghost"
+      "fire"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-11T08:00:14.473Z"
+    "totalStats": 555,
+    "grade": "SR",
+    "pulledAt": "2026-11-11T16:05:31.398Z"
   },
   "pulls": [
+    {
+      "id": 59,
+      "name": "arcanine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T16:05:31.398Z"
+    },
     {
       "id": 802,
       "name": "marshadow",
@@ -117,17 +127,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-11-08T23:59:42.066Z"
-    },
-    {
-      "id": 712,
-      "name": "bergmite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 304,
-      "grade": "N",
-      "pulledAt": "2026-11-08T20:36:40.850Z"
     }
   ],
   "pokemon": {
@@ -309,10 +308,10 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-09-29T07:24:00.812Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T07:24:00.812Z",
-      "lastPulledAt": "2026-09-29T07:24:00.812Z"
+      "lastPulledAt": "2026-11-11T16:05:31.398Z"
     },
     "74": {
       "id": 74,

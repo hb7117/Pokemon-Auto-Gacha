@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 308,
-  "updatedAt": "2026-11-11T22:38:56.129Z",
+  "totalPulls": 309,
+  "updatedAt": "2026-11-12T03:21:20.089Z",
   "lastPull": {
-    "id": 357,
-    "name": "tropius",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+    "id": 701,
+    "name": "hawlucha",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
     "types": [
-      "grass",
+      "fighting",
       "flying"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-11-11T22:38:56.129Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-12T03:21:20.089Z"
   },
   "pulls": [
+    {
+      "id": 701,
+      "name": "hawlucha",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
+      "types": [
+        "fighting",
+        "flying"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-12T03:21:20.089Z"
+    },
     {
       "id": 357,
       "name": "tropius",
@@ -118,17 +130,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-11-09T15:57:53.232Z"
-    },
-    {
-      "id": 387,
-      "name": "turtwig",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 318,
-      "grade": "N",
-      "pulledAt": "2026-11-09T05:59:01.982Z"
     }
   ],
   "pokemon": {
@@ -3154,6 +3155,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T19:59:29.692Z",
       "lastPulledAt": "2026-09-30T19:59:29.692Z"
+    },
+    "701": {
+      "id": 701,
+      "name": "hawlucha",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
+      "types": [
+        "fighting",
+        "flying"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-12T03:21:20.089Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T03:21:20.089Z",
+      "lastPulledAt": "2026-11-12T03:21:20.089Z"
     },
     "702": {
       "id": 702,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 310,
-  "updatedAt": "2026-11-12T11:39:02.254Z",
+  "totalPulls": 311,
+  "updatedAt": "2026-11-12T19:07:47.590Z",
   "lastPull": {
-    "id": 613,
-    "name": "cubchoo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
+    "id": 854,
+    "name": "sinistea",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
     "types": [
-      "ice"
+      "ghost"
     ],
-    "totalStats": 305,
+    "totalStats": 308,
     "grade": "N",
-    "pulledAt": "2026-11-12T11:39:02.254Z"
+    "pulledAt": "2026-11-12T19:07:47.590Z"
   },
   "pulls": [
+    {
+      "id": 854,
+      "name": "sinistea",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-11-12T19:07:47.590Z"
+    },
     {
       "id": 613,
       "name": "cubchoo",
@@ -117,17 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-10T07:08:12.337Z"
-    },
-    {
-      "id": 154,
-      "name": "meganium",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-10T00:02:19.789Z"
     }
   ],
   "pokemon": {
@@ -3804,6 +3804,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-04T22:51:41.653Z",
       "lastPulledAt": "2026-11-04T22:51:41.653Z"
+    },
+    "854": {
+      "id": 854,
+      "name": "sinistea",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-11-12T19:07:47.590Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T19:07:47.590Z",
+      "lastPulledAt": "2026-11-12T19:07:47.590Z"
     },
     "858": {
       "id": 858,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 311,
-  "updatedAt": "2026-11-12T19:07:47.590Z",
+  "totalPulls": 312,
+  "updatedAt": "2026-11-13T00:17:11.123Z",
   "lastPull": {
-    "id": 854,
-    "name": "sinistea",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
+    "id": 431,
+    "name": "glameow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
     "types": [
-      "ghost"
+      "normal"
     ],
-    "totalStats": 308,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-11-12T19:07:47.590Z"
+    "pulledAt": "2026-11-13T00:17:11.123Z"
   },
   "pulls": [
+    {
+      "id": 431,
+      "name": "glameow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-13T00:17:11.123Z"
+    },
     {
       "id": 854,
       "name": "sinistea",
@@ -117,17 +128,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-10T15:33:37.461Z"
-    },
-    {
-      "id": 217,
-      "name": "ursaring",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-10T07:08:12.337Z"
     }
   ],
   "pokemon": {
@@ -1958,6 +1958,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T10:09:20.481Z",
       "lastPulledAt": "2026-10-06T10:09:20.481Z"
+    },
+    "431": {
+      "id": 431,
+      "name": "glameow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-13T00:17:11.123Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T00:17:11.123Z",
+      "lastPulledAt": "2026-11-13T00:17:11.123Z"
     },
     "437": {
       "id": 437,

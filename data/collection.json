@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 314,
-  "updatedAt": "2026-11-13T15:08:47.695Z",
+  "totalPulls": 315,
+  "updatedAt": "2026-11-13T21:25:04.565Z",
   "lastPull": {
-    "id": 952,
-    "name": "scovillain",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+    "id": 95,
+    "name": "onix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
     "types": [
-      "grass",
-      "fire"
+      "rock",
+      "ground"
     ],
-    "totalStats": 486,
-    "grade": "R",
-    "pulledAt": "2026-11-13T15:08:47.695Z"
+    "totalStats": 385,
+    "grade": "N",
+    "pulledAt": "2026-11-13T21:25:04.565Z"
   },
   "pulls": [
+    {
+      "id": 95,
+      "name": "onix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-11-13T21:25:04.565Z"
+    },
     {
       "id": 952,
       "name": "scovillain",
@@ -117,18 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-11T08:00:14.473Z"
-    },
-    {
-      "id": 76,
-      "name": "golem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-11-11T01:22:06.387Z"
     }
   ],
   "pokemon": {
@@ -472,6 +472,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T01:28:07.732Z",
       "lastPulledAt": "2026-09-29T01:28:07.732Z"
+    },
+    "95": {
+      "id": 95,
+      "name": "onix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-11-13T21:25:04.565Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T21:25:04.565Z",
+      "lastPulledAt": "2026-11-13T21:25:04.565Z"
     },
     "98": {
       "id": 98,

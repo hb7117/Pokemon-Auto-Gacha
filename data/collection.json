@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 313,
-  "updatedAt": "2026-11-13T06:56:16.627Z",
+  "totalPulls": 314,
+  "updatedAt": "2026-11-13T15:08:47.695Z",
   "lastPull": {
-    "id": 218,
-    "name": "slugma",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png",
+    "id": 952,
+    "name": "scovillain",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
     "types": [
+      "grass",
       "fire"
     ],
-    "totalStats": 250,
-    "grade": "N",
-    "pulledAt": "2026-11-13T06:56:16.627Z"
+    "totalStats": 486,
+    "grade": "R",
+    "pulledAt": "2026-11-13T15:08:47.695Z"
   },
   "pulls": [
+    {
+      "id": 952,
+      "name": "scovillain",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+      "types": [
+        "grass",
+        "fire"
+      ],
+      "totalStats": 486,
+      "grade": "R",
+      "pulledAt": "2026-11-13T15:08:47.695Z"
+    },
     {
       "id": 218,
       "name": "slugma",
@@ -116,17 +129,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-11-11T01:22:06.387Z"
-    },
-    {
-      "id": 466,
-      "name": "electivire",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-11-10T21:24:19.144Z"
     }
   ],
   "pokemon": {
@@ -4176,6 +4178,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T14:57:37.520Z",
       "lastPulledAt": "2026-09-26T14:57:37.520Z"
+    },
+    "952": {
+      "id": 952,
+      "name": "scovillain",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+      "types": [
+        "grass",
+        "fire"
+      ],
+      "totalStats": 486,
+      "grade": "R",
+      "pulledAt": "2026-11-13T15:08:47.695Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T15:08:47.695Z",
+      "lastPulledAt": "2026-11-13T15:08:47.695Z"
     },
     "954": {
       "id": 954,

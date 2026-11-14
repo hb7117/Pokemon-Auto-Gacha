@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 317,
-  "updatedAt": "2026-11-14T07:58:54.439Z",
+  "totalPulls": 318,
+  "updatedAt": "2026-11-14T14:56:29.730Z",
   "lastPull": {
-    "id": 389,
-    "name": "torterra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png",
+    "id": 498,
+    "name": "tepig",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
     "types": [
-      "grass",
-      "ground"
+      "fire"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-11-14T07:58:54.439Z"
+    "totalStats": 308,
+    "grade": "N",
+    "pulledAt": "2026-11-14T14:56:29.730Z"
   },
   "pulls": [
+    {
+      "id": 498,
+      "name": "tepig",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-11-14T14:56:29.730Z"
+    },
     {
       "id": 389,
       "name": "torterra",
@@ -118,18 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-12T03:21:20.089Z"
-    },
-    {
-      "id": 357,
-      "name": "tropius",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-11-11T22:38:56.129Z"
     }
   ],
   "pokemon": {
@@ -2286,6 +2284,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T02:39:34.734Z",
       "lastPulledAt": "2026-10-30T02:39:34.734Z"
+    },
+    "498": {
+      "id": 498,
+      "name": "tepig",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-11-14T14:56:29.730Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T14:56:29.730Z",
+      "lastPulledAt": "2026-11-14T14:56:29.730Z"
     },
     "501": {
       "id": 501,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 318,
-  "updatedAt": "2026-11-14T14:56:29.730Z",
+  "totalPulls": 319,
+  "updatedAt": "2026-11-14T19:46:18.908Z",
   "lastPull": {
-    "id": 498,
-    "name": "tepig",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
+    "id": 920,
+    "name": "lokix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
     "types": [
-      "fire"
+      "bug",
+      "dark"
     ],
-    "totalStats": 308,
-    "grade": "N",
-    "pulledAt": "2026-11-14T14:56:29.730Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-11-14T19:46:18.908Z"
   },
   "pulls": [
+    {
+      "id": 920,
+      "name": "lokix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
+      "types": [
+        "bug",
+        "dark"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-14T19:46:18.908Z"
+    },
     {
       "id": 498,
       "name": "tepig",
@@ -116,18 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-11-12T11:39:02.254Z"
-    },
-    {
-      "id": 701,
-      "name": "hawlucha",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
-      "types": [
-        "fighting",
-        "flying"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-12T03:21:20.089Z"
     }
   ],
   "pokemon": {
@@ -4113,6 +4114,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T21:50:12.064Z",
       "lastPulledAt": "2026-09-20T21:50:12.064Z"
+    },
+    "920": {
+      "id": 920,
+      "name": "lokix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
+      "types": [
+        "bug",
+        "dark"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-14T19:46:18.908Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T19:46:18.908Z",
+      "lastPulledAt": "2026-11-14T19:46:18.908Z"
     },
     "923": {
       "id": 923,

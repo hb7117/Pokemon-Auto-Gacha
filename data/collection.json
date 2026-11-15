@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 323,
-  "updatedAt": "2026-11-15T17:21:14.975Z",
+  "totalPulls": 324,
+  "updatedAt": "2026-11-15T21:58:04.244Z",
   "lastPull": {
-    "id": 1019,
-    "name": "hydrapple",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
+    "id": 610,
+    "name": "axew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
     "types": [
-      "grass",
       "dragon"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-11-15T17:21:14.975Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-11-15T21:58:04.244Z"
   },
   "pulls": [
+    {
+      "id": 610,
+      "name": "axew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-15T21:58:04.244Z"
+    },
     {
       "id": 1019,
       "name": "hydrapple",
@@ -120,18 +130,6 @@
       "totalStats": 385,
       "grade": "N",
       "pulledAt": "2026-11-13T21:25:04.565Z"
-    },
-    {
-      "id": 952,
-      "name": "scovillain",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
-      "types": [
-        "grass",
-        "fire"
-      ],
-      "totalStats": 486,
-      "grade": "R",
-      "pulledAt": "2026-11-13T15:08:47.695Z"
     }
   ],
   "pokemon": {
@@ -2874,6 +2872,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T22:29:21.023Z",
       "lastPulledAt": "2026-10-02T22:29:21.023Z"
+    },
+    "610": {
+      "id": 610,
+      "name": "axew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-15T21:58:04.244Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T21:58:04.244Z",
+      "lastPulledAt": "2026-11-15T21:58:04.244Z"
     },
     "611": {
       "id": 611,

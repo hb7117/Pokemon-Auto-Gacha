@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 326,
-  "updatedAt": "2026-11-16T08:37:26.118Z",
+  "totalPulls": 327,
+  "updatedAt": "2026-11-16T18:53:55.912Z",
   "lastPull": {
-    "id": 40,
-    "name": "wigglytuff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+    "id": 824,
+    "name": "blipbug",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png",
     "types": [
-      "normal",
-      "fairy"
+      "bug"
     ],
-    "totalStats": 435,
-    "grade": "R",
-    "pulledAt": "2026-11-16T08:37:26.118Z"
+    "totalStats": 180,
+    "grade": "N",
+    "pulledAt": "2026-11-16T18:53:55.912Z"
   },
   "pulls": [
+    {
+      "id": 824,
+      "name": "blipbug",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 180,
+      "grade": "N",
+      "pulledAt": "2026-11-16T18:53:55.912Z"
+    },
     {
       "id": 40,
       "name": "wigglytuff",
@@ -119,18 +129,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-11-14T14:56:29.730Z"
-    },
-    {
-      "id": 389,
-      "name": "torterra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png",
-      "types": [
-        "grass",
-        "ground"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-14T07:58:54.439Z"
     }
   ],
   "pokemon": {
@@ -3791,6 +3789,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T17:59:09.174Z",
       "lastPulledAt": "2026-10-08T17:59:09.174Z"
+    },
+    "824": {
+      "id": 824,
+      "name": "blipbug",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 180,
+      "grade": "N",
+      "pulledAt": "2026-11-16T18:53:55.912Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T18:53:55.912Z",
+      "lastPulledAt": "2026-11-16T18:53:55.912Z"
     },
     "828": {
       "id": 828,

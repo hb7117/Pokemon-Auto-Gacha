@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 331,
-  "updatedAt": "2026-11-18T01:51:32.705Z",
+  "totalPulls": 332,
+  "updatedAt": "2026-11-18T09:43:38.880Z",
   "lastPull": {
-    "id": 940,
-    "name": "wattrel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png",
+    "id": 942,
+    "name": "maschiff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
     "types": [
-      "electric",
-      "flying"
+      "dark"
     ],
-    "totalStats": 280,
+    "totalStats": 340,
     "grade": "N",
-    "pulledAt": "2026-11-18T01:51:32.705Z"
+    "pulledAt": "2026-11-18T09:43:38.880Z"
   },
   "pulls": [
+    {
+      "id": 942,
+      "name": "maschiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-18T09:43:38.880Z"
+    },
     {
       "id": 940,
       "name": "wattrel",
@@ -118,18 +128,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-11-15T17:21:14.975Z"
-    },
-    {
-      "id": 701,
-      "name": "hawlucha",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
-      "types": [
-        "fighting",
-        "flying"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-15T10:28:05.959Z"
     }
   ],
   "pokemon": {
@@ -4349,6 +4347,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T10:10:34.643Z",
       "lastPulledAt": "2026-10-23T10:10:34.643Z"
+    },
+    "942": {
+      "id": 942,
+      "name": "maschiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-18T09:43:38.880Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T09:43:38.880Z",
+      "lastPulledAt": "2026-11-18T09:43:38.880Z"
     },
     "944": {
       "id": 944,

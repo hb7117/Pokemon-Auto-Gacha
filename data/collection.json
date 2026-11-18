@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 332,
-  "updatedAt": "2026-11-18T09:43:38.880Z",
+  "totalPulls": 333,
+  "updatedAt": "2026-11-18T18:25:47.297Z",
   "lastPull": {
-    "id": 942,
-    "name": "maschiff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+    "id": 66,
+    "name": "machop",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
     "types": [
-      "dark"
+      "fighting"
     ],
-    "totalStats": 340,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-11-18T09:43:38.880Z"
+    "pulledAt": "2026-11-18T18:25:47.297Z"
   },
   "pulls": [
+    {
+      "id": 66,
+      "name": "machop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-18T18:25:47.297Z"
+    },
     {
       "id": 942,
       "name": "maschiff",
@@ -116,18 +127,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-11-15T21:58:04.244Z"
-    },
-    {
-      "id": 1019,
-      "name": "hydrapple",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-11-15T17:21:14.975Z"
     }
   ],
   "pokemon": {
@@ -329,6 +328,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T07:24:00.812Z",
       "lastPulledAt": "2026-11-11T16:05:31.398Z"
+    },
+    "66": {
+      "id": 66,
+      "name": "machop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-18T18:25:47.297Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T18:25:47.297Z",
+      "lastPulledAt": "2026-11-18T18:25:47.297Z"
     },
     "74": {
       "id": 74,

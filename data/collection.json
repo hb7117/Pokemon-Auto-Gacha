@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 330,
-  "updatedAt": "2026-11-17T19:36:52.369Z",
+  "totalPulls": 331,
+  "updatedAt": "2026-11-18T01:51:32.705Z",
   "lastPull": {
-    "id": 744,
-    "name": "rockruff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
+    "id": 940,
+    "name": "wattrel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png",
     "types": [
-      "rock"
+      "electric",
+      "flying"
     ],
     "totalStats": 280,
     "grade": "N",
-    "pulledAt": "2026-11-17T19:36:52.369Z"
+    "pulledAt": "2026-11-18T01:51:32.705Z"
   },
   "pulls": [
+    {
+      "id": 940,
+      "name": "wattrel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-11-18T01:51:32.705Z"
+    },
     {
       "id": 744,
       "name": "rockruff",
@@ -117,18 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-15T10:28:05.959Z"
-    },
-    {
-      "id": 625,
-      "name": "bisharp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
-      "types": [
-        "dark",
-        "steel"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-15T02:56:24.035Z"
     }
   ],
   "pokemon": {
@@ -4316,6 +4317,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-08T02:42:45.844Z",
       "lastPulledAt": "2026-11-08T02:42:45.844Z"
+    },
+    "940": {
+      "id": 940,
+      "name": "wattrel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-11-18T01:51:32.705Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T01:51:32.705Z",
+      "lastPulledAt": "2026-11-18T01:51:32.705Z"
     },
     "941": {
       "id": 941,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 336,
-  "updatedAt": "2026-11-19T17:05:11.785Z",
+  "totalPulls": 337,
+  "updatedAt": "2026-11-19T23:31:46.292Z",
   "lastPull": {
-    "id": 115,
-    "name": "kangaskhan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "id": 407,
+    "name": "roserade",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
     "types": [
-      "normal"
+      "grass",
+      "poison"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-11-19T17:05:11.785Z"
+    "totalStats": 515,
+    "grade": "SR",
+    "pulledAt": "2026-11-19T23:31:46.292Z"
   },
   "pulls": [
+    {
+      "id": 407,
+      "name": "roserade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-11-19T23:31:46.292Z"
+    },
     {
       "id": 115,
       "name": "kangaskhan",
@@ -116,17 +129,6 @@
       "totalStats": 278,
       "grade": "N",
       "pulledAt": "2026-11-17T02:18:03.341Z"
-    },
-    {
-      "id": 824,
-      "name": "blipbug",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 180,
-      "grade": "N",
-      "pulledAt": "2026-11-16T18:53:55.912Z"
     }
   ],
   "pokemon": {
@@ -1940,6 +1942,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-12T07:07:57.091Z",
       "lastPulledAt": "2026-11-02T09:47:00.860Z"
+    },
+    "407": {
+      "id": 407,
+      "name": "roserade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-11-19T23:31:46.292Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T23:31:46.292Z",
+      "lastPulledAt": "2026-11-19T23:31:46.292Z"
     },
     "411": {
       "id": 411,

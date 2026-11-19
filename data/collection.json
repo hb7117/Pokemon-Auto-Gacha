@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 335,
-  "updatedAt": "2026-11-19T07:55:55.731Z",
+  "totalPulls": 336,
+  "updatedAt": "2026-11-19T17:05:11.785Z",
   "lastPull": {
-    "id": 423,
-    "name": "gastrodon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png",
+    "id": 115,
+    "name": "kangaskhan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
     "types": [
-      "water",
-      "ground"
+      "normal"
     ],
-    "totalStats": 475,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-11-19T07:55:55.731Z"
+    "pulledAt": "2026-11-19T17:05:11.785Z"
   },
   "pulls": [
+    {
+      "id": 115,
+      "name": "kangaskhan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-19T17:05:11.785Z"
+    },
     {
       "id": 423,
       "name": "gastrodon",
@@ -117,18 +127,6 @@
       "totalStats": 180,
       "grade": "N",
       "pulledAt": "2026-11-16T18:53:55.912Z"
-    },
-    {
-      "id": 40,
-      "name": "wigglytuff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
-      "types": [
-        "normal",
-        "fairy"
-      ],
-      "totalStats": 435,
-      "grade": "R",
-      "pulledAt": "2026-11-16T08:37:26.118Z"
     }
   ],
   "pokemon": {
@@ -577,10 +575,10 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-09-22T20:00:20.796Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T20:00:20.796Z",
-      "lastPulledAt": "2026-09-22T20:00:20.796Z"
+      "lastPulledAt": "2026-11-19T17:05:11.785Z"
     },
     "118": {
       "id": 118,

@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 334,
-  "updatedAt": "2026-11-19T00:38:36.357Z",
+  "totalPulls": 335,
+  "updatedAt": "2026-11-19T07:55:55.731Z",
   "lastPull": {
-    "id": 389,
-    "name": "torterra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png",
+    "id": 423,
+    "name": "gastrodon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png",
     "types": [
-      "grass",
+      "water",
       "ground"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-11-19T00:38:36.357Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-11-19T07:55:55.731Z"
   },
   "pulls": [
+    {
+      "id": 423,
+      "name": "gastrodon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-11-19T07:55:55.731Z"
+    },
     {
       "id": 389,
       "name": "torterra",
@@ -117,18 +129,6 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-11-16T08:37:26.118Z"
-    },
-    {
-      "id": 709,
-      "name": "trevenant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 474,
-      "grade": "R",
-      "pulledAt": "2026-11-16T01:42:57.217Z"
     }
   ],
   "pokemon": {
@@ -2017,10 +2017,10 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-07T23:52:31.153Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T23:52:31.153Z",
-      "lastPulledAt": "2026-10-07T23:52:31.153Z"
+      "lastPulledAt": "2026-11-19T07:55:55.731Z"
     },
     "424": {
       "id": 424,

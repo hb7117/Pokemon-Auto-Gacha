@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 333,
-  "updatedAt": "2026-11-18T18:25:47.297Z",
+  "totalPulls": 334,
+  "updatedAt": "2026-11-19T00:38:36.357Z",
   "lastPull": {
-    "id": 66,
-    "name": "machop",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+    "id": 389,
+    "name": "torterra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png",
     "types": [
-      "fighting"
+      "grass",
+      "ground"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-11-18T18:25:47.297Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-19T00:38:36.357Z"
   },
   "pulls": [
+    {
+      "id": 389,
+      "name": "torterra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png",
+      "types": [
+        "grass",
+        "ground"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-19T00:38:36.357Z"
+    },
     {
       "id": 66,
       "name": "machop",
@@ -116,17 +129,6 @@
       "totalStats": 474,
       "grade": "R",
       "pulledAt": "2026-11-16T01:42:57.217Z"
-    },
-    {
-      "id": 610,
-      "name": "axew",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-11-15T21:58:04.244Z"
     }
   ],
   "pokemon": {
@@ -1842,10 +1844,10 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-15T20:24:54.633Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T20:24:54.633Z",
-      "lastPulledAt": "2026-11-14T07:58:54.439Z"
+      "lastPulledAt": "2026-11-19T00:38:36.357Z"
     },
     "395": {
       "id": 395,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 337,
-  "updatedAt": "2026-11-19T23:31:46.292Z",
+  "totalPulls": 338,
+  "updatedAt": "2026-11-20T04:15:10.648Z",
   "lastPull": {
-    "id": 407,
-    "name": "roserade",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
+    "id": 433,
+    "name": "chingling",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png",
     "types": [
-      "grass",
-      "poison"
+      "psychic"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-11-19T23:31:46.292Z"
+    "totalStats": 285,
+    "grade": "N",
+    "pulledAt": "2026-11-20T04:15:10.648Z"
   },
   "pulls": [
+    {
+      "id": 433,
+      "name": "chingling",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-11-20T04:15:10.648Z"
+    },
     {
       "id": 407,
       "name": "roserade",
@@ -117,18 +127,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-11-17T10:50:57.405Z"
-    },
-    {
-      "id": 281,
-      "name": "kirlia",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 278,
-      "grade": "N",
-      "pulledAt": "2026-11-17T02:18:03.341Z"
     }
   ],
   "pokemon": {
@@ -2083,6 +2081,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-13T00:17:11.123Z",
       "lastPulledAt": "2026-11-13T00:17:11.123Z"
+    },
+    "433": {
+      "id": 433,
+      "name": "chingling",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-11-20T04:15:10.648Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-20T04:15:10.648Z",
+      "lastPulledAt": "2026-11-20T04:15:10.648Z"
     },
     "437": {
       "id": 437,

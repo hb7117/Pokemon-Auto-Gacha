@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 339,
-  "updatedAt": "2026-11-20T13:04:56.717Z",
+  "totalPulls": 340,
+  "updatedAt": "2026-11-20T21:01:27.948Z",
   "lastPull": {
-    "id": 920,
-    "name": "lokix",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
+    "id": 331,
+    "name": "cacnea",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png",
     "types": [
-      "bug",
-      "dark"
+      "grass"
     ],
-    "totalStats": 450,
-    "grade": "R",
-    "pulledAt": "2026-11-20T13:04:56.717Z"
+    "totalStats": 335,
+    "grade": "N",
+    "pulledAt": "2026-11-20T21:01:27.948Z"
   },
   "pulls": [
+    {
+      "id": 331,
+      "name": "cacnea",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-11-20T21:01:27.948Z"
+    },
     {
       "id": 920,
       "name": "lokix",
@@ -118,17 +128,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-11-18T01:51:32.705Z"
-    },
-    {
-      "id": 744,
-      "name": "rockruff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-11-17T19:36:52.369Z"
     }
   ],
   "pokemon": {
@@ -1598,10 +1597,10 @@
       "totalStats": 335,
       "grade": "N",
       "pulledAt": "2026-10-22T14:41:04.744Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T14:41:04.744Z",
-      "lastPulledAt": "2026-10-22T14:41:04.744Z"
+      "lastPulledAt": "2026-11-20T21:01:27.948Z"
     },
     "332": {
       "id": 332,

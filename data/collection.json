@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 341,
-  "updatedAt": "2026-11-21T02:08:27.530Z",
+  "totalPulls": 342,
+  "updatedAt": "2026-11-21T09:43:42.597Z",
   "lastPull": {
-    "id": 964,
-    "name": "palafin-zero",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
+    "id": 485,
+    "name": "heatran",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
     "types": [
-      "water"
+      "fire",
+      "steel"
     ],
-    "totalStats": 457,
-    "grade": "R",
-    "pulledAt": "2026-11-21T02:08:27.530Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-21T09:43:42.597Z"
   },
   "pulls": [
+    {
+      "id": 485,
+      "name": "heatran",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
+      "types": [
+        "fire",
+        "steel"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-21T09:43:42.597Z"
+    },
     {
       "id": 964,
       "name": "palafin-zero",
@@ -116,17 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-11-18T18:25:47.297Z"
-    },
-    {
-      "id": 942,
-      "name": "maschiff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-11-18T09:43:38.880Z"
     }
   ],
   "pokemon": {
@@ -2315,6 +2317,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T01:53:07.271Z",
       "lastPulledAt": "2026-10-21T17:54:10.460Z"
+    },
+    "485": {
+      "id": 485,
+      "name": "heatran",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
+      "types": [
+        "fire",
+        "steel"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-21T09:43:42.597Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T09:43:42.597Z",
+      "lastPulledAt": "2026-11-21T09:43:42.597Z"
     },
     "486": {
       "id": 486,

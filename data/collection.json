@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 340,
-  "updatedAt": "2026-11-20T21:01:27.948Z",
+  "totalPulls": 341,
+  "updatedAt": "2026-11-21T02:08:27.530Z",
   "lastPull": {
-    "id": 331,
-    "name": "cacnea",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png",
+    "id": 964,
+    "name": "palafin-zero",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
     "types": [
-      "grass"
+      "water"
     ],
-    "totalStats": 335,
-    "grade": "N",
-    "pulledAt": "2026-11-20T21:01:27.948Z"
+    "totalStats": 457,
+    "grade": "R",
+    "pulledAt": "2026-11-21T02:08:27.530Z"
   },
   "pulls": [
+    {
+      "id": 964,
+      "name": "palafin-zero",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 457,
+      "grade": "R",
+      "pulledAt": "2026-11-21T02:08:27.530Z"
+    },
     {
       "id": 331,
       "name": "cacnea",
@@ -116,18 +127,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-11-18T09:43:38.880Z"
-    },
-    {
-      "id": 940,
-      "name": "wattrel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png",
-      "types": [
-        "electric",
-        "flying"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-11-18T01:51:32.705Z"
     }
   ],
   "pokemon": {
@@ -4519,6 +4518,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-27T14:38:37.140Z",
       "lastPulledAt": "2026-10-27T14:38:37.140Z"
+    },
+    "964": {
+      "id": 964,
+      "name": "palafin-zero",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 457,
+      "grade": "R",
+      "pulledAt": "2026-11-21T02:08:27.530Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T02:08:27.530Z",
+      "lastPulledAt": "2026-11-21T02:08:27.530Z"
     },
     "965": {
       "id": 965,

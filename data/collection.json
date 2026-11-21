@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 342,
-  "updatedAt": "2026-11-21T09:43:42.597Z",
+  "totalPulls": 343,
+  "updatedAt": "2026-11-21T16:58:49.463Z",
   "lastPull": {
-    "id": 485,
-    "name": "heatran",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
+    "id": 297,
+    "name": "hariyama",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
     "types": [
-      "fire",
-      "steel"
+      "fighting"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-21T09:43:42.597Z"
+    "totalStats": 474,
+    "grade": "R",
+    "pulledAt": "2026-11-21T16:58:49.463Z"
   },
   "pulls": [
+    {
+      "id": 297,
+      "name": "hariyama",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-11-21T16:58:49.463Z"
+    },
     {
       "id": 485,
       "name": "heatran",
@@ -118,17 +128,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-19T00:38:36.357Z"
-    },
-    {
-      "id": 66,
-      "name": "machop",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-11-18T18:25:47.297Z"
     }
   ],
   "pokemon": {
@@ -1462,6 +1461,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-17T02:18:03.341Z",
       "lastPulledAt": "2026-11-17T02:18:03.341Z"
+    },
+    "297": {
+      "id": 297,
+      "name": "hariyama",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-11-21T16:58:49.463Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T16:58:49.463Z",
+      "lastPulledAt": "2026-11-21T16:58:49.463Z"
     },
     "300": {
       "id": 300,

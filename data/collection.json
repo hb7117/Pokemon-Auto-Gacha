@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 347,
-  "updatedAt": "2026-11-22T17:25:51.274Z",
+  "totalPulls": 348,
+  "updatedAt": "2026-11-22T22:40:46.515Z",
   "lastPull": {
-    "id": 529,
-    "name": "drilbur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+    "id": 819,
+    "name": "skwovet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
     "types": [
-      "ground"
+      "normal"
     ],
-    "totalStats": 328,
+    "totalStats": 275,
     "grade": "N",
-    "pulledAt": "2026-11-22T17:25:51.274Z"
+    "pulledAt": "2026-11-22T22:40:46.515Z"
   },
   "pulls": [
+    {
+      "id": 819,
+      "name": "skwovet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-11-22T22:40:46.515Z"
+    },
     {
       "id": 529,
       "name": "drilbur",
@@ -115,17 +126,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-11-20T13:04:56.717Z"
-    },
-    {
-      "id": 433,
-      "name": "chingling",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 285,
-      "grade": "N",
-      "pulledAt": "2026-11-20T04:15:10.648Z"
     }
   ],
   "pokemon": {
@@ -3955,6 +3955,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T17:59:09.174Z",
       "lastPulledAt": "2026-10-08T17:59:09.174Z"
+    },
+    "819": {
+      "id": 819,
+      "name": "skwovet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-11-22T22:40:46.515Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T22:40:46.515Z",
+      "lastPulledAt": "2026-11-22T22:40:46.515Z"
     },
     "824": {
       "id": 824,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 345,
-  "updatedAt": "2026-11-22T02:10:08.749Z",
+  "totalPulls": 346,
+  "updatedAt": "2026-11-22T09:45:21.903Z",
   "lastPull": {
-    "id": 444,
-    "name": "gabite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+    "id": 394,
+    "name": "prinplup",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
     "types": [
-      "dragon",
-      "ground"
+      "water"
     ],
-    "totalStats": 410,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-11-22T02:10:08.749Z"
+    "pulledAt": "2026-11-22T09:45:21.903Z"
   },
   "pulls": [
+    {
+      "id": 394,
+      "name": "prinplup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-22T09:45:21.903Z"
+    },
     {
       "id": 444,
       "name": "gabite",
@@ -117,17 +127,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-11-19T23:31:46.292Z"
-    },
-    {
-      "id": 115,
-      "name": "kangaskhan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-19T17:05:11.785Z"
     }
   ],
   "pokemon": {
@@ -1862,6 +1861,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T20:24:54.633Z",
       "lastPulledAt": "2026-11-19T00:38:36.357Z"
+    },
+    "394": {
+      "id": 394,
+      "name": "prinplup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-22T09:45:21.903Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T09:45:21.903Z",
+      "lastPulledAt": "2026-11-22T09:45:21.903Z"
     },
     "395": {
       "id": 395,

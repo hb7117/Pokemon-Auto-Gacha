@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 348,
-  "updatedAt": "2026-11-22T22:40:46.515Z",
+  "totalPulls": 349,
+  "updatedAt": "2026-11-23T03:11:42.018Z",
   "lastPull": {
-    "id": 819,
-    "name": "skwovet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+    "id": 196,
+    "name": "espeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
     "types": [
-      "normal"
+      "psychic"
     ],
-    "totalStats": 275,
-    "grade": "N",
-    "pulledAt": "2026-11-22T22:40:46.515Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-23T03:11:42.018Z"
   },
   "pulls": [
+    {
+      "id": 196,
+      "name": "espeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-23T03:11:42.018Z"
+    },
     {
       "id": 819,
       "name": "skwovet",
@@ -114,18 +125,6 @@
       "totalStats": 335,
       "grade": "N",
       "pulledAt": "2026-11-20T21:01:27.948Z"
-    },
-    {
-      "id": 920,
-      "name": "lokix",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
-      "types": [
-        "bug",
-        "dark"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-11-20T13:04:56.717Z"
     }
   ],
   "pokemon": {
@@ -996,6 +995,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:43:10.334Z",
       "lastPulledAt": "2026-09-22T01:43:10.334Z"
+    },
+    "196": {
+      "id": 196,
+      "name": "espeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-23T03:11:42.018Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T03:11:42.018Z",
+      "lastPulledAt": "2026-11-23T03:11:42.018Z"
     },
     "199": {
       "id": 199,

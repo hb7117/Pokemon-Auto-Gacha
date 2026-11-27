@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 360,
-  "updatedAt": "2026-11-27T04:57:35.699Z",
+  "totalPulls": 361,
+  "updatedAt": "2026-11-27T14:49:11.787Z",
   "lastPull": {
-    "id": 182,
-    "name": "bellossom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
+    "id": 143,
+    "name": "snorlax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
     "types": [
-      "grass"
+      "normal"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-11-27T04:57:35.699Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-11-27T14:49:11.787Z"
   },
   "pulls": [
+    {
+      "id": 143,
+      "name": "snorlax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-11-27T14:49:11.787Z"
+    },
     {
       "id": 182,
       "name": "bellossom",
@@ -118,18 +129,6 @@
       "totalStats": 436,
       "grade": "R",
       "pulledAt": "2026-11-24T10:28:33.416Z"
-    },
-    {
-      "id": 698,
-      "name": "amaura",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
-      "types": [
-        "rock",
-        "ice"
-      ],
-      "totalStats": 362,
-      "grade": "N",
-      "pulledAt": "2026-11-24T00:46:17.797Z"
     }
   ],
   "pokemon": {
@@ -731,10 +730,10 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-11-14T23:25:22.994Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-14T23:25:22.994Z",
-      "lastPulledAt": "2026-11-14T23:25:22.994Z"
+      "lastPulledAt": "2026-11-27T14:49:11.787Z"
     },
     "146": {
       "id": 146,

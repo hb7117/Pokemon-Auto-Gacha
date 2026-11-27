@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 359,
-  "updatedAt": "2026-11-26T23:05:29.133Z",
+  "totalPulls": 360,
+  "updatedAt": "2026-11-27T04:57:35.699Z",
   "lastPull": {
-    "id": 1018,
-    "name": "archaludon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png",
+    "id": 182,
+    "name": "bellossom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
     "types": [
-      "steel",
-      "dragon"
+      "grass"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-26T23:05:29.133Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-11-27T04:57:35.699Z"
   },
   "pulls": [
+    {
+      "id": 182,
+      "name": "bellossom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-27T04:57:35.699Z"
+    },
     {
       "id": 1018,
       "name": "archaludon",
@@ -120,18 +130,6 @@
       "totalStats": 362,
       "grade": "N",
       "pulledAt": "2026-11-24T00:46:17.797Z"
-    },
-    {
-      "id": 267,
-      "name": "beautifly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-11-23T13:05:31.049Z"
     }
   ],
   "pokemon": {
@@ -970,6 +968,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T17:48:40.864Z",
       "lastPulledAt": "2026-09-27T17:48:40.864Z"
+    },
+    "182": {
+      "id": 182,
+      "name": "bellossom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-27T04:57:35.699Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T04:57:35.699Z",
+      "lastPulledAt": "2026-11-27T04:57:35.699Z"
     },
     "194": {
       "id": 194,

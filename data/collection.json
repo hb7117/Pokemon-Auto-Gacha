@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 361,
-  "updatedAt": "2026-11-27T14:49:11.787Z",
+  "totalPulls": 362,
+  "updatedAt": "2026-11-27T23:01:09.454Z",
   "lastPull": {
-    "id": 143,
-    "name": "snorlax",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "id": 753,
+    "name": "fomantis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
     "types": [
-      "normal"
+      "grass"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-11-27T14:49:11.787Z"
+    "totalStats": 250,
+    "grade": "N",
+    "pulledAt": "2026-11-27T23:01:09.454Z"
   },
   "pulls": [
+    {
+      "id": 753,
+      "name": "fomantis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-11-27T23:01:09.454Z"
+    },
     {
       "id": 143,
       "name": "snorlax",
@@ -117,18 +128,6 @@
       "totalStats": 446,
       "grade": "R",
       "pulledAt": "2026-11-24T20:48:41.491Z"
-    },
-    {
-      "id": 877,
-      "name": "morpeko-full-belly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png",
-      "types": [
-        "electric",
-        "dark"
-      ],
-      "totalStats": 436,
-      "grade": "R",
-      "pulledAt": "2026-11-24T10:28:33.416Z"
     }
   ],
   "pokemon": {
@@ -3769,10 +3768,10 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-11-17T10:50:57.405Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-17T10:50:57.405Z",
-      "lastPulledAt": "2026-11-17T10:50:57.405Z"
+      "lastPulledAt": "2026-11-27T23:01:09.454Z"
     },
     "756": {
       "id": 756,
